@@ -2,7 +2,7 @@
 
 #EXTINF:-1,***** SKY *****
 
-
+#EXTINF:-1 group-title="SKY"
 #EXTINF:-1,DE | SKY SELECT 1
 http://sutverduz.com:8080/live/teesssttt312/lo2ujyt3hy8bf/1495.ts
 #EXTINF:-1,DE | SKY SELECT 2HD
@@ -91,7 +91,7 @@ http://cp.dmbshare.net:8000/live/drew/drew/7891.ts
 
 
 
-
+#EXTINF:-1 group-title="DEUTSCH"
 #EXTINF:-1,DE:MGM
 http://cp.dmbshare.net:8000/live/drew/drew/7908.ts
 #EXTINF:-1,DE:Kika.HD
@@ -316,7 +316,7 @@ http://sutverduz.com:8080/live/teesssttt312/lo2ujyt3hy8bf/2631.ts
 http://sutverduz.com:8080/live/teesssttt312/lo2ujyt3hy8bf/2632.ts
 #EXTINF:-1,DE | A&E
 
-
+#EXTINF:-1 group-title="SINEMA"
 #EXTINF:-1,***** SINEMA *****
 #EXTINF:-1,TR | FILMBOX HD-D-Smart
 http://sutverduz.com:8080/live/teesssttt312/lo2ujyt3hy8bf/1821.ts
@@ -414,7 +414,7 @@ http://cp.dmbshare.net:8000/live/drew/drew/8557.ts
 
 
 #EXTINF:-1,***** TURKISH *****
-
+#EXTINF:-1 group-title="TÜRK"
 
 #EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
 http://sutverduz.com:8080/live/teesssttt312/lo2ujyt3hy8bf/1825.ts
@@ -651,7 +651,7 @@ http://cp.dmbshare.net:8000/live/drew/drew/8579.ts
 
 
 #EXTINF:-1,***** SPORT *****
-
+#EXTINF:-1 group-title="SPORT"
 
 #EXTINF:-1,TR I LIG TV HD
 http://sutverduz.com:8080/live/teesssttt312/lo2ujyt3hy8bf/49.ts
