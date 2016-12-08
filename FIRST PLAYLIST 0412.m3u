@@ -3,7 +3,7 @@
 #EXTINF:-1,***** SKY *****
 
 
-#EXTINF:-1,DE |group-title="SKY"
+#EXTINF:-1,DE:group-title="SKY",SKY
 #EXTINF:-1,DE: Sky Select 1
 http://ipsatpro.com:8000/live/Idriss/Idriss/825.ts
 #EXTINF:-1,DE: Sky Select 2
