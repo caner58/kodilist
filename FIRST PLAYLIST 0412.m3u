@@ -35,82 +35,46 @@ http://ipsatpro.com:8000/live/Idriss/Idriss/799.ts
 #EXTINF:-1,DE: Sky HITS
 http://ipsatpro.com:8000/live/Idriss/Idriss/802.ts
 #EXTINF:-1,DE | ATV-A
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1430.ts
-#EXTINF:-1,***** GERMANY *****
-
-
-
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1430.ts
+#EXTINF:-1,DE | Fox hd
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1522.ts
 
 #EXTINF:-1 group-title="DEUTSCH"
 #EXTINF:-1,DE:group-title="Deutsch",Deutsch
+#EXTINF:-1,DE | Kika.
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1429.ts
 #EXTINF:-1,DE | PRO7_MAXX
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1506.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1506.ts
 #EXTINF:-1,DE | Pro7
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1507.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1507.ts
 #EXTINF:-1,DE | Sat1
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1426.ts
-#EXTINF:-1,DE | VOX.
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1423.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1426.ts
+#EXTINF:-1,DE | NatGeo Wild
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1411.t
 #EXTINF:-1,DE | SAT 1.
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1418.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1418.ts
 #EXTINF:-1,DE | PRO 7.
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1428.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1428.ts
 #EXTINF:-1,DE | SuperRTL
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1419.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1419.ts
 #EXTINF:-1,DE | RTL HD uuu
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1420.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1420.ts
 #EXTINF:-1,DE | ZDF.
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1422.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1422.ts
 #EXTINF:-1,DE | RTL II
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1427.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1427.ts
 #EXTINF:-1,DE | Prosieben
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1409.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1409.ts
 #EXTINF:-1,DE | RTL HD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1513.ts
-#EXTINF:-1,DE | RTL_CRIME
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1509.ts
-#EXTINF:-1,DE | Fox hd
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1522.ts
-#EXTINF:-1,DE | VOX
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1514.ts
-#EXTINF:-1,DE | WDRHD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1480.ts
-#EXTINF:-1,DE | ZDF
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1515.ts
-#EXTINF:-1,DE | ORF2
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1517.ts
-#EXTINF:-1,DE | D MAX HD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1518.ts
-#EXTINF:-1,DE | HISTORY CHANNEL HD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1497.ts
-#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1498.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1513.ts
 #EXTINF:-1,DE | RTL2 HD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1512.ts
-#EXTINF:-1,DE | TNT Serie HD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1520.ts
-#EXTINF:-1,DE | NATGEOWILD HD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1499.ts
-#EXTINF:-1,DE | ARD HD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1500.ts
-#EXTINF:-1,DE | ARD TV
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1516.ts
-#EXTINF:-1,DE | Disney_Junior
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1501.ts
-#EXTINF:-1,DE | Disney_XD
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1502.ts
-#EXTINF:-1,DE | NICK_JR
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1504.ts
-#EXTINF:-1,DE | SYFY
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1521.ts
-#EXTINF:-1,DE | WDR.
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1505.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1512.ts
 #EXTINF:-1,DE | RTL_NITRO
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1511.ts
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1511.ts
 #EXTINF:-1,DE | SIXX.
-http://sutverduz.com:8080/live/cartesttt/VY7S5AUjLU/1519.ts
-
-
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/1519.ts
+#EXTINF:-1,DE | KabelEins
+http://sutverduz.com:8080/live/pertesttt/r9XcJgTBlv/2627.ts
 
 #EXTINF:-1,***** SINEMA *****
 #EXTINF:-1,TR |group-title="SINEMA",Sinema
