@@ -1,152 +1,18 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,***** SKY *****
 
-#EXTINF:-1,TR | LIGTV 1 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/135.ts
-#EXTINF:-1,TR | LIG TV 2 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/134.ts
-#EXTINF:-1,TR | LIG TV 3 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/133.ts
-#EXTINF:-1,TR | LIGTV 4 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/132.ts
-#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/2785.ts
-#EXTINF:-1,TR I LIG TV HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/49.ts
-#EXTINF:-1,TR I LIG TV 1  HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/3150.ts
-#EXTINF:-1,TR | VIP CHANNEL HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/131.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/130.ts
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/87.ts
-#EXTINF:-1,TR | TIVIBU SPOR HD 2
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/88.ts
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/126.ts
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/125.ts
-#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/85.ts
-#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/86.ts
-#EXTINF:-1,TR | NBA TV HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/89.ts
-#EXTINF:-1,AR | BEIN SPORT 1 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/3195.ts
-#EXTINF:-1,AR | BEIN SPORT 2 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/3196.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1839.ts
-#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1824.ts
-#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/103.ts
-#EXTINF:-1,TR | SALON 1 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/129.ts
-#EXTINF:-1,TR | SALON 2  HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/128.ts
-#EXTINF:-1,TR | SALON 3 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/127.ts
-#EXTINF:-1,TR I SALON 3D HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/3108.ts
-#EXTINF:-1,TR | LOCA 1 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/121.ts
-#EXTINF:-1,TR | LOCA 2 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/120.ts
-#EXTINF:-1,TR | LOCA 3 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/119.ts
-#EXTINF:-1,TR | MOVIEMAX TURK HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/117.ts
-#EXTINF:-1,TR | VIP CHANNEL TURK HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/124.ts
-#EXTINF:-1,TR | YESILCAM 1 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/123.ts
-#EXTINF:-1,TR | YESILCAM 2 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/122.ts
-#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1823.ts
-#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/118.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1820.ts
-#EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1833.ts
-#EXTINF:-1,TR | Movie Platin 2 HD DSMART
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1838.ts
-#EXTINF:-1,TR I DIZIMAX COMEDY HD ( DIGITURK )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/4269.ts
-#EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1842.ts
-#EXTINF:-1,TR | DIZISMART PLATIN DSMART
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/107.ts
-#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/109.ts
-#EXTINF:-1,TR | DIZI TV HD FILBOX
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/106.ts
-#EXTINF:-1,TR | FIL TV(FILBOX)
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1827.ts
-#EXTINF:-1,TR | MOVIE FAMILY DSMART
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1829.ts
-#EXTINF:-1,TR | MOVIE GOLD DSMART
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1830.ts
-#EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1831.ts
-#EXTINF:-1,TR | FILMBOX HD-D-Smart
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1821.ts
-#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/2787.ts
-#EXTINF:-1,TR | SINEMA TV ( FILBOX)
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1826.ts
-#EXTINF:-1,TR | Sinetivi HD FILBOX
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1832.ts
-#EXTINF:-1,TR | SINE TV HD ( TIVIBU )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/113.ts
-#EXTINF:-1,TR | TRT BELGESEL HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/71.ts
-#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1822.ts
-#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/102.ts
-#EXTINF:-1,TR | BBC Earth HD-dsmart
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/100.ts
-#EXTINF:-1,TR | National Geographic Wild
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1837.ts
-#EXTINF:-1,TR I History HD TR ( DIGITURK )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/101.ts
-#EXTINF:-1,TR | Animal Planet
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1836.ts
-#EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/1825.ts
-#EXTINF:-1,TR | IZ TV ( DIJITURK )
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/4259.ts
-#EXTINF:-1,TR | YABAN TV
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/50.ts
-#EXTINF:-1,TR | VIP CHANNEL 2 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/115.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/110.ts
-#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/108.ts
-#EXTINF:-1,TR | MOVIEMAX FESTIVAL HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/105.ts
-#EXTINF:-1,TR | MOVIEMAX FAMILY HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/111.ts
-#EXTINF:-1,TR | MOVIEMAX COMEDY HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/104.ts
-#EXTINF:-1,TR | MOVIEMAX STARS HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/112.ts
-#EXTINF:-1,TR | FILM TV HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/116.ts
-#EXTINF:-1,TR | TRT 1
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/94.ts
-#EXTINF:-1,TR | TRT 1 HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/77.ts
-#EXTINF:-1,TR | SHOW TV
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/90.ts
-#EXTINF:-1,TR | SHOW TV HD
-http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/63.ts
+
+#EXTINF:-1,DE:group-title="SKY",SKY
+#EXTINF:-1,DE | SKY MGM HD
+http://sutverduz.com:8080/live/t1e2s1t2/a0fBAlXpaM/1399.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
+http://sutverduz.com:8080/live/t1e2s1t2/a0fBAlXpaM/1431.ts
+#EXTINF:-1,DE | ATV-A
+#EXTINF:-1,DE | SKY KRIMI HD
+http://sutverduz.com:8080/live/t1e2s1t2/a0fBAlXpaM/1400.ts
+#EXTINF:-1,DE | SkyHits
+http://sutverduz.com:8080/live/t1e2s1t2/a0fBAlXpaM/1401.ts
 #EXTINF:-1,TR | STAR TV
 http://borcamsat.co:8080/live/Tm894xReIh/81MCRcKNWr/91.ts
 #EXTINF:-1,TR | STAR TV HD
