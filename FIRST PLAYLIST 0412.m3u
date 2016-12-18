@@ -4,435 +4,512 @@
 
 
 #EXTINF:-1,DE:group-title="SKY",SKY
-#EXTINF:-1,DE: Sky Select 1 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5569.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5567.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5566.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5565.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5564.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5563.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5562.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5561.ts
-#EXTINF:-1,DE: Sky Select 9 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5560.ts
-#EXTINF:-1,DE: Sky Select 10 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5568.ts
-#EXTINF:-1,[DE]Sky Passion HD  DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5799.ts
-#EXTINF:-1,[DE]Sky Krimi DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5801.ts
-#EXTINF:-1,[DE]SKY Junior DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5843.ts
-#EXTINF:-1,[DE]Sky Hits [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5793.ts
-#EXTINF:-1,[DE]Sky Hits SD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5794.ts
-#EXTINF:-1,[DE]Sky History DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5865.ts
-#EXTINF:-1,[DE]Sky Fox HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5851.ts
-#EXTINF:-1,[DE]Sky Emotion DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5800.ts
-#EXTINF:-1,[DE]Sky Disney XD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5835.ts
-#EXTINF:-1,[DE]Sky Disney Channel DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5838.ts
-#EXTINF:-1,[DE]Sky Comedy DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5796.ts
-#EXTINF:-1,[DE]Sky Cinema DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5788.ts
-#EXTINF:-1,[DE]Sky Cinema  24 SD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5792.ts
-#EXTINF:-1,[DE]Sky Cinema  24 HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5791.ts
-#EXTINF:-1,[DE]SKY Cinema  1 SD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5790.ts
-#EXTINF:-1,[DE]Sky Cinema  1 HD  DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5789.ts
-#EXTINF:-1,[DE]Sky Axn [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5848.ts
-#EXTINF:-1,[DE]Sky Atlantic DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5797.ts
-#EXTINF:-1,[DE]Sky Atlantic  1 HD (DE)
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5798.ts
-#EXTINF:-1,[DE]Sky Action HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5795.ts
+
+#EXTINF:-1,DE | SKY SELECT 1
+http://satterm.com:8080/live/dieter1/251116/1495.ts
+#EXTINF:-1,DE | SKY SELECT 2HD
+http://satterm.com:8080/live/dieter1/251116/1494.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://satterm.com:8080/live/dieter1/251116/1493.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://satterm.com:8080/live/dieter1/251116/1492.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://satterm.com:8080/live/dieter1/251116/1491.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://satterm.com:8080/live/dieter1/251116/1490.ts
+#EXTINF:-1,DE | Sky Select 7HD
+http://satterm.com:8080/live/dieter1/251116/1489.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://satterm.com:8080/live/dieter1/251116/1488.ts
+#EXTINF:-1,DE | SKY CINEMA1 HD
+http://satterm.com:8080/live/dieter1/251116/1406.ts
+#EXTINF:-1,DE | SKY COMEDY HD
+http://satterm.com:8080/live/dieter1/251116/1407.ts
+#EXTINF:-1,DE | SKY CINEMA HD
+http://satterm.com:8080/live/dieter1/251116/1408.ts
+#EXTINF:-1,DE | SkyAction
+http://satterm.com:8080/live/dieter1/251116/1404.ts
+#EXTINF:-1,DE | SkyAtlantic
+http://satterm.com:8080/live/dieter1/251116/1403.ts
+#EXTINF:-1,DE | SkyCinema24
+http://satterm.com:8080/live/dieter1/251116/1405.ts
+#EXTINF:-1,DE | SKY TNT SERIES HD
+http://satterm.com:8080/live/dieter1/251116/2625.ts
+#EXTINF:-1,DE | SKY TNT FILME HD
+http://satterm.com:8080/live/dieter1/251116/2624.ts
+#EXTINF:-1,DE | SkyCinema
+http://satterm.com:8080/live/dieter1/251116/1425.ts
+#EXTINF:-1,DE | SKY Comedy one
+http://satterm.com:8080/live/dieter1/251116/1432.ts
+#EXTINF:-1,DE | SKY CINEMA +1
+http://satterm.com:8080/live/dieter1/251116/1410.ts
+#EXTINF:-1,DE | SKY KRIMI HD
+http://satterm.com:8080/live/dieter1/251116/1400.ts
+#EXTINF:-1,DE | SkyHits
+http://satterm.com:8080/live/dieter1/251116/1401.ts
+#EXTINF:-1,DE | SKY EMOTION
+http://satterm.com:8080/live/dieter1/251116/1473.ts
+#EXTINF:-1,DE | ROMANCE
+http://satterm.com:8080/live/dieter1/251116/1475.ts
+#EXTINF:-1,DE | SkyNostalgie
+http://satterm.com:8080/live/dieter1/251116/1476.ts
+
 
 
 #EXTINF:-1,***** DEUTSCH *****
 
 #EXTINF:-1,DE:group-title="Deutsch",Deutsch
-#EXTINF:-1,[DE]ARD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5761.ts
-#EXTINF:-1,[DE]3 Sat HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5763.ts
-#EXTINF:-1,[DE]13 Street HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5775.ts
-#EXTINF:-1,[DE]Kabel 1 [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5772.ts
-#EXTINF:-1,[DE]Kino Welt TV
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5866.ts
-#EXTINF:-1,[DE]Kika [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5842.ts
-#EXTINF:-1,[DE]RTL Passion
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5769.ts
-#EXTINF:-1,[DE]RTL HD [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5766.ts
-#EXTINF:-1,[DE]RTL Crime
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5768.ts
-#EXTINF:-1,[DE]RTL 2 HD [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5767.ts
-#EXTINF:-1,[DE]Romance TV DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5784.ts
-#EXTINF:-1,[DE]Pro 7 [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5770.ts
-#EXTINF:-1,[DE]Pro 7 Maxx DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5771.ts
-#EXTINF:-1,[DE]ORF 2 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5777.ts
-#EXTINF:-1,[DE]ORF 1 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5776.ts
-#EXTINF:-1,[DE]Sixx
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5773.ts
-#EXTINF:-1,[DE]SF Info
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5782.ts
-#EXTINF:-1,[DE]SF 2
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5781.ts
-#EXTINF:-1,[DE]SF 1
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5780.ts
-#EXTINF:-1,[DE]Servus TV HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5783.ts
-#EXTINF:-1,[DE]Sat 1
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5765.ts
-#EXTINF:-1,[DE]N-TV DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5785.ts
-#EXTINF:-1,[DE]MTV Germany
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5786.ts
-#EXTINF:-1,[DE]ZDF HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5762.ts
-#EXTINF:-1,[DE]wdr [de]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5856.ts
-#EXTINF:-1,[DE]Vox HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5764.ts
-#EXTINF:-1,[DE]Universal HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5855.ts
-#EXTINF:-1,[DE]TNT Serie HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5804.ts
-#EXTINF:-1,[DE]TNT Film
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5803.ts
-#EXTINF:-1,[DE]Tageschau 24
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5858.ts
-#EXTINF:-1,[DE]SyFy HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5802.ts
-#EXTINF:-1,[DE]SWR HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5854.ts
-#EXTINF:-1,[DE]Super RTL
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5845.ts
-#EXTINF:-1,[DE]SRF 2 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5779.ts
-#EXTINF:-1,[DE]SRF 1 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5778.ts
-#EXTINF:-1,[DE]Nickelodeon [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5844.ts
-#EXTINF:-1,[DE]NDR HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5860.ts
-#EXTINF:-1,[DE]National Geographic DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5864.ts
-#EXTINF:-1,[DE]Nat Geo Wild DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5863.ts
-#EXTINF:-1,[DE]N24 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5859.ts
-#EXTINF:-1,[DE]Motorvision TV SD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5852.ts
-#EXTINF:-1,[DE]MGM HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5805.ts
-#EXTINF:-1,[DE]History Channel HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5862.ts
-#EXTINF:-1,[DE]Heimatkanal DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5774.ts
-#EXTINF:-1,[DE]Eurosport HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5822.ts
-#EXTINF:-1,[DE]Dmax [DE]
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5850.ts
-#EXTINF:-1,[DE]Disney Junior DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5841.ts
-#EXTINF:-1,[DE]Disney CinemaMagic DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5839.ts
-#EXTINF:-1,[DE]Disney Channel DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5840.ts
-#EXTINF:-1,[DE]Discovery Channel HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5867.ts
-#EXTINF:-1,[DE]Classica DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5849.ts
-#EXTINF:-1,[DE]Cartoon Network DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5837.ts
-#EXTINF:-1,[DE]Boomerang DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5836.ts
-#EXTINF:-1,[DE]Arte HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5847.ts
-#EXTINF:-1,[DE]Animal Planet DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5868.ts
 
+#EXTINF:-1,DE | ATV-A
+http://satterm.com:8080/live/dieter1/251116/1430.ts
+#EXTINF:-1,DE | Kika.
+http://satterm.com:8080/live/dieter1/251116/1429.ts
+#EXTINF:-1,DE | PRO7_MAXX
+http://satterm.com:8080/live/dieter1/251116/1506.ts
+#EXTINF:-1,DE | Pro7
+http://satterm.com:8080/live/dieter1/251116/1507.ts
+s
+#EXTINF:-1,DE | RTL_LIVING
+http://satterm.com:8080/live/dieter1/251116/1508.ts
+
+#EXTINF:-1,DE | NatGeo Wild
+http://satterm.com:8080/live/dieter1/251116/1411.ts
+
+#EXTINF:-1,DE | 13Street
+http://satterm.com:8080/live/dieter1/251116/1402.ts
+#EXTINF:-1,DE | Sat1
+http://satterm.com:8080/live/dieter1/251116/1426.ts
+
+#EXTINF:-1,DE | ORF1
+http://satterm.com:8080/live/dieter1/251116/1421.ts
+#EXTINF:-1,DE | VOX.
+http://satterm.com:8080/live/dieter1/251116/1423.ts
+
+#EXTINF:-1,DE | SAT 1.
+http://satterm.com:8080/live/dieter1/251116/1418.ts
+#EXTINF:-1,DE | PRO 7.
+http://satterm.com:8080/live/dieter1/251116/1428.ts
+#EXTINF:-1,DE | SuperRTL
+http://satterm.com:8080/live/dieter1/251116/1419.ts
+#EXTINF:-1,DE | RTL HD uuu
+http://satterm.com:8080/live/dieter1/251116/1420.ts
+#EXTINF:-1,DE | ZDF.
+http://satterm.com:8080/live/dieter1/251116/1422.ts
+#EXTINF:-1,DE | RTL II
+http://satterm.com:8080/live/dieter1/251116/1427.ts
+#EXTINF:-1,DE | Prosieben
+http://satterm.com:8080/live/dieter1/251116/1409.ts
+
+#EXTINF:-1,DE | RTL HD
+http://satterm.com:8080/live/dieter1/251116/1513.ts
+
+#EXTINF:-1,DE | NDR HD
+http://satterm.com:8080/live/dieter1/251116/1477.ts
+#EXTINF:-1,DE | RTL_CRIME
+http://satterm.com:8080/live/dieter1/251116/1509.ts
+#EXTINF:-1,DE | Fox hd
+http://satterm.com:8080/live/dieter1/251116/1522.ts
+#EXTINF:-1,DE | AXN.
+http://satterm.com:8080/live/dieter1/251116/1523.ts
+#EXTINF:-1,DE | Sat1 HD
+http://satterm.com:8080/live/dieter1/251116/1510.ts
+#EXTINF:-1,DE | Srf1
+http://satterm.com:8080/live/dieter1/251116/1472.ts
+#EXTINF:-1,DE | N TV.
+http://satterm.com:8080/live/dieter1/251116/1474.ts
+
+#EXTINF:-1,DE | Eurosport HD
+http://satterm.com:8080/live/dieter1/251116/1478.ts
+#EXTINF:-1,DE | WDRHD
+http://satterm.com:8080/live/dieter1/251116/1480.ts
+
+#EXTINF:-1,DE | ZDF
+http://satterm.com:8080/live/dieter1/251116/1515.ts
+#EXTINF:-1,DE | ORF2
+http://satterm.com:8080/live/dieter1/251116/1517.ts
+#EXTINF:-1,DE | D MAX HD
+http://satterm.com:8080/live/dieter1/251116/1518.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://satterm.com:8080/live/dieter1/251116/1497.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://satterm.com:8080/live/dieter1/251116/1498.ts
+#EXTINF:-1,DE | RTL2 HD
+http://satterm.com:8080/live/dieter1/251116/1512.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://satterm.com:8080/live/dieter1/251116/1520.ts
+#EXTINF:-1,DE | NATGEOWILD HD
+http://satterm.com:8080/live/dieter1/251116/1499.ts
+#EXTINF:-1,DE | ARD HD
+http://satterm.com:8080/live/dieter1/251116/1500.ts
+#EXTINF:-1,DE | ARD TV
+http://satterm.com:8080/live/dieter1/251116/1516.ts
+#EXTINF:-1,DE | Disney_Junior
+http://satterm.com:8080/live/dieter1/251116/1501.ts
+#EXTINF:-1,DE | Disney_XD
+http://satterm.com:8080/live/dieter1/251116/1502.ts
+#EXTINF:-1,DE | NICK_JR
+http://satterm.com:8080/live/dieter1/251116/1504.ts
+#EXTINF:-1,DE | SYFY
+http://satterm.com:8080/live/dieter1/251116/1521.ts
+#EXTINF:-1,DE | WDR.
+http://satterm.com:8080/live/dieter1/251116/1505.ts
+#EXTINF:-1,DE | RTL_NITRO
+http://satterm.com:8080/live/dieter1/251116/1511.ts
+#EXTINF:-1,DE | SIXX.
+http://satterm.com:8080/live/dieter1/251116/1519.ts
+
+#EXTINF:-1,DE | SKY NATGEO WILD HD
+http://satterm.com:8080/live/dieter1/251116/2633.ts
+#EXTINF:-1,DE | RTL PASSÄ°ON
+http://satterm.com:8080/live/dieter1/251116/2626.ts
+#EXTINF:-1,DE | KINO WELT TV
+http://satterm.com:8080/live/dieter1/251116/2630.ts
+#EXTINF:-1,DE | KabelEins
+http://satterm.com:8080/live/dieter1/251116/2627.ts
+#EXTINF:-1,DE | HEIMAT KANAL
+http://satterm.com:8080/live/dieter1/251116/2631.ts
+#EXTINF:-1,DE | DISNEY CINEMAGIC
+http://satterm.com:8080/live/dieter1/251116/2632.ts
+#EXTINF:-1,DE | A&E
+http://satterm.com:8080/live/dieter1/251116/2628.ts
 
 
 
 #EXTINF:-1,***** TURKISH *****
 
 #EXTINF:-1,DE:group-title="Türk",Türk
-#EXTINF:-1,TR:TRT1*
-http://ipc.proipciptv.com:8000/live/adel/adel/3826.ts
-#EXTINF:-1,TR:TGRT-HABER*
-http://ipc.proipciptv.com:8000/live/adel/adel/3845.ts
-#EXTINF:-1,TR:TGRT-BELGESEL
-http://ipc.proipciptv.com:8000/live/adel/adel/3846.ts
-#EXTINF:-1,TR:STAR-TV-HD*
-http://ipc.proipciptv.com:8000/live/adel/adel/3823.ts
-#EXTINF:-1,TR:SHOW-TV-HD*
-http://ipc.proipciptv.com:8000/live/adel/adel/3820.ts
-#EXTINF:-1,TR:SHOW-TURK
-http://ipc.proipciptv.com:8000/live/adel/adel/3833.ts
-#EXTINF:-1,TR:NTVSPOR
-http://ipc.proipciptv.com:8000/live/adel/adel/3842.ts
-#EXTINF:-1,TR:NTV-HABER
-http://ipc.proipciptv.com:8000/live/adel/adel/3843.ts
-#EXTINF:-1,TR:NTV-AVRUPA
-http://ipc.proipciptv.com:8000/live/adel/adel/3847.ts
-#EXTINF:-1,TR:KRAL-TV
-http://ipc.proipciptv.com:8000/live/adel/adel/3848.ts
-#EXTINF:-1,TR:KANAL-D-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/3821.ts
-#EXTINF:-1,TR:KANAL-A
-http://ipc.proipciptv.com:8000/live/adel/adel/3840.ts
-#EXTINF:-1,TR:KANAL-7-INT
-http://ipc.proipciptv.com:8000/live/adel/adel/3839.ts
-#EXTINF:-1,TR:KANAL-7
-http://ipc.proipciptv.com:8000/live/adel/adel/3830.ts
-#EXTINF:-1,TR:HISTORY-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/3841.ts
-#EXTINF:-1,TR:HABERTURK*
-http://ipc.proipciptv.com:8000/live/adel/adel/3849.ts
-#EXTINF:-1,TR:FOX-TV-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/3824.ts
-#EXTINF:-1,TR:FLASH-TV*
-http://ipc.proipciptv.com:8000/live/adel/adel/3838.ts
-#EXTINF:-1,TR: EURO STAR
-http://ipc.proipciptv.com:8000/live/adel/adel/3836.ts
-#EXTINF:-1,TR:EURO-D
-http://ipc.proipciptv.com:8000/live/adel/adel/3834.ts
-#EXTINF:-1,TRISNEY-CHANNEL
-http://ipc.proipciptv.com:8000/live/adel/adel/3850.ts
-#EXTINF:-1,TR:CNNTURK*
-http://ipc.proipciptv.com:8000/live/adel/adel/3851.ts
-#EXTINF:-1,TR:CEM-TV
-http://ipc.proipciptv.com:8000/live/adel/adel/3852.ts
-#EXTINF:-1,TR:BEYAZ-TV*
-http://ipc.proipciptv.com:8000/live/adel/adel/3853.ts
-#EXTINF:-1,TR:BENGUTURK
-http://ipc.proipciptv.com:8000/live/adel/adel/3854.ts
-#EXTINF:-1,TR:ATV-AVRUPA
-http://ipc.proipciptv.com:8000/live/adel/adel/3835.ts
-#EXTINF:-1,TR:ASPOR-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/3831.ts
-#EXTINF:-1,TR:A-TV-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/3822.ts
-#EXTINF:-1,TR:A-HABER
-http://ipc.proipciptv.com:8000/live/adel/adel/3832.ts
-#EXTINF:-1,TR DISCOVERY SCIENCE
-http://ipc.proipciptv.com:8000/live/adel/adel/661.ts
-#EXTINF:-1,TR CNNTURK
-http://ipc.proipciptv.com:8000/live/adel/adel/663.ts
-#EXTINF:-1,TR:TV8-HD*
-http://ipc.proipciptv.com:8000/live/adel/adel/1397.ts
-#EXTINF:-1,TR:TRT1-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/1401.ts
-#EXTINF:-1,TR: STAR TV HD
-http://ipc.proipciptv.com:8000/live/adel/adel/1391.ts
-#EXTINF:-1,TR:KANAL-D*
-http://ipc.proipciptv.com:8000/live/adel/adel/1394.ts
-#EXTINF:-1,TR:KANAL-7-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/1396.ts
-#EXTINF:-1,TR:FOX*
-http://ipc.proipciptv.com:8000/live/adel/adel/1392.ts
-#EXTINF:-1,TR:ATV*
-http://ipc.proipciptv.com:8000/live/adel/adel/1393.ts
-#EXTINF:-1,TR:A-HABER-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/1404.ts
+#EXTINF:-1,TR | A HABER
+http://satterm.com:8080/live/dieter1/251116/96.ts
+#EXTINF:-1,TR | A HABER HD
+http://satterm.com:8080/live/dieter1/251116/67.ts
+#EXTINF:-1,TR | A SPOR
+http://satterm.com:8080/live/dieter1/251116/58.ts
+#EXTINF:-1,TR | A SPOR HD
+http://satterm.com:8080/live/dieter1/251116/95.ts
+#EXTINF:-1,TR | ANIMASYON HD
+http://satterm.com:8080/live/dieter1/251116/114.ts
+#EXTINF:-1,TR | ATV
+http://satterm.com:8080/live/dieter1/251116/93.ts
+#EXTINF:-1,TR | ATV HD
+http://satterm.com:8080/live/dieter1/251116/66.ts
+#EXTINF:-1,TR | SHOW TV
+http://satterm.com:8080/live/dieter1/251116/90.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://satterm.com:8080/live/dieter1/251116/63.ts
+#EXTINF:-1,TR | STAR TV
+http://satterm.com:8080/live/dieter1/251116/91.ts
+#EXTINF:-1,TR | STAR TV HD
+http://satterm.com:8080/live/dieter1/251116/62.ts
+#EXTINF:-1,TR | BEYAZ TV
+http://satterm.com:8080/live/dieter1/251116/56.ts
+#EXTINF:-1,TR | BEYAZ TV HD
+http://satterm.com:8080/live/dieter1/251116/65.ts
+#EXTINF:-1,TR | BLOOMBERG TV HD
+http://satterm.com:8080/live/dieter1/251116/83.ts
+#EXTINF:-1,TR | CAY TV
+http://satterm.com:8080/live/dieter1/251116/53.ts
+#EXTINF:-1,TR | CNN TURK HABER
+http://satterm.com:8080/live/dieter1/251116/84.ts
+#EXTINF:-1,TR | HABER TURK
+http://satterm.com:8080/live/dieter1/251116/2786.ts
+#EXTINF:-1,TR | FLASH TV
+http://satterm.com:8080/live/dieter1/251116/55.ts
+#EXTINF:-1,TR | FOX HD
+http://satterm.com:8080/live/dieter1/251116/64.ts
+#EXTINF:-1,TR | FOX TV
+http://satterm.com:8080/live/dieter1/251116/80.ts
+#EXTINF:-1,TR | HALK TV
+http://satterm.com:8080/live/dieter1/251116/99.ts
+#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
+http://satterm.com:8080/live/dieter1/251116/102.ts
+#EXTINF:-1,TR | KANAL 7
+http://satterm.com:8080/live/dieter1/251116/70.ts
+#EXTINF:-1,TR | KANAL 7 HD
+http://satterm.com:8080/live/dieter1/251116/69.ts
+#EXTINF:-1,TR | KANAL D
+http://satterm.com:8080/live/dieter1/251116/79.ts
+#EXTINF:-1,TR | KANAL D HD
+http://satterm.com:8080/live/dieter1/251116/68.ts
+#EXTINF:-1,TR | TRT 1
+http://satterm.com:8080/live/dieter1/251116/94.ts
+#EXTINF:-1,TR | TRT 1 HD
+http://satterm.com:8080/live/dieter1/251116/77.ts
+#EXTINF:-1,TR | TRT 3 SPOR
+http://satterm.com:8080/live/dieter1/251116/61.ts
+#EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
+http://satterm.com:8080/live/dieter1/251116/1825.ts
+#EXTINF:-1,TR | TRT BELGESEL HD
+http://satterm.com:8080/live/dieter1/251116/71.ts
+#EXTINF:-1,TR | TRT COCUK
+http://satterm.com:8080/live/dieter1/251116/73.ts
+#EXTINF:-1,TR | TRT HABER
+http://satterm.com:8080/live/dieter1/251116/72.ts
+#EXTINF:-1,TR | TRT MUZIK
+http://satterm.com:8080/live/dieter1/251116/57.ts
+#EXTINF:-1,TR | TRT SPOR
+http://satterm.com:8080/live/dieter1/251116/76.ts
+#EXTINF:-1,TR | TRT SPOR HD
+http://satterm.com:8080/live/dieter1/251116/60.ts
+#EXTINF:-1,TR | TV 2
+http://satterm.com:8080/live/dieter1/251116/75.ts
+#EXTINF:-1,TR | TV8
+http://satterm.com:8080/live/dieter1/251116/92.ts
+#EXTINF:-1,TR | TV8 HD
+http://satterm.com:8080/live/dieter1/251116/59.ts
+#EXTINF:-1,TR | KANAL CAY
+http://satterm.com:8080/live/dieter1/251116/1848.ts
+#EXTINF:-1,TR | GS TV
+http://satterm.com:8080/live/dieter1/251116/1840.ts
+#EXTINF:-1,TR | FB TV
+http://satterm.com:8080/live/dieter1/251116/1835.ts
+#EXTINF:-1,TR | BJK TV
+http://satterm.com:8080/live/dieter1/251116/2775.ts
+#EXTINF:-1,TR | NTV
+http://satterm.com:8080/live/dieter1/251116/98.ts
+#EXTINF:-1,TR | NTV SPOR
+http://satterm.com:8080/live/dieter1/251116/78.ts
+#EXTINF:-1,TR | NTV SPOR HD
+http://satterm.com:8080/live/dieter1/251116/97.ts
+#EXTINF:-1,TR | NUMBER ONE
+http://satterm.com:8080/live/dieter1/251116/51.ts
+#EXTINF:-1,TR | POWERTURK HD
+http://satterm.com:8080/live/dieter1/251116/4657.ts
+#EXTINF:-1,TR | KRAL TV
+http://satterm.com:8080/live/dieter1/251116/4658.ts
+#EXTINF:-1,TR | SEMERKAND TV HD
+http://satterm.com:8080/live/dieter1/251116/1843.ts
+#EXTINF:-1,TR | PLANET TURK
+http://satterm.com:8080/live/dieter1/251116/1844.ts
+#EXTINF:-1,TR | PLANET PEMBE
+http://satterm.com:8080/live/dieter1/251116/1845.ts
+#EXTINF:-1,TR | PLANET MUTFAK
+http://satterm.com:8080/live/dieter1/251116/1846.ts
+#EXTINF:-1,TR | PLANET COCUK
+http://satterm.com:8080/live/dieter1/251116/1847.ts
+#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
+http://satterm.com:8080/live/dieter1/251116/1824.ts
+
+
+#EXTINF:-1,TR I History HD TR ( DIGITURK )
+http://satterm.com:8080/live/dieter1/251116/101.ts
+#EXTINF:-1,TR | BBC Earth HD-dsmart
+http://satterm.com:8080/live/dieter1/251116/100.ts
+#EXTINF:-1,TR | NBA TV HD
+http://satterm.com:8080/live/dieter1/251116/89.ts
+
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://satterm.com:8080/live/dieter1/251116/103.ts
+
+
+
+#EXTINF:-1,TR | TLC
+http://satterm.com:8080/live/dieter1/251116/74.ts
+
+#EXTINF:-1,TR | TV8.5
+http://satterm.com:8080/live/dieter1/251116/3107.ts
+
+#EXTINF:-1,TR | YABAN TV
+http://satterm.com:8080/live/dieter1/251116/50.ts
+#EXTINF:-1,TR | VIVA TV
+http://satterm.com:8080/live/dieter1/251116/1841.ts
+#EXTINF:-1,TR | SPORTS TV
+http://satterm.com:8080/live/dieter1/251116/1834.ts
+
+#EXTINF:-1,TR | NUMBER ONE TURK
+http://satterm.com:8080/live/dieter1/251116/1849.ts
+#EXTINF:-1,TR | National Geographic Wild
+http://satterm.com:8080/live/dieter1/251116/1837.ts
+
+#EXTINF:-1,TR | BABY TV
+http://satterm.com:8080/live/dieter1/251116/1828.ts
+#EXTINF:-1,TR | Animal Planet
+http://satterm.com:8080/live/dieter1/251116/1836.ts
+#EXTINF:-1,TR | ULUSAL TV
+http://satterm.com:8080/live/dieter1/251116/4261.ts
+#EXTINF:-1,TR | TRT KURDI
+http://satterm.com:8080/live/dieter1/251116/4264.ts
+#EXTINF:-1,TR | MELTEM TV
+http://satterm.com:8080/live/dieter1/251116/4262.ts
+#EXTINF:-1,TR | IZ TV ( DIJITURK )
+http://satterm.com:8080/live/dieter1/251116/4259.ts
+#EXTINF:-1,TR | IP Mutfak
+http://satterm.com:8080/live/dieter1/251116/4265.ts
+#EXTINF:-1,TR | BURSASPOR  TV
+http://satterm.com:8080/live/dieter1/251116/4260.ts
+#EXTINF:-1,TR | RUMELI TV
+http://satterm.com:8080/live/dieter1/251116/4662.ts
+#EXTINF:-1,TR I CEM TV
+http://satterm.com:8080/live/dieter1/251116/4263.ts
+#EXTINF:-1,TR I TBMM TV
+http://satterm.com:8080/live/dieter1/251116/4656.ts
+#EXTINF:-1,TR I SKY 360
+http://satterm.com:8080/live/dieter1/251116/4267.ts
+#EXTINF:-1,TR I A2 HD
+http://satterm.com:8080/live/dieter1/251116/4268.ts
+
+
 
 
 #EXTINF:-1,***** SINEMA *****
 
 #EXTINF:-1,DE:group-title="Sinema",Sinema
-#EXTINF:-1,TR | FILMBOX HD-D-Smart
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1821.ts
-#EXTINF:-1,TR | FIL TV(FILBOX)
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1827.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1820.ts
-#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1823.ts
-#EXTINF:-1,TR | SINEMA TV ( FILBOX)
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1826.ts
-#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1822.ts
-#EXTINF:-1,TR | YESILCAM 1 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/123.ts
-#EXTINF:-1,TR | YESILCAM 2 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/122.ts
-#EXTINF:-1,TR | LOCA 1 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/121.ts
-#EXTINF:-1,TR | LOCA 2 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/120.ts
-#EXTINF:-1,TR | LOCA 3 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/119.ts
-#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/109.ts
-#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/108.ts
-#EXTINF:-1,TR | DIZI TV HD FILBOX
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/106.ts
-#EXTINF:-1,TR | MOVIEMAX COMEDY HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/104.ts
-#EXTINF:-1,TR | MOVIEMAX FAMILY HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/111.ts
-#EXTINF:-1,TR | MOVIEMAX FESTIVAL HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/105.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/110.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/130.ts
-#EXTINF:-1,TR | MOVIEMAX STARS HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/112.ts
-#EXTINF:-1,TR | MOVIEMAX TURK HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/117.ts
-#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/118.ts
-#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/2787.ts
-#EXTINF:-1,TR I History HD TR ( DIGITURK )
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/101.ts
-#EXTINF:-1,TR | BBC Earth HD-dsmart
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/100.ts
-#EXTINF:-1,TR | SALON 1 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/129.ts
-#EXTINF:-1,TR | SALON 2  HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/128.ts
-#EXTINF:-1,TR | SALON 3 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/127.ts
-#EXTINF:-1,TR I SALON 3D HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/3108.ts
-#EXTINF:-1,TR | SINE TV HD ( TIVIBU )
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/113.ts
-#EXTINF:-1,TR | DIZISMART PLATIN DSMART
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/107.ts
-#EXTINF:-1,TR | FILM TV HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/116.ts
-#EXTINF:-1,TR | SMART COCUK DSMART
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/3106.ts
-#EXTINF:-1,TR | MINIKA GO
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/81.ts
-#EXTINF:-1,TR | VIP CHANNEL 2 HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/115.ts
-#EXTINF:-1,TR | VIP CHANNEL HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/131.ts
-#EXTINF:-1,TR | VIP CHANNEL TURK HD
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/124.ts
 #EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1831.ts
+http://satterm.com:8080/live/dieter1/251116/1831.ts
 #EXTINF:-1,TR | Sinetivi HD FILBOX
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1832.ts
+http://satterm.com:8080/live/dieter1/251116/1832.ts
 #EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1842.ts
+http://satterm.com:8080/live/dieter1/251116/1842.ts
+#EXTINF:-1,TR | FILMBOX HD-D-Smart
+http://satterm.com:8080/live/dieter1/251116/1821.ts
+#EXTINF:-1,TR | FIL TV(FILBOX)
+http://satterm.com:8080/live/dieter1/251116/1827.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
+http://satterm.com:8080/live/dieter1/251116/1820.ts
+#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
+http://satterm.com:8080/live/dieter1/251116/1823.ts
+#EXTINF:-1,TR | SINEMA TV ( FILBOX)
+http://satterm.com:8080/live/dieter1/251116/1826.ts
+#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
+http://satterm.com:8080/live/dieter1/251116/1822.ts
+#EXTINF:-1,TR | VIP CHANNEL 2 HD
+http://satterm.com:8080/live/dieter1/251116/115.ts
+#EXTINF:-1,TR | VIP CHANNEL HD
+http://satterm.com:8080/live/dieter1/251116/131.ts
+#EXTINF:-1,TR | VIP CHANNEL TURK HD
+http://satterm.com:8080/live/dieter1/251116/124.ts
+#EXTINF:-1,TR | SALON 1 HD
+http://satterm.com:8080/live/dieter1/251116/129.ts
+#EXTINF:-1,TR | SALON 2  HD
+http://satterm.com:8080/live/dieter1/251116/128.ts
+#EXTINF:-1,TR | SALON 3 HD
+http://satterm.com:8080/live/dieter1/251116/127.ts
+#EXTINF:-1,TR I SALON 3D HD
+http://satterm.com:8080/live/dieter1/251116/3108.ts
+#EXTINF:-1,TR | YESILCAM 1 HD
+http://satterm.com:8080/live/dieter1/251116/123.ts
+#EXTINF:-1,TR | YESILCAM 2 HD
+http://satterm.com:8080/live/dieter1/251116/122.ts
+#EXTINF:-1,TR | LOCA 1 HD
+http://satterm.com:8080/live/dieter1/251116/121.ts
+#EXTINF:-1,TR | LOCA 2 HD
+http://satterm.com:8080/live/dieter1/251116/120.ts
+#EXTINF:-1,TR | LOCA 3 HD
+http://satterm.com:8080/live/dieter1/251116/119.ts
+#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
+http://satterm.com:8080/live/dieter1/251116/109.ts
+#EXTINF:-1,TR | MINIKA COCUK
+http://satterm.com:8080/live/dieter1/251116/82.ts
+#EXTINF:-1,TR | BOOMERANG COCUK DSMART
+http://satterm.com:8080/live/dieter1/251116/3105.ts
+#EXTINF:-1,TR | SMART COCUK DSMART
+http://satterm.com:8080/live/dieter1/251116/3106.ts
+#EXTINF:-1,TR | MINIKA GO
+http://satterm.com:8080/live/dieter1/251116/81.ts
+#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
+http://satterm.com:8080/live/dieter1/251116/108.ts
+#EXTINF:-1,TR | DIZI TV HD FILBOX
+http://satterm.com:8080/live/dieter1/251116/106.ts
+#EXTINF:-1,TR | MOVIEMAX COMEDY HD
+http://satterm.com:8080/live/dieter1/251116/104.ts
+#EXTINF:-1,TR | MOVIEMAX FAMILY HD
+http://satterm.com:8080/live/dieter1/251116/111.ts
+#EXTINF:-1,TR | MOVIEMAX FESTIVAL HD
+http://satterm.com:8080/live/dieter1/251116/105.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
+http://satterm.com:8080/live/dieter1/251116/110.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER HD
+http://satterm.com:8080/live/dieter1/251116/130.ts
+#EXTINF:-1,TR | MOVIEMAX STARS HD
+http://satterm.com:8080/live/dieter1/251116/112.ts
+#EXTINF:-1,TR | MOVIEMAX TURK HD
+http://satterm.com:8080/live/dieter1/251116/117.ts
+#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
+http://satterm.com:8080/live/dieter1/251116/118.ts
+#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
+http://satterm.com:8080/live/dieter1/251116/2787.ts
+#EXTINF:-1,TR | DIZISMART PLATIN DSMART
+http://satterm.com:8080/live/dieter1/251116/107.ts
+#EXTINF:-1,TR | EGE TV
+http://satterm.com:8080/live/dieter1/251116/54.ts
+#EXTINF:-1,TR | FILM TV HD
+http://satterm.com:8080/live/dieter1/251116/116.ts
+#EXTINF:-1,TR | SINE TV HD ( TIVIBU )
+http://satterm.com:8080/live/dieter1/251116/113.ts
 #EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1833.ts
+http://satterm.com:8080/live/dieter1/251116/1833.ts
 #EXTINF:-1,TR | Movie Platin 2 HD DSMART
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1838.ts
+http://satterm.com:8080/live/dieter1/251116/1838.ts
 #EXTINF:-1,TR | MOVIE GOLD DSMART
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1830.ts
+http://satterm.com:8080/live/dieter1/251116/1830.ts
 #EXTINF:-1,TR | MOVIE FAMILY DSMART
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1829.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/1839.ts
+http://satterm.com:8080/live/dieter1/251116/1829.ts
 #EXTINF:-1,TR I DIZIMAX COMEDY HD ( DIGITURK )
-http://biwsat.com:8080/live/FoIzNzlRlU/zuWQH6cesk/4269.ts
-#EXTINF:-1,TR-GSTV
-http://ipc.proipciptv.com:8000/live/adel/adel/4316.m3u8
-#EXTINF:-1,TR-BJKTV
-http://ipc.proipciptv.com:8000/live/adel/adel/4315.m3u8
-#EXTINF:-1,TR:TV8-INT
-http://ipc.proipciptv.com:8000/live/adel/adel/3837.m3u8
-#EXTINF:-1,TR:TV8-HD
-http://ipc.proipciptv.com:8000/live/adel/adel/3825.m3u8
-#EXTINF:-1,TR:TRT-SPOR
-http://ipc.proipciptv.com:8000/live/adel/adel/3827.ts
-#EXTINF:-1,TR:TRT-MUZIK
-http://ipc.proipciptv.com:8000/live/adel/adel/3828.ts
-#EXTINF:-1,TR:TRT-HABER*
-http://ipc.proipciptv.com:8000/live/adel/adel/3829.ts
-#EXTINF:-1,TR:TRT-COCUK
-http://ipc.proipciptv.com:8000/live/adel/adel/3844.ts
+http://satterm.com:8080/live/dieter1/251116/4269.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://satterm.com:8080/live/dieter1/251116/1839.ts
+
+
+
 
 #EXTINF:-1,***** SPORT *****
 
 #EXTINF:-1,group-title="SPORT",Sport
+#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
+http://satterm.com:8080/live/dieter1/251116/2785.ts
+#EXTINF:-1,TR I LIG TV 1  HD
+http://satterm.com:8080/live/dieter1/251116/3150.ts
+#EXTINF:-1,TR | LIGTV 1 HD
+http://satterm.com:8080/live/dieter1/251116/135.ts
+#EXTINF:-1,TR | LIG TV 2 HD
+http://satterm.com:8080/live/dieter1/251116/134.ts
+#EXTINF:-1,TR | LIG TV 3 HD
+http://satterm.com:8080/live/dieter1/251116/133.ts
+#EXTINF:-1,TR | LIGTV 4 HD
+http://satterm.com:8080/live/dieter1/251116/132.ts
+#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
+http://satterm.com:8080/live/dieter1/251116/85.ts
+#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
+http://satterm.com:8080/live/dieter1/251116/86.ts
 
-#EXTINF:-1,TR-LiG-3HD
-http://ipc.proipciptv.com:8000/live/adel/adel/4314.m3u8
-#EXTINF:-1,TR-LiG-2HD
-http://ipc.proipciptv.com:8000/live/adel/adel/4313.m3u8
-#EXTINF:-1,TR-LiG-1HD
-http://ipc.proipciptv.com:8000/live/adel/adel/4312.m3u8
-
-
-#EXTINF:-1,[DE]Sky Bundesliga 9 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5831.ts
-#EXTINF:-1,[DE]Sky Bundesliga 8 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5830.ts
-#EXTINF:-1,[DE]Sky Bundesliga 7 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5829.ts
-#EXTINF:-1,[DE]Sky Bundesliga 6 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5828.ts
-#EXTINF:-1,[DE]Sky Bundesliga 5 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5827.ts
-#EXTINF:-1,[DE]Sky Bundesliga 4 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5826.ts
-#EXTINF:-1,[DE]Sky Bundesliga 3 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5825.ts
-#EXTINF:-1,[DE]Sky Bundesliga 2 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5824.ts
-#EXTINF:-1,[DE]Sky Bundesliga 10 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5832.ts
-#EXTINF:-1,[DE]Sky Bundesliga 1 HD
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5823.ts
-#EXTINF:-1,[DE]Sky Sport News DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5808.ts
-#EXTINF:-1,[DE]Sky Sport 8 DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5819.ts
-#EXTINF:-1,[DE]Sky Sport 7 DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5818.ts
-#EXTINF:-1,[DE]Sky Sport 6 DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5817.ts
-#EXTINF:-1,[DE]Sky Sport 5 DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5816.ts
-#EXTINF:-1,[DE]Sky Sport 4 DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5815.ts
-#EXTINF:-1,[DE]Sky Sport 3  DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5814.ts
-#EXTINF:-1,[DE]Sky Sport 2 SD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5813.ts
-#EXTINF:-1,[DE]Sky Sport 2  HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5812.ts
-#EXTINF:-1,[DE]Sky Sport 11 DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5821.ts
-#EXTINF:-1,[DE]Sky Sport 10  DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5820.ts
-#EXTINF:-1,[DE]Sky Sport 1 HD DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5811.ts
-#EXTINF:-1,[DE]Sky Sport  1 DE
-http://tore0731.full.super-iptv.space:8000/live/KBcp37nCrx/test/5810.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://satterm.com:8080/live/dieter1/251116/87.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://satterm.com:8080/live/dieter1/251116/126.ts
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://satterm.com:8080/live/dieter1/251116/125.ts
+#EXTINF:-1,TR | TIVIBU SPOR HD 2
+http://satterm.com:8080/live/dieter1/251116/88.ts
+#EXTINF:-1,AR | BEIN SPORT 1 HD
+http://satterm.com:8080/live/dieter1/251116/3195.ts
+#EXTINF:-1,AR | BEIN SPORT 2 HD
+http://satterm.com:8080/live/dieter1/251116/3196.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1HD
+http://satterm.com:8080/live/dieter1/251116/1481.ts
+#EXTINF:-1,DE | VOX
+http://satterm.com:8080/live/dieter1/251116/1514.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD
+http://satterm.com:8080/live/dieter1/251116/1482.ts
+#EXTINF:-1,DE | SKYSPORT AUSTRIA
+http://satterm.com:8080/live/dieter1/251116/1483.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://satterm.com:8080/live/dieter1/251116/1484.ts
+#EXTINF:-1,DE | SPORT1 US HD
+http://satterm.com:8080/live/dieter1/251116/1485.ts
+#EXTINF:-1,DE | SPORT +1 HD
+http://satterm.com:8080/live/dieter1/251116/1486.ts
+#EXTINF:-1,DE | SPORT 1  HD
+http://satterm.com:8080/live/dieter1/251116/1487.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA  1
+http://satterm.com:8080/live/dieter1/251116/1416.ts
+#EXTINF:-1,DE | SKY SPORT 2 HD uuu
+http://satterm.com:8080/live/dieter1/251116/1415.ts
+#EXTINF:-1,DE | EURO SPORT
+http://satterm.com:8080/live/dieter1/251116/1412.ts
+#EXTINF:-1,DE | EUROSPORT2
+http://satterm.com:8080/live/dieter1/251116/1413.ts
+#EXTINF:-1,DE | SKY SPORT1 HD uuu
+http://satterm.com:8080/live/dieter1/251116/1417.ts
+#EXTINF:-1,DE | SKY MGM HD
+http://satterm.com:8080/live/dieter1/251116/1399.ts
+#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
+http://satterm.com:8080/live/dieter1/251116/1431.ts
