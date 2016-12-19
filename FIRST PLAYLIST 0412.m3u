@@ -59,7 +59,8 @@ http://satterm.com:8080/live/dieter1/251116/1476.ts
 
 #EXTINF:-1,DE:group-title="Deutsch",Deutsch
 
-
+#EXTINF:-1,DE | Fox hd
+http://satterm.com:8080/live/dieter1/251116/1522.ts
 #EXTINF:-1,DE: 13Street HD
 http://137.74.94.161:8000/live/wendy1/wendy1/10134.ts
 #EXTINF:-1,DE: 3SAT HD
