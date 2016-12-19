@@ -484,12 +484,16 @@ http://satterm.com:8080/live/dieter1/251116/1839.ts
 #EXTINF:-1,***** SPORT *****
 
 #EXTINF:-1,group-title="SPORT",Sport
-#EXTINF:-1,TR: Lig TV 1HD
-http://137.74.94.161:8000/live/wendy1/wendy1/9262.ts
-#EXTINF:-1,TR: Lig TV 2HD
-http://137.74.94.161:8000/live/wendy1/wendy1/9261.ts
-#EXTINF:-1,TR: Lig TV 3HD
-http://137.74.94.161:8000/live/wendy1/wendy1/9260.ts
+#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
+http://satterm.com:8080/live/dieter1/251116/2785.ts
+#EXTINF:-1,TR I LIG TV 1  HD
+http://satterm.com:8080/live/dieter1/251116/3150.ts
+#EXTINF:-1,TR | LIGTV 1 HD
+http://satterm.com:8080/live/dieter1/251116/135.ts
+#EXTINF:-1,TR | LIG TV 2 HD
+http://satterm.com:8080/live/dieter1/251116/134.ts
+#EXTINF:-1,TR | LIG TV 3 HD
+http://satterm.com:8080/live/dieter1/251116/133.ts
 #EXTINF:-1,TR | LIGTV 4 HD
 http://satterm.com:8080/live/dieter1/251116/132.ts
 #EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
