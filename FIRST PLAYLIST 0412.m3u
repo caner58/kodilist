@@ -20,6 +20,22 @@ http://137.74.94.161:8000/live/wendy1/wendy1/10131.ts
 http://137.74.94.161:8000/live/wendy1/wendy1/10132.ts
 #EXTINF:-1,DE Sky Select HD 8
 http://137.74.94.161:8000/live/wendy1/wendy1/10133.ts
+#EXTINF:-1,DE | SKY SELECT 1
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1495.ts
+#EXTINF:-1,DE | SKY SELECT 2HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1494.ts
+#EXTINF:-1,DE | Sky Select 3 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1493.ts
+#EXTINF:-1,DE | Sky Select 4 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1492.ts
+#EXTINF:-1,DE | Sky Select 5 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1491.ts
+#EXTINF:-1,DE | Sky Select 6 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1490.ts
+#EXTINF:-1,DE | Sky Select 7HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1489.ts
+#EXTINF:-1,DE | Sky Select 8HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1488.ts
 #EXTINF:-1,DE | SKY CINEMA1 HD
 http://satterm.com:8080/live/dieter1/251116/1406.ts
 #EXTINF:-1,DE | SKY COMEDY HD
@@ -52,85 +68,6 @@ http://satterm.com:8080/live/dieter1/251116/1473.ts
 http://satterm.com:8080/live/dieter1/251116/1475.ts
 #EXTINF:-1,DE | SkyNostalgie
 http://satterm.com:8080/live/dieter1/251116/1476.ts
-
-
-
-#EXTINF:-1,***** DEUTSCH *****
-
-#EXTINF:-1,DE:group-title="Deutsch",Deutsch
-
-#EXTINF:-1,DE | Fox hd
-http://satterm.com:8080/live/dieter1/251116/1522.ts
-#EXTINF:-1,DE: 13Street HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10134.ts
-#EXTINF:-1,DE: 3SAT HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10135.ts
-#EXTINF:-1,DE: Arte HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10136.ts
-#EXTINF:-1,DE: Austria 24
-http://137.74.94.161:8000/live/wendy1/wendy1/10137.ts
-#EXTINF:-1,DE: AXN HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10138.ts
-#EXTINF:-1,DE: BR HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10174.ts
-#EXTINF:-1,DE: Das Erste
-http://137.74.94.161:8000/live/wendy1/wendy1/10139.ts
-#EXTINF:-1,DE: Deluxe Music
-http://137.74.94.161:8000/live/wendy1/wendy1/10140.ts
-#EXTINF:-1,DE: Disney Channel
-http://137.74.94.161:8000/live/wendy1/wendy1/10141.ts
-#EXTINF:-1,DE: Disney Cinemagic
-http://137.74.94.161:8000/live/wendy1/wendy1/10142.ts
-#EXTINF:-1,DE: DMAX
-http://137.74.94.161:8000/live/wendy1/wendy1/10143.ts
-#EXTINF:-1,DE: Euronews
-http://137.74.94.161:8000/live/wendy1/wendy1/10144.ts
-#EXTINF:-1,DE: Fox HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10145.ts
-#EXTINF:-1,DE: HALLE TV
-http://137.74.94.161:8000/live/wendy1/wendy1/10147.ts
-#EXTINF:-1,DE: History HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10148.ts
-#EXTINF:-1,DE: KABEL 1HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10150.ts
-#EXTINF:-1,DE: KANAL MAGDEBURG
-http://137.74.94.161:8000/live/wendy1/wendy1/10151.ts
-#EXTINF:-1,DE: N24 HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10152.ts
-#EXTINF:-1,DE: Nat.Geo HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10188.ts
-#EXTINF:-1,DE: National Geographic Wild HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10153.ts
-#EXTINF:-1,DE: NTV
-http://137.74.94.161:8000/live/wendy1/wendy1/10154.ts
-#EXTINF:-1,DE: ORF 1HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10155.ts
-#EXTINF:-1,DE: ORF 2HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10156.ts
-#EXTINF:-1,DE: Pro 7 HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10157.ts
-#EXTINF:-1,DE: Prosieben Fun HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10149.ts
-#EXTINF:-1,DE: RIC KINDER KANAL
-http://137.74.94.161:8000/live/wendy1/wendy1/10158.ts
-#EXTINF:-1,DE: RTL
-http://137.74.94.161:8000/live/wendy1/wendy1/10159.ts
-#EXTINF:-1,DE: RTL 2
-http://137.74.94.161:8000/live/wendy1/wendy1/10160.ts
-#EXTINF:-1,DE: RTL NITRO
-http://137.74.94.161:8000/live/wendy1/wendy1/10161.ts
-#EXTINF:-1,DE: RTL PASSION
-http://137.74.94.161:8000/live/wendy1/wendy1/10162.ts
-#EXTINF:-1,DE: RTL SUPER
-http://137.74.94.161:8000/live/wendy1/wendy1/10163.ts
-#EXTINF:-1,DE: Sat 1
-http://137.74.94.161:8000/live/wendy1/wendy1/10164.ts
-#EXTINF:-1,DE: SAT 1 Gold
-http://137.74.94.161:8000/live/wendy1/wendy1/10146.ts
-#EXTINF:-1,DE: SERVUS TV HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10165.ts
-#EXTINF:-1,DE: Sixx HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10166.ts
 #EXTINF:-1,DE: Sky 3D
 http://137.74.94.161:8000/live/wendy1/wendy1/10167.ts
 #EXTINF:-1,DE: Sky Bundesliga 1HD
@@ -153,30 +90,6 @@ http://137.74.94.161:8000/live/wendy1/wendy1/10173.ts
 http://137.74.94.161:8000/live/wendy1/wendy1/10176.ts
 #EXTINF:-1,DE: Sport1HD
 http://137.74.94.161:8000/live/wendy1/wendy1/10177.ts
-#EXTINF:-1,DE: SRF ZWEI
-http://137.74.94.161:8000/live/wendy1/wendy1/10254.ts
-#EXTINF:-1,DE: SWR
-http://137.74.94.161:8000/live/wendy1/wendy1/10178.ts
-#EXTINF:-1,DE: Syfy HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10201.ts
-#EXTINF:-1,DE: VOX HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10179.ts
-#EXTINF:-1,DE: ZDF HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10180.ts
-#EXTINF:-1,DE: ZDF Info HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10181.ts
-#EXTINF:-1,DE: ZDF Kultur
-http://137.74.94.161:8000/live/wendy1/wendy1/10182.ts
-#EXTINF:-1,DE: ZDF Neo HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10183.ts
-#EXTINF:-1,DE:Classica
-http://137.74.94.161:8000/live/wendy1/wendy1/10184.ts
-#EXTINF:-1,DE:Disneyxd
-http://137.74.94.161:8000/live/wendy1/wendy1/10185.ts
-#EXTINF:-1,DE:Kika.HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10186.ts
-#EXTINF:-1,DE:MGM
-http://137.74.94.161:8000/live/wendy1/wendy1/10187.ts
 #EXTINF:-1,DE:Sky Sport 1HD
 http://137.74.94.161:8000/live/wendy1/wendy1/10189.ts
 #EXTINF:-1,DE:Sky.Discovery.ChannelHD
@@ -201,8 +114,90 @@ http://137.74.94.161:8000/live/wendy1/wendy1/10199.ts
 http://137.74.94.161:8000/live/wendy1/wendy1/10200.ts
 #EXTINF:-1,DE:TNTSerie
 http://137.74.94.161:8000/live/wendy1/wendy1/10202.ts
-#EXTINF:-1,DE:WDR
-http://137.74.94.161:8000/live/wendy1/wendy1/10203.ts
+
+#EXTINF:-1,***** DEUTSCH *****
+
+#EXTINF:-1,DE:group-title="Deutsch",Deutsch
+
+#EXTINF:-1,DE | Fox hd
+http://satterm.com:8080/live/dieter1/251116/1522.ts
+#EXTINF:-1,DE | Kika.
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1429.ts
+#EXTINF:-1,DE | PRO7_MAXX
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1506.ts
+#EXTINF:-1,DE | Pro7
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1507.ts
+#EXTINF:-1,DE | SKY KRIMI HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1400.ts
+#EXTINF:-1,DE | RTL_LIVING
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1508.ts
+#EXTINF:-1,DE | SkyHits
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1401.ts
+#EXTINF:-1,DE | NatGeo Wild
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1411.ts
+#EXTINF:-1,DE | 13Street
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1402.ts
+#EXTINF:-1,DE | Sat1
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1426.ts
+#EXTINF:-1,DE | VOX.
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1423.ts
+#EXTINF:-1,DE | SAT 1.
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1418.ts
+#EXTINF:-1,DE | PRO 7.
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1428.ts
+#EXTINF:-1,DE | SuperRTL
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1419.ts
+#EXTINF:-1,DE | RTL HD uuu
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1420.ts
+#EXTINF:-1,DE | ZDF.
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1422.ts
+#EXTINF:-1,DE | KabelEins
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/2627.ts
+#EXTINF:-1,DE | RTL II
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1427.ts
+#EXTINF:-1,DE | Prosieben
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1409.ts
+#EXTINF:-1,DE | RTL HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1513.ts
+#EXTINF:-1,DE | Sat1 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1510.ts
+#EXTINF:-1,DE | RTL_CRIME
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1509.ts
+#EXTINF:-1,DE | ZDF
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1515.ts
+#EXTINF:-1,DE | ORF2
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1517.ts
+#EXTINF:-1,DE | D MAX HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1518.ts
+#EXTINF:-1,DE | HISTORY CHANNEL HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1497.ts
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1498.ts
+#EXTINF:-1,DE | RTL2 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1512.ts
+#EXTINF:-1,DE | TNT Serie HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1520.ts
+#EXTINF:-1,DE | NATGEOWILD HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1499.ts
+#EXTINF:-1,DE | ARD HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1500.ts
+#EXTINF:-1,DE | ARD TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1516.ts
+#EXTINF:-1,DE | Disney_Junior
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1501.ts
+#EXTINF:-1,DE | Disney_XD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1502.ts
+#EXTINF:-1,DE | NICK_JR
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1504.ts
+#EXTINF:-1,DE | SYFY
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1521.ts
+#EXTINF:-1,DE | WDR.
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1505.ts
+#EXTINF:-1,DE | RTL_NITRO
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1511.ts
+#EXTINF:-1,DE | SIXX.
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1519.ts
+
 
 
 
