@@ -204,276 +204,213 @@ http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1519.ts
 #EXTINF:-1,***** TURKISH *****
 
 #EXTINF:-1,DE:group-title="Türk",Türk
-#EXTINF:-1,TR | A HABER
-http://satterm.com:8080/live/dieter1/251116/96.ts
-#EXTINF:-1,TR | A HABER HD
-http://satterm.com:8080/live/dieter1/251116/67.ts
-#EXTINF:-1,TR | A SPOR
-http://satterm.com:8080/live/dieter1/251116/58.ts
-#EXTINF:-1,TR | A SPOR HD
-http://satterm.com:8080/live/dieter1/251116/95.ts
-#EXTINF:-1,TR | ANIMASYON HD
-http://satterm.com:8080/live/dieter1/251116/114.ts
-#EXTINF:-1,TR | ATV
-http://satterm.com:8080/live/dieter1/251116/93.ts
-#EXTINF:-1,TR | ATV HD
-http://satterm.com:8080/live/dieter1/251116/66.ts
-#EXTINF:-1,TR | SHOW TV
-http://satterm.com:8080/live/dieter1/251116/90.ts
-#EXTINF:-1,TR | SHOW TV HD
-http://satterm.com:8080/live/dieter1/251116/63.ts
-#EXTINF:-1,TR | STAR TV
-http://satterm.com:8080/live/dieter1/251116/91.ts
-#EXTINF:-1,TR | STAR TV HD
-http://satterm.com:8080/live/dieter1/251116/62.ts
-#EXTINF:-1,TR | BEYAZ TV
-http://satterm.com:8080/live/dieter1/251116/56.ts
-#EXTINF:-1,TR | BEYAZ TV HD
-http://satterm.com:8080/live/dieter1/251116/65.ts
-#EXTINF:-1,TR | BLOOMBERG TV HD
-http://satterm.com:8080/live/dieter1/251116/83.ts
-#EXTINF:-1,TR | CAY TV
-http://satterm.com:8080/live/dieter1/251116/53.ts
-#EXTINF:-1,TR | CNN TURK HABER
-http://satterm.com:8080/live/dieter1/251116/84.ts
-#EXTINF:-1,TR | HABER TURK
-http://satterm.com:8080/live/dieter1/251116/2786.ts
-#EXTINF:-1,TR | FLASH TV
-http://satterm.com:8080/live/dieter1/251116/55.ts
-#EXTINF:-1,TR | FOX HD
-http://satterm.com:8080/live/dieter1/251116/64.ts
-#EXTINF:-1,TR | FOX TV
-http://satterm.com:8080/live/dieter1/251116/80.ts
-#EXTINF:-1,TR | HALK TV
-http://satterm.com:8080/live/dieter1/251116/99.ts
-#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
-http://satterm.com:8080/live/dieter1/251116/102.ts
-#EXTINF:-1,TR | KANAL 7
-http://satterm.com:8080/live/dieter1/251116/70.ts
-#EXTINF:-1,TR | KANAL 7 HD
-http://satterm.com:8080/live/dieter1/251116/69.ts
-#EXTINF:-1,TR | KANAL D
-http://satterm.com:8080/live/dieter1/251116/79.ts
-#EXTINF:-1,TR | KANAL D HD
-http://satterm.com:8080/live/dieter1/251116/68.ts
-#EXTINF:-1,TR | TRT 1
-http://satterm.com:8080/live/dieter1/251116/94.ts
-#EXTINF:-1,TR | TRT 1 HD
-http://satterm.com:8080/live/dieter1/251116/77.ts
-#EXTINF:-1,TR | TRT 3 SPOR
-http://satterm.com:8080/live/dieter1/251116/61.ts
+
 #EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
-http://satterm.com:8080/live/dieter1/251116/1825.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1825.ts
+#EXTINF:-1,TR | A HABER
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/96.ts
+#EXTINF:-1,TR | A HABER HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/67.ts
+#EXTINF:-1,TR | A SPOR
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/58.ts
+#EXTINF:-1,TR | A SPOR HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/95.ts
+#EXTINF:-1,TR | ANIMASYON HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/114.ts
+#EXTINF:-1,TR | ATV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/93.ts
+#EXTINF:-1,TR | ATV HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/66.ts
+#EXTINF:-1,TR | BEYAZ TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/56.ts
+#EXTINF:-1,TR | BEYAZ TV HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/65.ts
+#EXTINF:-1,TR | BLOOMBERG TV HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/83.ts
+#EXTINF:-1,TR | CAY TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/53.ts
+#EXTINF:-1,TR | CNN TURK HABER
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/84.ts
+#EXTINF:-1,TR | HABER TURK
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/2786.ts
+#EXTINF:-1,TR | FLASH TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/55.ts
+#EXTINF:-1,TR | FOX HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/64.ts
+#EXTINF:-1,TR | FOX TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/80.ts
+#EXTINF:-1,TR | HALK TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/99.ts
+#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/102.ts
+#EXTINF:-1,TR | KANAL 7
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/70.ts
+#EXTINF:-1,TR | KANAL 7 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/69.ts
+#EXTINF:-1,TR | KANAL D
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/79.ts
+#EXTINF:-1,TR | KANAL D HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/68.ts
+#EXTINF:-1,TR | SHOW TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/90.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/63.ts
+#EXTINF:-1,TR | STAR TV
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/91.ts
+#EXTINF:-1,TR | STAR TV HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/62.ts
+
+#EXTINF:-1,TR | TRT 1
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/94.ts
+#EXTINF:-1,TR | TRT 1 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/77.ts
+#EXTINF:-1,TR | TRT 3 SPOR
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/61.ts
 #EXTINF:-1,TR | TRT BELGESEL HD
-http://satterm.com:8080/live/dieter1/251116/71.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/71.ts
 #EXTINF:-1,TR | TRT COCUK
-http://satterm.com:8080/live/dieter1/251116/73.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/73.ts
 #EXTINF:-1,TR | TRT HABER
-http://satterm.com:8080/live/dieter1/251116/72.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/72.ts
 #EXTINF:-1,TR | TRT MUZIK
-http://satterm.com:8080/live/dieter1/251116/57.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/57.ts
 #EXTINF:-1,TR | TRT SPOR
-http://satterm.com:8080/live/dieter1/251116/76.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/76.ts
 #EXTINF:-1,TR | TRT SPOR HD
-http://satterm.com:8080/live/dieter1/251116/60.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/60.ts
 #EXTINF:-1,TR | TV 2
-http://satterm.com:8080/live/dieter1/251116/75.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/75.ts
 #EXTINF:-1,TR | TV8
-http://satterm.com:8080/live/dieter1/251116/92.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/92.ts
 #EXTINF:-1,TR | TV8 HD
-http://satterm.com:8080/live/dieter1/251116/59.ts
-#EXTINF:-1,TR | KANAL CAY
-http://satterm.com:8080/live/dieter1/251116/1848.ts
-#EXTINF:-1,TR | GS TV
-http://satterm.com:8080/live/dieter1/251116/1840.ts
-#EXTINF:-1,TR | FB TV
-http://satterm.com:8080/live/dieter1/251116/1835.ts
-#EXTINF:-1,TR | BJK TV
-http://satterm.com:8080/live/dieter1/251116/2775.ts
-#EXTINF:-1,TR | NTV
-http://satterm.com:8080/live/dieter1/251116/98.ts
-#EXTINF:-1,TR | NTV SPOR
-http://satterm.com:8080/live/dieter1/251116/78.ts
-#EXTINF:-1,TR | NTV SPOR HD
-http://satterm.com:8080/live/dieter1/251116/97.ts
-#EXTINF:-1,TR | NUMBER ONE
-http://satterm.com:8080/live/dieter1/251116/51.ts
-#EXTINF:-1,TR | POWERTURK HD
-http://satterm.com:8080/live/dieter1/251116/4657.ts
-#EXTINF:-1,TR | KRAL TV
-http://satterm.com:8080/live/dieter1/251116/4658.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/59.ts
 #EXTINF:-1,TR | SEMERKAND TV HD
-http://satterm.com:8080/live/dieter1/251116/1843.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1843.ts
 #EXTINF:-1,TR | PLANET TURK
-http://satterm.com:8080/live/dieter1/251116/1844.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1844.ts
 #EXTINF:-1,TR | PLANET PEMBE
-http://satterm.com:8080/live/dieter1/251116/1845.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1845.ts
 #EXTINF:-1,TR | PLANET MUTFAK
-http://satterm.com:8080/live/dieter1/251116/1846.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1846.ts
 #EXTINF:-1,TR | PLANET COCUK
-http://satterm.com:8080/live/dieter1/251116/1847.ts
-#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
-http://satterm.com:8080/live/dieter1/251116/1824.ts
-
-
-#EXTINF:-1,TR I History HD TR ( DIGITURK )
-http://satterm.com:8080/live/dieter1/251116/101.ts
-#EXTINF:-1,TR | BBC Earth HD-dsmart
-http://satterm.com:8080/live/dieter1/251116/100.ts
-#EXTINF:-1,TR | NBA TV HD
-http://satterm.com:8080/live/dieter1/251116/89.ts
-
-#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
-http://satterm.com:8080/live/dieter1/251116/103.ts
-
-
-
-#EXTINF:-1,TR | TLC
-http://satterm.com:8080/live/dieter1/251116/74.ts
-
-#EXTINF:-1,TR | TV8.5
-http://satterm.com:8080/live/dieter1/251116/3107.ts
-
-#EXTINF:-1,TR | YABAN TV
-http://satterm.com:8080/live/dieter1/251116/50.ts
-#EXTINF:-1,TR | VIVA TV
-http://satterm.com:8080/live/dieter1/251116/1841.ts
-#EXTINF:-1,TR | SPORTS TV
-http://satterm.com:8080/live/dieter1/251116/1834.ts
-
-#EXTINF:-1,TR | NUMBER ONE TURK
-http://satterm.com:8080/live/dieter1/251116/1849.ts
-#EXTINF:-1,TR | National Geographic Wild
-http://satterm.com:8080/live/dieter1/251116/1837.ts
-
-#EXTINF:-1,TR | BABY TV
-http://satterm.com:8080/live/dieter1/251116/1828.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1847.ts
 #EXTINF:-1,TR | Animal Planet
-http://satterm.com:8080/live/dieter1/251116/1836.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1836.ts
 #EXTINF:-1,TR | ULUSAL TV
-http://satterm.com:8080/live/dieter1/251116/4261.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4261.ts
 #EXTINF:-1,TR | TRT KURDI
-http://satterm.com:8080/live/dieter1/251116/4264.ts
-#EXTINF:-1,TR | MELTEM TV
-http://satterm.com:8080/live/dieter1/251116/4262.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4264.ts
 #EXTINF:-1,TR | IZ TV ( DIJITURK )
-http://satterm.com:8080/live/dieter1/251116/4259.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4259.ts
 #EXTINF:-1,TR | IP Mutfak
-http://satterm.com:8080/live/dieter1/251116/4265.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4265.ts
 #EXTINF:-1,TR | BURSASPOR  TV
-http://satterm.com:8080/live/dieter1/251116/4260.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4260.ts
 #EXTINF:-1,TR | RUMELI TV
-http://satterm.com:8080/live/dieter1/251116/4662.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4662.ts
 #EXTINF:-1,TR I CEM TV
-http://satterm.com:8080/live/dieter1/251116/4263.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4263.ts
 #EXTINF:-1,TR I TBMM TV
-http://satterm.com:8080/live/dieter1/251116/4656.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4656.ts
 #EXTINF:-1,TR I SKY 360
-http://satterm.com:8080/live/dieter1/251116/4267.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4267.ts
 #EXTINF:-1,TR I A2 HD
-http://satterm.com:8080/live/dieter1/251116/4268.ts
-
-
-
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4268.ts
 
 #EXTINF:-1,***** SINEMA *****
 
 #EXTINF:-1,DE:group-title="Sinema",Sinema
-#EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
-http://satterm.com:8080/live/dieter1/251116/1831.ts
-#EXTINF:-1,TR | Sinetivi HD FILBOX
-http://satterm.com:8080/live/dieter1/251116/1832.ts
-#EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
-http://satterm.com:8080/live/dieter1/251116/1842.ts
-#EXTINF:-1,TR | FILMBOX HD-D-Smart
-http://satterm.com:8080/live/dieter1/251116/1821.ts
-#EXTINF:-1,TR | FIL TV(FILBOX)
-http://satterm.com:8080/live/dieter1/251116/1827.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
-http://satterm.com:8080/live/dieter1/251116/1820.ts
-#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
-http://satterm.com:8080/live/dieter1/251116/1823.ts
-#EXTINF:-1,TR | SINEMA TV ( FILBOX)
-http://satterm.com:8080/live/dieter1/251116/1826.ts
-#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
-http://satterm.com:8080/live/dieter1/251116/1822.ts
-#EXTINF:-1,TR | VIP CHANNEL 2 HD
-http://satterm.com:8080/live/dieter1/251116/115.ts
-#EXTINF:-1,TR | VIP CHANNEL HD
-http://satterm.com:8080/live/dieter1/251116/131.ts
-#EXTINF:-1,TR | VIP CHANNEL TURK HD
-http://satterm.com:8080/live/dieter1/251116/124.ts
 #EXTINF:-1,TR | SALON 1 HD
-http://satterm.com:8080/live/dieter1/251116/129.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/129.ts
 #EXTINF:-1,TR | SALON 2  HD
-http://satterm.com:8080/live/dieter1/251116/128.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/128.ts
 #EXTINF:-1,TR | SALON 3 HD
-http://satterm.com:8080/live/dieter1/251116/127.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/127.ts
 #EXTINF:-1,TR I SALON 3D HD
-http://satterm.com:8080/live/dieter1/251116/3108.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3108.ts
+#EXTINF:-1,TR | FILMBOX HD-D-Smart
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1821.ts
+#EXTINF:-1,TR | FIL TV(FILBOX)
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1827.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1820.ts
+#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1823.ts
+#EXTINF:-1,TR | SINEMA TV ( FILBOX)
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1826.ts
+#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1822.ts
 #EXTINF:-1,TR | YESILCAM 1 HD
-http://satterm.com:8080/live/dieter1/251116/123.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/123.ts
 #EXTINF:-1,TR | YESILCAM 2 HD
-http://satterm.com:8080/live/dieter1/251116/122.ts
-#EXTINF:-1,TR | LOCA 1 HD
-http://satterm.com:8080/live/dieter1/251116/121.ts
-#EXTINF:-1,TR | LOCA 2 HD
-http://satterm.com:8080/live/dieter1/251116/120.ts
-#EXTINF:-1,TR | LOCA 3 HD
-http://satterm.com:8080/live/dieter1/251116/119.ts
-#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
-http://satterm.com:8080/live/dieter1/251116/109.ts
-#EXTINF:-1,TR | MINIKA COCUK
-http://satterm.com:8080/live/dieter1/251116/82.ts
-#EXTINF:-1,TR | BOOMERANG COCUK DSMART
-http://satterm.com:8080/live/dieter1/251116/3105.ts
-#EXTINF:-1,TR | SMART COCUK DSMART
-http://satterm.com:8080/live/dieter1/251116/3106.ts
-#EXTINF:-1,TR | MINIKA GO
-http://satterm.com:8080/live/dieter1/251116/81.ts
-#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
-http://satterm.com:8080/live/dieter1/251116/108.ts
-#EXTINF:-1,TR | DIZI TV HD FILBOX
-http://satterm.com:8080/live/dieter1/251116/106.ts
-#EXTINF:-1,TR | MOVIEMAX COMEDY HD
-http://satterm.com:8080/live/dieter1/251116/104.ts
-#EXTINF:-1,TR | MOVIEMAX FAMILY HD
-http://satterm.com:8080/live/dieter1/251116/111.ts
-#EXTINF:-1,TR | MOVIEMAX FESTIVAL HD
-http://satterm.com:8080/live/dieter1/251116/105.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
-http://satterm.com:8080/live/dieter1/251116/110.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER HD
-http://satterm.com:8080/live/dieter1/251116/130.ts
-#EXTINF:-1,TR | MOVIEMAX STARS HD
-http://satterm.com:8080/live/dieter1/251116/112.ts
-#EXTINF:-1,TR | MOVIEMAX TURK HD
-http://satterm.com:8080/live/dieter1/251116/117.ts
-#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
-http://satterm.com:8080/live/dieter1/251116/118.ts
-#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
-http://satterm.com:8080/live/dieter1/251116/2787.ts
-#EXTINF:-1,TR | DIZISMART PLATIN DSMART
-http://satterm.com:8080/live/dieter1/251116/107.ts
-#EXTINF:-1,TR | EGE TV
-http://satterm.com:8080/live/dieter1/251116/54.ts
-#EXTINF:-1,TR | FILM TV HD
-http://satterm.com:8080/live/dieter1/251116/116.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/122.ts
 #EXTINF:-1,TR | SINE TV HD ( TIVIBU )
-http://satterm.com:8080/live/dieter1/251116/113.ts
-#EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
-http://satterm.com:8080/live/dieter1/251116/1833.ts
-#EXTINF:-1,TR | Movie Platin 2 HD DSMART
-http://satterm.com:8080/live/dieter1/251116/1838.ts
-#EXTINF:-1,TR | MOVIE GOLD DSMART
-http://satterm.com:8080/live/dieter1/251116/1830.ts
-#EXTINF:-1,TR | MOVIE FAMILY DSMART
-http://satterm.com:8080/live/dieter1/251116/1829.ts
-#EXTINF:-1,TR I DIZIMAX COMEDY HD ( DIGITURK )
-http://satterm.com:8080/live/dieter1/251116/4269.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
-http://satterm.com:8080/live/dieter1/251116/1839.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/113.ts
+#EXTINF:-1,TR | LOCA 1 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/121.ts
+#EXTINF:-1,TR | LOCA 2 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/120.ts
+#EXTINF:-1,TR | LOCA 3 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/119.ts
+#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/109.ts
+#EXTINF:-1,TR | MINIKA COCUK
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/82.ts
+#EXTINF:-1,TR | BOOMERANG COCUK DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3105.ts
+#EXTINF:-1,TR | FILM TV HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/116.ts
 
+#EXTINF:-1,TR | SMART COCUK DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3106.ts
+#EXTINF:-1,TR | MINIKA GO
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/81.ts
+#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/108.ts
+#EXTINF:-1,TR | DIZI TV HD FILBOX
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/106.ts
+#EXTINF:-1,TR | MOVIEMAX COMEDY HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/104.ts
+#EXTINF:-1,TR | MOVIEMAX FAMILY HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/111.ts
+#EXTINF:-1,TR | MOVIEMAX FESTIVAL HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/105.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/110.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/130.ts
+#EXTINF:-1,TR | MOVIEMAX STARS HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/112.ts
+#EXTINF:-1,TR | MOVIEMAX TURK HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/117.ts
+#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/118.ts
+#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/2787.ts
+#EXTINF:-1,TR | DIZISMART PLATIN DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/107.ts
+#EXTINF:-1,TR | VIP CHANNEL 2 HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/115.ts
+#EXTINF:-1,TR | VIP CHANNEL HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/131.ts
+#EXTINF:-1,TR | VIP CHANNEL TURK HD
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/124.ts
+#EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1831.ts
+#EXTINF:-1,TR | Sinetivi HD FILBOX
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1832.ts
+#EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1842.ts
+#EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1833.ts
+#EXTINF:-1,TR | Movie Platin 2 HD DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1838.ts
+#EXTINF:-1,TR | MOVIE GOLD DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1830.ts
+#EXTINF:-1,TR | MOVIE FAMILY DSMART
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1829.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1839.ts
 
 
 
@@ -492,18 +429,31 @@ http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/134.ts
 http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/133.ts
 #EXTINF:-1,TR | LIGTV 4 HD
 http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/132.ts
+
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/103.ts
+
+
+#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/85.ts
+#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/86.ts
+
 #EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://satterm.com:8080/live/dieter1/251116/87.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/87.ts
 #EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://satterm.com:8080/live/dieter1/251116/126.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/126.ts
 #EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://satterm.com:8080/live/dieter1/251116/125.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/125.ts
 #EXTINF:-1,TR | TIVIBU SPOR HD 2
-http://satterm.com:8080/live/dieter1/251116/88.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/88.ts
 #EXTINF:-1,AR | BEIN SPORT 1 HD
-http://satterm.com:8080/live/dieter1/251116/3195.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3195.ts
 #EXTINF:-1,AR | BEIN SPORT 2 HD
-http://satterm.com:8080/live/dieter1/251116/3196.ts
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3196.ts
+#EXTINF:-1,TR | TLC
+http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/74.ts
+
 #EXTINF:-1,DE | SKY BUNDESLIGA 1HD
 http://satterm.com:8080/live/dieter1/251116/1481.ts
 #EXTINF:-1,DE | VOX
