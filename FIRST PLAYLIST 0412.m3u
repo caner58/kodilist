@@ -4,165 +4,143 @@
 
 
 #EXTINF:-1,DE:group-title="SKY",SKY
+#EXTINF:-1,DE - Sky Select 1 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2458.ts
+#EXTINF:-1,DE - Sky Select 2 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2457.ts
+#EXTINF:-1,DE - Sky Select 3 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2456.ts
+#EXTINF:-1,DE - Sky Select 4 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2455.ts
+#EXTINF:-1,DE - Sky Select 5 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2454.ts
+#EXTINF:-1,DE - Sky Select 6 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2453.ts
+#EXTINF:-1,DE - Sky Select 7 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2452.ts
+#EXTINF:-1,DE - Sky Select 8 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2451.ts
+#EXTINF:-1,DE - Sky Select 9 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2450.ts
+#EXTINF:-1,DE - Sky Cinema HD
+http://merak.dyndns.tv:18500/live/papa/papa/1258.ts
+#EXTINF:-1,DE - Sky Cinema +1 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2349.ts
+#EXTINF:-1,DE - Sky Cinema+24 HD
+http://merak.dyndns.tv:18500/live/papa/papa/1686.ts
+#EXTINF:-1,DE - Sky Action HD
+http://merak.dyndns.tv:18500/live/papa/papa/1270.ts
+#EXTINF:-1,DE - Sky Comedy
+http://merak.dyndns.tv:18500/live/papa/papa/2360.ts
+#EXTINF:-1,DE - Sky Emotion
+http://merak.dyndns.tv:18500/live/papa/papa/1171.ts
+#EXTINF:-1,DE - SKY Nostalgie
+http://merak.dyndns.tv:18500/live/papa/papa/1263.ts
+#EXTINF:-1,DE - Sky Hits
+http://merak.dyndns.tv:18500/live/papa/papa/1685.ts
+#EXTINF:-1,DE - Sky  MGM HD
+http://merak.dyndns.tv:18500/live/papa/papa/1684.ts
+#EXTINF:-1,DE - Kinowelt
+http://merak.dyndns.tv:18500/live/papa/papa/2579.ts
+#EXTINF:-1,DE - TNT Film
+http://merak.dyndns.tv:18500/live/papa/papa/2481.ts
+#EXTINF:-1,DE - Romance HD
+http://merak.dyndns.tv:18500/live/papa/papa/2487.ts
+#EXTINF:-1,DE - 13th Street HD
+http://merak.dyndns.tv:18500/live/papa/papa/1278.ts
+#EXTINF:-1,DE - Universal HD
+http://merak.dyndns.tv:18500/live/papa/papa/2483.ts
+#EXTINF:-1,De - Sky Heimatkanal
+http://merak.dyndns.tv:18500/live/papa/papa/2423.ts
+EXTINF:-1,DE - Sky Atlantic HD
+http://merak.dyndns.tv:18500/live/papa/papa/1277.ts
+#EXTINF:-1,DE - Sky Atlantic+1 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2361.ts
+#EXTINF:-1,DE - Sky Syfy HD
+http://merak.dyndns.tv:18500/live/papa/papa/2432.ts
+#EXTINF:-1,DE - Sky Krimi HD
+http://merak.dyndns.tv:18500/live/papa/papa/2434.ts
 
-#EXTINF:-1,DE | SKY SELECT 1
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1495.ts
-#EXTINF:-1,DE | SKY SELECT 2HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1494.ts
-#EXTINF:-1,DE | Sky Select 3 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1493.ts
-#EXTINF:-1,DE | Sky Select 4 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1492.ts
-#EXTINF:-1,DE | Sky Select 5 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1491.ts
-#EXTINF:-1,DE | Sky Select 6 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1490.ts
-#EXTINF:-1,DE | Sky Select 7HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1489.ts
-#EXTINF:-1,DE | Sky Select 8HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1488.ts
-#EXTINF:-1,DE | Sky Krimi / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1400.ts
-#EXTINF:-1,DE | Sky Cinema Hits uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1401.ts
-#EXTINF:-1,DE | Sky Cinema Nostalgie / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1406.ts
-#EXTINF:-1,DE | Sky Cinema Comedy uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1407.ts
-#EXTINF:-1,DE | Sky Cinema uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1408.ts
-#EXTINF:-1,DE | SkyAction
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1404.ts
-#EXTINF:-1,DE | Sky Atlantic uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1403.ts
-#EXTINF:-1,DE | SkyCinema24
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1405.ts
-#EXTINF:-1,DE | SkyCinema
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1425.ts
-#EXTINF:-1,DE | SKY Comedy one
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1432.ts
-#EXTINF:-1,DE | Sky Cinema +1 uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1410.ts
-#EXTINF:-1,DE | Sky Cinema Emotion uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2630.ts
-#EXTINF:-1,DE | Sky Cinema Action uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2628.ts
-#EXTINF:-1,DE | SKY MGM HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1399.ts
-#EXTINF:-1,DE | SKY TNT SERIES HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2625.ts
-#EXTINF:-1,DE | SKY TNT FILME HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2624.ts
 
 
 #EXTINF:-1,***** DEUTSCH *****
 
 #EXTINF:-1,DE:group-title="Deutsch",Deutsch
-
-#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1506.ts
-#EXTINF:-1,DE | Pro7
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1507.ts
-#EXTINF:-1,DE | RTL_LIVING
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1508.ts
-#EXTINF:-1,DE | RTL Television/CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1420.ts
-#EXTINF:-1,DE | RTLII HD / CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1427.ts
-#EXTINF:-1,DE | RTL Crime / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1509.ts
-#EXTINF:-1,DE | RTL HD / CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1513.ts
-#EXTINF:-1,DE | RTL2/CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1512.ts
-#EXTINF:-1,DE | RTL NITRO/CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1511.ts
-#EXTINF:-1,DE | RTLplus/CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/4667.ts
-#EXTINF:-1,DE | RTL Passion / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2626.ts
-#EXTINF:-1,DE | SUPER RTL/CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1419.ts
-#EXTINF:-1,DE | NatGeo Wild / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1411.ts
-#EXTINF:-1,DE | 13Street
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1402.ts
-#EXTINF:-1,DE | ORF1
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1421.ts
-#EXTINF:-1,DE | VOX HD / CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1423.ts
-#EXTINF:-1,DE | PRO 7.
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1428.ts
-#EXTINF:-1,DE | ZDF /ZDFvision  uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1422.ts
-#EXTINF:-1,DE | ZDFinfo/ZDFvision uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1473.ts
-#EXTINF:-1,DE | ProSieben / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1409.ts
-#EXTINF:-1,DE | NDR HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1477.ts
-#EXTINF:-1,DE | Fox hd
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1522.ts
-#EXTINF:-1,DE | Fox Serie uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/4670.ts
-#EXTINF:-1,DE | AXN.
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1523.ts
-#EXTINF:-1,DE | Sat1 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1510.ts
-#EXTINF:-1,DE | Srf1
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1472.ts
-#EXTINF:-1,DE | N TV.
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1474.ts
-#EXTINF:-1,DE | ROMANCE
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1475.ts
-#EXTINF:-1,DE | zdf neo/ZDFvision uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1476.ts
-#EXTINF:-1,DE | Eurosport HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1478.ts
-#EXTINF:-1,DE | WDRHD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1480.ts
-#EXTINF:-1,DE | VOX/CBC uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1514.ts
-#EXTINF:-1,DE | ZDF /ZDFvision uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1515.ts
-#EXTINF:-1,DE | ORF2
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1517.ts
-#EXTINF:-1,DE | D MAX HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1518.ts
-#EXTINF:-1,DE | HISTORY CHANNEL HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1497.ts
-#EXTINF:-1,DE | Sky Cinema Family / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1498.ts
-#EXTINF:-1,DE | TNT Serie HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1520.ts
-#EXTINF:-1,DE | NatGeo Wild / SKY  uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1499.ts
-#EXTINF:-1,DE | arte / ARD  uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1500.ts
-#EXTINF:-1,DE | arte / ARD uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1516.ts
-#EXTINF:-1,DE | Disney Junior / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1501.ts
-#EXTINF:-1,DE | Disney_XD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1502.ts
-#EXTINF:-1,DE | NICK_JR
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1504.ts
-#EXTINF:-1,DE | SYFY
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1521.ts
-#EXTINF:-1,DE | WDR uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1505.ts
-#EXTINF:-1,DE | SIXX.
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1519.ts
-#EXTINF:-1,DE | kabel eins / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2627.ts
-#EXTINF:-1,DE | HEIMAT KANAL
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2631.ts
-#EXTINF:-1,DE | Disney Cinemagic / SKY uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2632.ts
-#EXTINF:-1,DE | kabel eins Doku / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/4669.ts
-#EXTINF:-1,DE | N24 / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/4668.ts
+#EXTINF:-1,DE - Das Erste
+http://merak.dyndns.tv:18500/live/papa/papa/2345.ts
+#EXTINF:-1,DE - ZDF HD
+http://merak.dyndns.tv:18500/live/papa/papa/2435.ts
+#EXTINF:-1,DE - WDR
+http://merak.dyndns.tv:18500/live/papa/papa/2437.ts
+#EXTINF:-1,DE - SAT.1 HD
+http://merak.dyndns.tv:18500/live/papa/papa/1269.ts
+#EXTINF:-1,DE - RTL HD
+http://merak.dyndns.tv:18500/live/papa/papa/1265.ts
+#EXTINF:-1,DE - RTL II HD
+http://merak.dyndns.tv:18500/live/papa/papa/1266.ts
+#EXTINF:-1,DE - SUPER RTL HD
+http://merak.dyndns.tv:18500/live/papa/papa/2328.ts
+#EXTINF:-1,DE - KABEL 1 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2477.ts
+#EXTINF:-1,DE - ProSieben HD
+http://merak.dyndns.tv:18500/live/papa/papa/2350.ts
+#EXTINF:-1,DE - VOX HD
+http://merak.dyndns.tv:18500/live/papa/papa/1267.ts
+#EXTINF:-1,DE - Fox HD
+http://merak.dyndns.tv:18500/live/papa/papa/1271.ts
+#EXTINF:-1,DE - Sky Fox Serie
+http://merak.dyndns.tv:18500/live/papa/papa/1279.ts
+#EXTINF:-1,DE - TNT Serie
+http://merak.dyndns.tv:18500/live/papa/papa/1280.ts
+#EXTINF:-1,DE - AXN HD
+http://merak.dyndns.tv:18500/live/papa/papa/1681.ts
+#EXTINF:-1,DE - RTL Crime
+http://merak.dyndns.tv:18500/live/papa/papa/2422.ts
+#EXTINF:-1,DE - RTL Passion
+http://merak.dyndns.tv:18500/live/papa/papa/2433.ts
+#EXTINF:-1,DE - RTL Living
+http://merak.dyndns.tv:18500/live/papa/papa/2484.ts
+#EXTINF:-1,DE - Pro7 MAXX
+http://merak.dyndns.tv:18500/live/papa/papa/2486.ts
+#EXTINF:-1,DE - SKY E! Entertainment HD
+http://merak.dyndns.tv:18500/live/papa/papa/2790.ts
+#EXTINF:-1,DE - Sixx HD
+http://merak.dyndns.tv:18500/live/papa/papa/2476.ts
+#EXTINF:-1,DE - Ran 1
+http://merak.dyndns.tv:18500/live/papa/papa/2471.ts
+#EXTINF:-1,DE - Sky Discovery HD
+http://merak.dyndns.tv:18500/live/papa/papa/1261.ts
+#EXTINF:-1,DE - Sky NatGeo HD
+http://merak.dyndns.tv:18500/live/papa/papa/1262.ts
+#EXTINF:-1,DE - Sky Nat Geo Wild HD
+http://merak.dyndns.tv:18500/live/papa/papa/1683.ts
+#EXTINF:-1,DE - Sky History HD
+http://merak.dyndns.tv:18500/live/papa/papa/1370.ts
+#EXTINF:-1,DE - Sky Spiegel Geschichte
+http://merak.dyndns.tv:18500/live/papa/papa/2425.ts
+#EXTINF:-1,DE - Sky DMAX HD
+http://merak.dyndns.tv:18500/live/papa/papa/2357.ts
+http://merak.dyndns.tv:18500/live/papa/papa/2574.ts
+#EXTINF:-1,DE - Sky Disney Channel HD
+http://merak.dyndns.tv:18500/live/papa/papa/2332.ts
+#EXTINF:-1,DE - Sky Nickelodeon HD
+http://merak.dyndns.tv:18500/live/papa/papa/2331.ts
+#EXTINF:-1,DE - Sky Disney Cinemagic
+http://merak.dyndns.tv:18500/live/papa/papa/2359.ts
+#EXTINF:-1,DE - Sky Disney XD
+http://merak.dyndns.tv:18500/live/papa/papa/2436.ts
+#EXTINF:-1,DE - SKY  Disney Junior HD
+http://merak.dyndns.tv:18500/live/papa/papa/1264.ts
+#EXTINF:-1,DE - Sky Junior
+http://merak.dyndns.tv:18500/live/papa/papa/2430.ts
+#EXTINF:-1,DE - Nick junior
+http://merak.dyndns.tv:18500/live/papa/papa/2495.ts
+#EXTINF:-1,DE -  KiKa
+http://merak.dyndns.tv:18500/live/papa/papa/2496.ts
+#EXTINF:-1,DE - Boomerang
+http://merak.dyndns.tv:18500/live/papa/papa/2488.ts
+#EXTINF:-1,DE - SKY Cartoon Network
+http://merak.dyndns.tv:18500/live/papa/papa/2789.ts
 
 
 
@@ -387,64 +365,59 @@ http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/113.ts
 
 #EXTINF:-1,group-title="SPORT",Sport
 
-#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/2785.ts
-#EXTINF:-1,TR I LIG TV 1  HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/3150.ts
-#EXTINF:-1,TR | LIGTV 1 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/135.ts
-#EXTINF:-1,TR | LIG TV 2 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/134.ts
-#EXTINF:-1,TR | LIG TV 3 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/133.ts
-#EXTINF:-1,TR | LIGTV 4 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/132.ts
-#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1824.ts
-#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/103.ts
-
-
-#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/85.ts
-#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/86.ts
-
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/87.ts
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/126.ts
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/125.ts
-#EXTINF:-1,TR | TIVIBU SPOR HD 2
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/88.ts
-#EXTINF:-1,AR | BEIN SPORT 1 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/3195.ts
-#EXTINF:-1,AR | BEIN SPORT 2 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/3196.ts
-#EXTINF:-1,DE | SKY SPORT1 HD uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1417.ts
-#EXTINF:-1,DE | SKY SPORT 2 HD uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1415.ts
-#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1431.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu..
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1416.ts
-#EXTINF:-1,DE | EURO SPORT
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1412.ts
-#EXTINF:-1,DE | EUROSPORT2
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1413.ts
-#EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1481.ts
-#EXTINF:-1,DE | SKY SPORT NEWS HD uuu.
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1482.ts
-#EXTINF:-1,DE | SKYSPORT AUSTRIA
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1483.ts
-#EXTINF:-1,DE | SKY SPORT 2 HD uuu.
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1484.ts
-#EXTINF:-1,DE | SPORT1 US HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1485.ts
-#EXTINF:-1,DE | SPORT +1 HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1486.ts
-#EXTINF:-1,DE | SPORT 1  HD
-http://biwsat.com:8080/live/dvJj8oeP3U/LR1cY8Od0C/1487.ts
+#EXTINF:-1,DE - Sky Bundesliga HD 1
+http://merak.dyndns.tv:18500/live/papa/papa/1259.ts
+#EXTINF:-1,DE - SKY Bundesliga HD 2
+http://merak.dyndns.tv:18500/live/papa/papa/1680.ts
+#EXTINF:-1,DE - Sky Bundesliga 3 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2461.ts
+#EXTINF:-1,DE - Sky Bundesliga 4 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2460.ts
+#EXTINF:-1,DE - Sky Bundesliga 5 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2459.ts
+#EXTINF:-1,DE - Sky Bundesliga 6
+http://merak.dyndns.tv:18500/live/papa/papa/2589.ts
+#EXTINF:-1,DE - Sky Bundesliga 7
+http://merak.dyndns.tv:18500/live/papa/papa/2590.ts
+#EXTINF:-1,DE - Sky Bundesliga 8
+http://merak.dyndns.tv:18500/live/papa/papa/2591.ts
+#EXTINF:-1,DE - Sky Bundesliga 9
+http://merak.dyndns.tv:18500/live/papa/papa/2592.ts
+#EXTINF:-1,DE - Sky Bundesliga 10
+http://merak.dyndns.tv:18500/live/papa/papa/2593.ts
+#EXTINF:-1,DE - Sky Sport News HD
+http://merak.dyndns.tv:18500/live/papa/papa/2358.ts
+#EXTINF:-1,DE - Sky Sport Austria HD
+http://merak.dyndns.tv:18500/live/papa/papa/2426.ts
+#EXTINF:-1,DE - Sport 1 US HD
+http://merak.dyndns.tv:18500/live/papa/papa/2490.ts
+#EXTINF:-1,DE - Sport1 + HD
+http://merak.dyndns.tv:18500/live/papa/papa/2489.ts
+#EXTINF:-1,DE - Sport Digital HD
+http://merak.dyndns.tv:18500/live/papa/papa/2491.ts
+#EXTINF:-1,DE - Eurosport 1 HD
+http://merak.dyndns.tv:18500/live/papa/papa/2493.ts
+#EXTINF:-1,DE - Sky Motorvision TV
+http://merak.dyndns.tv:18500/live/papa/papa/2424.ts
+#EXTINF:-1,DE - Sky Sport  HD 1
+http://merak.dyndns.tv:18500/live/papa/papa/1260.ts
+#EXTINF:-1,DE - Sky Sport  HD 2
+http://merak.dyndns.tv:18500/live/papa/papa/1276.ts
+#EXTINF:-1,DE - Sky Sport 3
+http://merak.dyndns.tv:18500/live/papa/papa/2580.ts
+#EXTINF:-1,DE - Sky Sport 4
+http://merak.dyndns.tv:18500/live/papa/papa/2581.ts
+#EXTINF:-1,DE - Sky Sport 5
+http://merak.dyndns.tv:18500/live/papa/papa/2582.ts
+#EXTINF:-1,DE - Sky Sport 6
+http://merak.dyndns.tv:18500/live/papa/papa/2583.ts
+#EXTINF:-1,DE - Sky Sport 7
+http://merak.dyndns.tv:18500/live/papa/papa/2584.ts
+#EXTINF:-1,DE - Sky Sport 8
+http://merak.dyndns.tv:18500/live/papa/papa/2585.ts
+#EXTINF:-1,DE - Sky Sport 9
+http://merak.dyndns.tv:18500/live/papa/papa/2586.ts
+#EXTINF:-1,DE - Sky Sport 10
+http://merak.dyndns.tv:18500/live/papa/papa/2588.ts
+#EXTINF:-1,DE - Sky Sport 11
+http://merak.dyndns.tv:18500/live/papa/papa/2587.ts
