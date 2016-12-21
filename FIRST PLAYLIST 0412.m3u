@@ -4,483 +4,354 @@
 
 
 #EXTINF:-1,DE:group-title="SKY",SKY
-#EXTINF:-1,DE Sky Select HD 1
-http://137.74.94.161:8000/live/wendy1/wendy1/10126.ts
-#EXTINF:-1,DE Sky Select HD 2
-http://137.74.94.161:8000/live/wendy1/wendy1/10127.ts
-#EXTINF:-1,DE Sky Select HD 3
-http://137.74.94.161:8000/live/wendy1/wendy1/10128.ts
-#EXTINF:-1,DE Sky Select HD 4
-http://137.74.94.161:8000/live/wendy1/wendy1/10129.ts
-#EXTINF:-1,DE Sky Select HD 5
-http://137.74.94.161:8000/live/wendy1/wendy1/10130.ts
-#EXTINF:-1,DE Sky Select HD 6
-http://137.74.94.161:8000/live/wendy1/wendy1/10131.ts
-#EXTINF:-1,DE Sky Select HD 7
-http://137.74.94.161:8000/live/wendy1/wendy1/10132.ts
-#EXTINF:-1,DE Sky Select HD 8
-http://137.74.94.161:8000/live/wendy1/wendy1/10133.ts
-#EXTINF:-1,DE | SKY SELECT 1
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1495.ts
-#EXTINF:-1,DE | SKY SELECT 2HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1494.ts
-#EXTINF:-1,DE | Sky Select 3 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1493.ts
-#EXTINF:-1,DE | Sky Select 4 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1492.ts
-#EXTINF:-1,DE | Sky Select 5 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1491.ts
-#EXTINF:-1,DE | Sky Select 6 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1490.ts
-#EXTINF:-1,DE | Sky Select 7HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1489.ts
-#EXTINF:-1,DE | Sky Select 8HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1488.ts
-#EXTINF:-1,DE | SKY CINEMA1 HD
-http://satterm.com:8080/live/dieter1/251116/1406.ts
-#EXTINF:-1,DE | SKY COMEDY HD
-http://satterm.com:8080/live/dieter1/251116/1407.ts
-#EXTINF:-1,DE | SKY CINEMA HD
-http://satterm.com:8080/live/dieter1/251116/1408.ts
-#EXTINF:-1,DE | SkyAction
-http://satterm.com:8080/live/dieter1/251116/1404.ts
-#EXTINF:-1,DE | SkyAtlantic
-http://satterm.com:8080/live/dieter1/251116/1403.ts
-#EXTINF:-1,DE | SkyCinema24
-http://satterm.com:8080/live/dieter1/251116/1405.ts
-#EXTINF:-1,DE | SKY TNT SERIES HD
-http://satterm.com:8080/live/dieter1/251116/2625.ts
-#EXTINF:-1,DE | SKY TNT FILME HD
-http://satterm.com:8080/live/dieter1/251116/2624.ts
-#EXTINF:-1,DE | SkyCinema
-http://satterm.com:8080/live/dieter1/251116/1425.ts
-#EXTINF:-1,DE | SKY Comedy one
-http://satterm.com:8080/live/dieter1/251116/1432.ts
-#EXTINF:-1,DE | SKY CINEMA +1
-http://satterm.com:8080/live/dieter1/251116/1410.ts
-#EXTINF:-1,DE | SKY KRIMI HD
-http://satterm.com:8080/live/dieter1/251116/1400.ts
-#EXTINF:-1,DE | SkyHits
-http://satterm.com:8080/live/dieter1/251116/1401.ts
-#EXTINF:-1,DE | SKY EMOTION
-http://satterm.com:8080/live/dieter1/251116/1473.ts
-#EXTINF:-1,DE | ROMANCE
-http://satterm.com:8080/live/dieter1/251116/1475.ts
-#EXTINF:-1,DE | SkyNostalgie
-http://satterm.com:8080/live/dieter1/251116/1476.ts
-#EXTINF:-1,DE: Sky 3D
-http://137.74.94.161:8000/live/wendy1/wendy1/10167.ts
-#EXTINF:-1,DE: Sky Bundesliga 1HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10168.ts
-#EXTINF:-1,DE: Sky Bundesliga 2HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10169.ts
-#EXTINF:-1,DE: Sky Cinema 1HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10170.ts
-#EXTINF:-1,DE: Sky Hits
-http://137.74.94.161:8000/live/wendy1/wendy1/10171.ts
-#EXTINF:-1,DE: Sky Krimi
-http://137.74.94.161:8000/live/wendy1/wendy1/10198.ts
-#EXTINF:-1,DE: Sky Sport 1HD-US
-http://137.74.94.161:8000/live/wendy1/wendy1/10175.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://137.74.94.161:8000/live/wendy1/wendy1/10172.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://137.74.94.161:8000/live/wendy1/wendy1/10173.ts
-#EXTINF:-1,DE: Sport1
-http://137.74.94.161:8000/live/wendy1/wendy1/10176.ts
-#EXTINF:-1,DE: Sport1HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10177.ts
-#EXTINF:-1,DE:Sky Sport 1HD
-http://137.74.94.161:8000/live/wendy1/wendy1/10189.ts
-#EXTINF:-1,DE:Sky.Discovery.ChannelHD
-http://137.74.94.161:8000/live/wendy1/wendy1/10190.ts
-#EXTINF:-1,DE:Sky007
-http://137.74.94.161:8000/live/wendy1/wendy1/10191.ts
-#EXTINF:-1,DE:SkyAction
-http://137.74.94.161:8000/live/wendy1/wendy1/10192.ts
-#EXTINF:-1,DE:SkyAtlantic
-http://137.74.94.161:8000/live/wendy1/wendy1/10193.ts
-#EXTINF:-1,DE:SkyCinema
-http://137.74.94.161:8000/live/wendy1/wendy1/10194.ts
-#EXTINF:-1,DE:SkyCinema 24
-http://137.74.94.161:8000/live/wendy1/wendy1/10195.ts
-#EXTINF:-1,DE:SkyComedy
-http://137.74.94.161:8000/live/wendy1/wendy1/10196.ts
-#EXTINF:-1,DE:SkyEmotion
-http://137.74.94.161:8000/live/wendy1/wendy1/10197.ts
-#EXTINF:-1,DE:SkyNostalgie
-http://137.74.94.161:8000/live/wendy1/wendy1/10199.ts
-#EXTINF:-1,DE:SkySportNews
-http://137.74.94.161:8000/live/wendy1/wendy1/10200.ts
-#EXTINF:-1,DE:TNTSerie
-http://137.74.94.161:8000/live/wendy1/wendy1/10202.ts
+
+#EXTINF:-1,[DE]:SKY_CINEMA_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/113.ts
+#EXTINF:-1,[DE]:SKY_CINEMA_+1_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/182.ts
+#EXTINF:-1,[DE]:SKY_CINEMA_+24
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/104.ts
+#EXTINF:-1,[DE]:SKY_ACTION
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/179.ts
+#EXTINF:-1,[DE]:SKY_EMOTION
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/112.ts
+#EXTINF:-1,[DE]:SKY_COMEDY
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/177.ts
+#EXTINF:-1,[DE]:SKY_ATLANTIC
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/480.ts
+#EXTINF:-1,[DE]:SKY_KRIMI
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/484.ts
+#EXTINF:-1,[DE]:Sky_MGM_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/110.ts
+#EXTINF:-1,[DE]:SKY_HITS_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/111.ts
+#EXTINF:-1,[DE]:SKY_NOSTALGIE
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/483.ts
+#EXTINF:-1,[DE]:TNT_FILM
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/120.ts
+#EXTINF:-1,[DE]:TNT_SERIE
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/119.ts
+#EXTINF:-1,[DE]:TNT_COMEDY
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/118.ts
 
 #EXTINF:-1,***** DEUTSCH *****
 
 #EXTINF:-1,DE:group-title="Deutsch",Deutsch
 
-#EXTINF:-1,DE | Fox hd
-http://satterm.com:8080/live/dieter1/251116/1522.ts
-#EXTINF:-1,DE | Kika.
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1429.ts
-#EXTINF:-1,DE | PRO7_MAXX
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1506.ts
-#EXTINF:-1,DE | Pro7
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1507.ts
-#EXTINF:-1,DE | SKY KRIMI HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1400.ts
-#EXTINF:-1,DE | RTL_LIVING
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1508.ts
-#EXTINF:-1,DE | SkyHits
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1401.ts
-#EXTINF:-1,DE | NatGeo Wild
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1411.ts
-#EXTINF:-1,DE | 13Street
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1402.ts
-#EXTINF:-1,DE | Sat1
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1426.ts
-#EXTINF:-1,DE | VOX.
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1423.ts
-#EXTINF:-1,DE | SAT 1.
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1418.ts
-#EXTINF:-1,DE | PRO 7.
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1428.ts
-#EXTINF:-1,DE | SuperRTL
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1419.ts
-#EXTINF:-1,DE | RTL HD uuu
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1420.ts
-#EXTINF:-1,DE | ZDF.
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1422.ts
-#EXTINF:-1,DE | KabelEins
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/2627.ts
-#EXTINF:-1,DE | RTL II
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1427.ts
-#EXTINF:-1,DE | Prosieben
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1409.ts
-#EXTINF:-1,DE | RTL HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1513.ts
-#EXTINF:-1,DE | Sat1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1510.ts
-#EXTINF:-1,DE | RTL_CRIME
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1509.ts
-#EXTINF:-1,DE | ZDF
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1515.ts
-#EXTINF:-1,DE | ORF2
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1517.ts
-#EXTINF:-1,DE | D MAX HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1518.ts
-#EXTINF:-1,DE | HISTORY CHANNEL HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1497.ts
-#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1498.ts
-#EXTINF:-1,DE | RTL2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1512.ts
-#EXTINF:-1,DE | TNT Serie HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1520.ts
-#EXTINF:-1,DE | NATGEOWILD HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1499.ts
-#EXTINF:-1,DE | ARD HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1500.ts
-#EXTINF:-1,DE | ARD TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1516.ts
-#EXTINF:-1,DE | Disney_Junior
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1501.ts
-#EXTINF:-1,DE | Disney_XD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1502.ts
-#EXTINF:-1,DE | NICK_JR
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1504.ts
-#EXTINF:-1,DE | SYFY
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1521.ts
-#EXTINF:-1,DE | WDR.
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1505.ts
-#EXTINF:-1,DE | RTL_NITRO
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1511.ts
-#EXTINF:-1,DE | SIXX.
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1519.ts
-
-
+#EXTINF:-1,[DE]:RTL_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/474.ts
+#EXTINF:-1,[DE]:RTL_2
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/475.ts
+#EXTINF:-1,[DE]:SUPER_RTL
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/476.ts
+#EXTINF:-1,[DE]:RTL_CRIME
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/105.ts
+#EXTINF:-1,[DE]:RTL_NITRO
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/477.ts
+#EXTINF:-1,[DE]:RTL_PASSION_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/478.ts
+#EXTINF:-1,[DE]:ORF_1_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/202.ts
+#EXTINF:-1,[DE]:ORF_2_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/201.ts
+#EXTINF:-1,[DE]:ORF_3_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/200.ts
+#EXTINF:-1,[DE]:SAT_1
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/206.ts
+#EXTINF:-1,[DE]:3_SAT_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/205.ts
+#EXTINF:-1,[DE]:KABEL_1
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/203.ts
+#EXTINF:-1,[DE]:DMAX
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/210.ts
+#EXTINF:-1,[DE]:SIXX_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/207.ts
+#EXTINF:-1,[DE]:PROSIEBEN_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/204.ts
+#EXTINF:-1,[DE]:PR0_7_MAXX_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/109.ts
+#EXTINF:-1,[DE]:ARD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/108.ts
+#EXTINF:-1,[DE]:FOX_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/115.ts
+#EXTINF:-1,[DE]:ZDF
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/106.ts
+#EXTINF:-1,[DE]:SYFY
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/103.ts
+#EXTINF:-1,[DE]:13TH_STREET
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/114.ts
+#EXTINF:-1,[DE]:ARTE_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/178.ts
+#EXTINF:-1,[DE]:EURONEWS
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/183.ts
+#EXTINF:-1,[DE]:PLANET_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/117.ts
+#EXTINF:-1,[DE]:DISCOVERY_HD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/107.ts
+#EXTINF:-1,[DE]:NATIONAL_GEO
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/116.ts
+#EXTINF:-1,[DE]:NAT_GEO_WILD
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/184.ts
+#EXTINF:-1,[DE]:NAT_GEO_PEOPLE
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/181.ts
+#EXTINF:-1,[DE]:ANIMAL_PLANET
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/494.ts
+#EXTINF:-1,[DE]:UNIVERSAL_CHANNEL
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/180.ts
+#EXTINF:-1,[DE]:DISNEY_CINEMAGIC
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/102.ts
+#EXTINF:-1,[DE]:NICKELODEONDE
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/497.ts
 
 
 #EXTINF:-1,***** TURKISH *****
 
 #EXTINF:-1,DE:group-title="Türk",Türk
 
-#EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1825.ts
-#EXTINF:-1,TR | A HABER
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/96.ts
-#EXTINF:-1,TR | A HABER HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/67.ts
-#EXTINF:-1,TR | A SPOR
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/58.ts
-#EXTINF:-1,TR | A SPOR HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/95.ts
-#EXTINF:-1,TR | ANIMASYON HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/114.ts
-#EXTINF:-1,TR | ATV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/93.ts
-#EXTINF:-1,TR | ATV HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/66.ts
-#EXTINF:-1,TR | BEYAZ TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/56.ts
-#EXTINF:-1,TR | BEYAZ TV HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/65.ts
-#EXTINF:-1,TR | BLOOMBERG TV HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/83.ts
-#EXTINF:-1,TR | CAY TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/53.ts
-#EXTINF:-1,TR | CNN TURK HABER
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/84.ts
-#EXTINF:-1,TR | HABER TURK
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/2786.ts
-#EXTINF:-1,TR | FLASH TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/55.ts
-#EXTINF:-1,TR | FOX HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/64.ts
-#EXTINF:-1,TR | FOX TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/80.ts
-#EXTINF:-1,TR | HALK TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/99.ts
-#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/102.ts
-#EXTINF:-1,TR | KANAL 7
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/70.ts
-#EXTINF:-1,TR | KANAL 7 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/69.ts
-#EXTINF:-1,TR | KANAL D
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/79.ts
-#EXTINF:-1,TR | KANAL D HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/68.ts
-#EXTINF:-1,TR | SHOW TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/90.ts
-#EXTINF:-1,TR | SHOW TV HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/63.ts
-#EXTINF:-1,TR | STAR TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/91.ts
-#EXTINF:-1,TR | STAR TV HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/62.ts
-
-#EXTINF:-1,TR | TRT 1
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/94.ts
-#EXTINF:-1,TR | TRT 1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/77.ts
-#EXTINF:-1,TR | TRT 3 SPOR
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/61.ts
-#EXTINF:-1,TR | TRT BELGESEL HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/71.ts
-#EXTINF:-1,TR | TRT COCUK
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/73.ts
-#EXTINF:-1,TR | TRT HABER
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/72.ts
-#EXTINF:-1,TR | TRT MUZIK
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/57.ts
-#EXTINF:-1,TR | TRT SPOR
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/76.ts
-#EXTINF:-1,TR | TRT SPOR HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/60.ts
-#EXTINF:-1,TR | TV 2
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/75.ts
-#EXTINF:-1,TR | TV8
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/92.ts
-#EXTINF:-1,TR | TV8 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/59.ts
-#EXTINF:-1,TR | SEMERKAND TV HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1843.ts
-#EXTINF:-1,TR | PLANET TURK
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1844.ts
-#EXTINF:-1,TR | PLANET PEMBE
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1845.ts
-#EXTINF:-1,TR | PLANET MUTFAK
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1846.ts
-#EXTINF:-1,TR | PLANET COCUK
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1847.ts
-#EXTINF:-1,TR | Animal Planet
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1836.ts
-#EXTINF:-1,TR | ULUSAL TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4261.ts
-#EXTINF:-1,TR | TRT KURDI
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4264.ts
-#EXTINF:-1,TR | IZ TV ( DIJITURK )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4259.ts
-#EXTINF:-1,TR | IP Mutfak
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4265.ts
-#EXTINF:-1,TR | BURSASPOR  TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4260.ts
-#EXTINF:-1,TR | RUMELI TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4662.ts
-#EXTINF:-1,TR I CEM TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4263.ts
-#EXTINF:-1,TR I TBMM TV
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4656.ts
-#EXTINF:-1,TR I SKY 360
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4267.ts
-#EXTINF:-1,TR I A2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/4268.ts
-
+#EXTINF:-1,TRT 1 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/27.ts
+#EXTINF:-1,SHOW TV HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/33.ts
+#EXTINF:-1,STAR TV HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/30.ts
+#EXTINF:-1,KANAL D HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/32.ts
+#EXTINF:-1,FOX TV HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/34.ts
+#EXTINF:-1,ATV HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/31.ts
+#EXTINF:-1,KANAL 7 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/40.ts
+#EXTINF:-1,TV 8 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/39.ts
+#EXTINF:-1,TV8.5
+http://iptv.nexa.space:8000/live/sultan/gokmen/1419.ts
+#EXTINF:-1,A2
+http://iptv.nexa.space:8000/live/sultan/gokmen/2067.ts
+#EXTINF:-1,TV 2 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/142.ts
+#EXTINF:-1,BEYAZ TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/43.ts
+#EXTINF:-1,KANAL 24
+http://iptv.nexa.space:8000/live/sultan/gokmen/140.ts
+#EXTINF:-1,KANAL TURK
+http://iptv.nexa.space:8000/live/sultan/gokmen/1684.ts
+#EXTINF:-1,KANAL 360
+http://iptv.nexa.space:8000/live/sultan/gokmen/1674.ts
+#EXTINF:-1,TRT WORLD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1722.ts
+#EXTINF:-1,FLAS TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1682.ts
+#EXTINF:-1,EGE TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1681.ts
+#EXTINF:-1,CEM TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1683.ts
+#EXTINF:-1,HALK TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/42.ts
+#EXTINF:-1,ULUSAL TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1637.ts
+#EXTINF:-1,TEK-RUMELI
+http://iptv.nexa.space:8000/live/sultan/gokmen/45.ts
+#EXTINF:-1,NTV HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/46.ts
+#EXTINF:-1,KANAL A
+http://iptv.nexa.space:8000/live/sultan/gokmen/44.ts
+#EXTINF:-1,POWER TURK
+http://iptv.nexa.space:8000/live/sultan/gokmen/53.ts
+#EXTINF:-1,KRAL POP AKUSTIK
+http://iptv.nexa.space:8000/live/sultan/gokmen/1830.ts
+#EXTINF:-1,KRAL TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/52.ts
+#EXTINF:-1,DREAM TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/2439.ts
+#EXTINF:-1,DREAM TURK
+http://iptv.nexa.space:8000/live/sultan/gokmen/2440.ts
+#EXTINF:-1,TRT MUZIK
+http://iptv.nexa.space:8000/live/sultan/gokmen/1680.ts
+#EXTINF:-1,KRAL POP
+http://iptv.nexa.space:8000/live/sultan/gokmen/138.ts
+#EXTINF:-1,POWER HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/143.ts
+#EXTINF:-1,CNN TURK HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/37.ts
+#EXTINF:-1,A HABER HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/36.ts
+#EXTINF:-1,TRT HABER HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/28.ts
+#EXTINF:-1,TGRT HABER
+http://iptv.nexa.space:8000/live/sultan/gokmen/47.ts
+#EXTINF:-1,HABER TURK HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/41.ts
+#EXTINF:-1,SEMERKAND TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1756.ts
+#EXTINF:-1,CAY TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1743.ts
+#EXTINF:-1,ANADOLU TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1769.ts
+#EXTINF:-1,AKSU TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1766.ts
+#EXTINF:-1,AKIT TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1773.ts
+#EXTINF:-1,TRT COCUK
+http://iptv.nexa.space:8000/live/sultan/gokmen/51.ts
+#EXTINF:-1,CARTOON NETVORK
+http://iptv.nexa.space:8000/live/sultan/gokmen/137.ts
+#EXTINF:-1,PLANET COCUK
+http://iptv.nexa.space:8000/live/sultan/gokmen/1832.ts
+#EXTINF:-1,NICKELODEON JR
+http://iptv.nexa.space:8000/live/sultan/gokmen/1895.ts
+#EXTINF:-1,NICKELODEON HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1896.ts
+#EXTINF:-1,DISNEY CANAL
+http://iptv.nexa.space:8000/live/sultan/gokmen/1777.ts
+#EXTINF:-1,BABY-TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1870.ts
+#EXTINF:-1,BOOMERANG HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1721.ts
 #EXTINF:-1,***** SINEMA *****
 
 #EXTINF:-1,DE:group-title="Sinema",Sinema
-#EXTINF:-1,TR | SALON 1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/129.ts
-#EXTINF:-1,TR | SALON 2  HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/128.ts
-#EXTINF:-1,TR | SALON 3 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/127.ts
-#EXTINF:-1,TR I SALON 3D HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3108.ts
-#EXTINF:-1,TR | FILMBOX HD-D-Smart
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1821.ts
-#EXTINF:-1,TR | FIL TV(FILBOX)
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1827.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1820.ts
-#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1823.ts
-#EXTINF:-1,TR | SINEMA TV ( FILBOX)
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1826.ts
-#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1822.ts
-#EXTINF:-1,TR | YESILCAM 1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/123.ts
-#EXTINF:-1,TR | YESILCAM 2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/122.ts
-#EXTINF:-1,TR | SINE TV HD ( TIVIBU )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/113.ts
-#EXTINF:-1,TR | LOCA 1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/121.ts
-#EXTINF:-1,TR | LOCA 2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/120.ts
-#EXTINF:-1,TR | LOCA 3 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/119.ts
-#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/109.ts
-#EXTINF:-1,TR | MINIKA COCUK
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/82.ts
-#EXTINF:-1,TR | BOOMERANG COCUK DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3105.ts
-#EXTINF:-1,TR | FILM TV HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/116.ts
-
-#EXTINF:-1,TR | SMART COCUK DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3106.ts
-#EXTINF:-1,TR | MINIKA GO
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/81.ts
-#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/108.ts
-#EXTINF:-1,TR | DIZI TV HD FILBOX
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/106.ts
-#EXTINF:-1,TR | MOVIEMAX COMEDY HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/104.ts
-#EXTINF:-1,TR | MOVIEMAX FAMILY HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/111.ts
-#EXTINF:-1,TR | MOVIEMAX FESTIVAL HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/105.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/110.ts
-#EXTINF:-1,TR | MOVIEMAX PREMIER HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/130.ts
-#EXTINF:-1,TR | MOVIEMAX STARS HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/112.ts
-#EXTINF:-1,TR | MOVIEMAX TURK HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/117.ts
-#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/118.ts
-#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/2787.ts
-#EXTINF:-1,TR | DIZISMART PLATIN DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/107.ts
-#EXTINF:-1,TR | VIP CHANNEL 2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/115.ts
-#EXTINF:-1,TR | VIP CHANNEL HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/131.ts
-#EXTINF:-1,TR | VIP CHANNEL TURK HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/124.ts
-#EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1831.ts
-#EXTINF:-1,TR | Sinetivi HD FILBOX
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1832.ts
-#EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1842.ts
-#EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1833.ts
-#EXTINF:-1,TR | Movie Platin 2 HD DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1838.ts
-#EXTINF:-1,TR | MOVIE GOLD DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1830.ts
-#EXTINF:-1,TR | MOVIE FAMILY DSMART
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1829.ts
-#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/1839.ts
+#EXTINF:-1,SALON 1 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/11.ts
+#EXTINF:-1,SALON 2 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/12.ts
+#EXTINF:-1,SALON 3 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/13.ts
+#EXTINF:-1,CINEBOX1
+http://iptv.nexa.space:8000/live/sultan/gokmen/64.ts
+#EXTINF:-1,CINEBOX2
+http://iptv.nexa.space:8000/live/sultan/gokmen/63.ts
+#EXTINF:-1,CINEBOX3
+http://iptv.nexa.space:8000/live/sultan/gokmen/62.ts
+#EXTINF:-1,CINEBOX4
+http://iptv.nexa.space:8000/live/sultan/gokmen/61.ts
+#EXTINF:-1,CINEBOX5
+http://iptv.nexa.space:8000/live/sultan/gokmen/60.ts
+#EXTINF:-1,CINEBOX6
+http://iptv.nexa.space:8000/live/sultan/gokmen/59.ts
+#EXTINF:-1,CINEBOX7
+http://iptv.nexa.space:8000/live/sultan/gokmen/58.ts
+#EXTINF:-1,CINEBOXTR
+http://iptv.nexa.space:8000/live/sultan/gokmen/57.ts
+#EXTINF:-1,SINEMA TV AILE
+http://iptv.nexa.space:8000/live/sultan/gokmen/1519.ts
+#EXTINF:-1,TR:NATIONAL GEOGRAPHICH WILD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1969.ts
+#EXTINF:-1,TR:MOVIEMAX STARS HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/3178.ts
+#EXTINF:-1,TR:MOVIEMAX PREMIER HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/3179.ts
+#EXTINF:-1,TR:MOVIEMAX FESTIVAL HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/3180.ts
+#EXTINF:-1,MOVIESMART PREMIUM 1 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1522.ts
+#EXTINF:-1,MOVIESMART PREMIUM 2 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1523.ts
+#EXTINF:-1,MOVIESMART PLATIN
+http://iptv.nexa.space:8000/live/sultan/gokmen/1525.ts
+#EXTINF:-1,MOVIESMART PLATIN 2 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1526.ts
+#EXTINF:-1,MOVIESMART GOLD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1524.ts
+#EXTINF:-1,MOVIESMART FAMILY
+http://iptv.nexa.space:8000/live/sultan/gokmen/1521.ts
+#EXTINF:-1,MOVIESMART ACTION
+http://iptv.nexa.space:8000/live/sultan/gokmen/1528.ts
+#EXTINF:-1,SINEMA TV 1
+http://iptv.nexa.space:8000/live/sultan/gokmen/1517.ts
+#EXTINF:-1,SINEMA TV 2
+http://iptv.nexa.space:8000/live/sultan/gokmen/1518.ts
+#EXTINF:-1,SINEMA TV 1001
+http://iptv.nexa.space:8000/live/sultan/gokmen/1520.ts
+#EXTINF:-1,FX HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1966.ts
+#EXTINF:-1,FOX LIFE HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1967.ts
+#EXTINF:-1,FOX CRİME HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1968.ts
+#EXTINF:-1,DIZI TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/1530.ts
+#EXTINF:-1,SINEMA TV AKSİYON  HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1635.ts
+#EXTINF:-1,MOVIE-MAX-TURK
+http://iptv.nexa.space:8000/live/sultan/gokmen/1636.ts
+#EXTINF:-1,CINE 1 YESILCAM HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1874.ts
+#EXTINF:-1,CINE 2 YESILCAM HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/1718.ts
 
 
 
 #EXTINF:-1,***** SPORT *****
 
 #EXTINF:-1,group-title="SPORT",Sport
-#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/2785.ts
-#EXTINF:-1,TR I LIG TV 1  HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3150.ts
-#EXTINF:-1,TR | LIGTV 1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/135.ts
-#EXTINF:-1,TR | LIG TV 2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/134.ts
-#EXTINF:-1,TR | LIG TV 3 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/133.ts
-#EXTINF:-1,TR | LIGTV 4 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/132.ts
+#EXTINF:-1,LIGTV 1 SD ONUR AIR
+http://iptv.nexa.space:8000/live/sultan/gokmen/1633.ts
+#EXTINF:-1,LIGTV 1 HD PEGASUS
+http://iptv.nexa.space:8000/live/sultan/gokmen/1080.ts
+#EXTINF:-1,LIGTV  HD THY
+http://iptv.nexa.space:8000/live/sultan/gokmen/1.ts
+#EXTINF:-1,LIGTV 1 HD ANADOLU JET
+http://iptv.nexa.space:8000/live/sultan/gokmen/1831.ts
+#EXTINF:-1,LIGTV 2 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2.ts
+#EXTINF:-1,LIGTV 3 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/3.ts
+#EXTINF:-1,LIGTV 4 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/4.ts
+#EXTINF:-1,LIG TV HD +1
+http://iptv.nexa.space:8000/live/sultan/gokmen/1954.ts
+#EXTINF:-1,LIG TV 2 HD +2
+http://iptv.nexa.space:8000/live/sultan/gokmen/1955.ts
+#EXTINF:-1,LIG TV 3 HD  +3
+http://iptv.nexa.space:8000/live/sultan/gokmen/1956.ts
+#EXTINF:-1,SMART SPOR 1
+http://iptv.nexa.space:8000/live/sultan/gokmen/5.ts
+#EXTINF:-1,SMART SPOR 2
+http://iptv.nexa.space:8000/live/sultan/gokmen/6.ts
+#EXTINF:-1,TR SMART SPOR 1
+http://iptv.nexa.space:8000/live/sultan/gokmen/2060.ts
+#EXTINF:-1,TR SMART SPOR  2
+http://iptv.nexa.space:8000/live/sultan/gokmen/2061.ts
+#EXTINF:-1,TVBU SPOR 1 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2056.ts
+#EXTINF:-1,TVBU SPOR 2 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2057.ts
+#EXTINF:-1,FB TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/26.ts
+#EXTINF:-1,BJK TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/25.ts
+#EXTINF:-1,GS TV
+http://iptv.nexa.space:8000/live/sultan/gokmen/24.ts
 
-#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/103.ts
+#EXTINF:-1,[DE]:SKY_SPORT_NEWS
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/491.ts
+#EXTINF:-1,[DE]:SKY_SPORT_1
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/492.ts
+#EXTINF:-1,[DE]:SKY_SPORT_2
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/493.ts
+#EXTINF:-1,[DE]:SKY_BUNDESLIGA_HD_1
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/490.ts
+#EXTINF:-1,[DE]:SKY_BUNDESLIGA_HD_2
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/100.ts
+#EXTINF:-1,[DE]:SKY_SPORT_AUSTRIA
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/98.ts
+#EXTINF:-1,[DE]:SKY_SPORT1_US
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/101.ts
+#EXTINF:-1,[DE]:SPORT_TIME_TV
+http://iptv.multics-cache.com:8000/live/1-bigsat.fr/www.bigsat.fr/99.ts
+#EXTINF:-1,DE:SKY Germany Sport News HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2707.ts
+#EXTINF:-1,DE:SKY Germany SPORT DIGITAL HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2706.ts
+#EXTINF:-1,DE:SKY Germany Sport Austria
+http://iptv.nexa.space:8000/live/sultan/gokmen/2708.ts
+#EXTINF:-1,DE:SKY Germany Sport 2 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2710.ts
+#EXTINF:-1,DE:SKY Germany Sport 1 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2709.ts
+#EXTINF:-1,DE:Sky Germany Motorvision HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2705.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 1 HD
+http://iptv.nexa.space:8000/live/sultan/gokmen/2711.ts
 
-
-#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/85.ts
-#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/86.ts
-
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/87.ts
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/126.ts
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/125.ts
-#EXTINF:-1,TR | TIVIBU SPOR HD 2
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/88.ts
-#EXTINF:-1,AR | BEIN SPORT 1 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3195.ts
-#EXTINF:-1,AR | BEIN SPORT 2 HD
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/3196.ts
-#EXTINF:-1,TR | TLC
-http://biwsat.com:8080/live/JfuHPkgi5F/Vx12xgNo5g/74.ts
-
-#EXTINF:-1,DE | SKY BUNDESLIGA 1HD
-http://satterm.com:8080/live/dieter1/251116/1481.ts
-#EXTINF:-1,DE | VOX
-http://satterm.com:8080/live/dieter1/251116/1514.ts
-#EXTINF:-1,DE | SKY SPORT NEWS HD
-http://satterm.com:8080/live/dieter1/251116/1482.ts
-#EXTINF:-1,DE | SKYSPORT AUSTRIA
-http://satterm.com:8080/live/dieter1/251116/1483.ts
-#EXTINF:-1,DE | SKY SPORT 2 HD
-http://satterm.com:8080/live/dieter1/251116/1484.ts
-#EXTINF:-1,DE | SPORT1 US HD
-http://satterm.com:8080/live/dieter1/251116/1485.ts
-#EXTINF:-1,DE | SPORT +1 HD
-http://satterm.com:8080/live/dieter1/251116/1486.ts
-#EXTINF:-1,DE | SPORT 1  HD
-http://satterm.com:8080/live/dieter1/251116/1487.ts
-#EXTINF:-1,DE | SKY BUNDESLIGA  1
-http://satterm.com:8080/live/dieter1/251116/1416.ts
-#EXTINF:-1,DE | SKY SPORT 2 HD uuu
-http://satterm.com:8080/live/dieter1/251116/1415.ts
-#EXTINF:-1,DE | EURO SPORT
-http://satterm.com:8080/live/dieter1/251116/1412.ts
-#EXTINF:-1,DE | EUROSPORT2
-http://satterm.com:8080/live/dieter1/251116/1413.ts
-#EXTINF:-1,DE | SKY SPORT1 HD uuu
-http://satterm.com:8080/live/dieter1/251116/1417.ts
-#EXTINF:-1,DE | SKY MGM HD
-http://satterm.com:8080/live/dieter1/251116/1399.ts
-#EXTINF:-1,DE | SKY SPORT NEWS HD uuu
-http://satterm.com:8080/live/dieter1/251116/1431.ts
