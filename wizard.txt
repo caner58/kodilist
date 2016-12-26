@@ -1,8 +1,0 @@
-
-name="WizardName"
-url="https://docs.google.com/uc?export=download&confirm=1Sqp&id=0Bzwv8AHF0dRVaS0tcE9idEk5TUk"
-img="https://raw.githubusercontent.com/caner58/kodilist/master/icon.png"
-fanart="https://raw.githubusercontent.com/caner58/kodilist/master/1953_red_abstract.jpg"
-description="CanerKODI WIZARD"
-
-
