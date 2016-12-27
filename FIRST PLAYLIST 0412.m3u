@@ -1,487 +1,1535 @@
-﻿#EXTM3U
-
-
-#EXTINF:-1,***** TURKISH *****
+#EXTM3U
+#EXTINF:-1,***** TÜRK *****
 
 #EXTINF:-1,DE:group-title="Türk",Türk
 #EXTINF:-1,TR I LIG TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/49.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/49.ts
 #EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1825.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1825.ts
 #EXTINF:-1,TR | EUROSPORT HD (FILBOX )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1824.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1824.ts
 #EXTINF:-1,TR | FILMBOX HD-D-Smart
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1821.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1821.ts
 #EXTINF:-1,TR | DSMART FX
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4663.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4663.ts
 #EXTINF:-1,TR | FIL TV(FILBOX)
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1827.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1827.ts
 #EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1820.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1820.ts
 #EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1823.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1823.ts
 #EXTINF:-1,TR | SINEMA TV ( FILBOX)
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1826.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1826.ts
 #EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1822.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1822.ts
 #EXTINF:-1,TR | YESILCAM 1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/123.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/123.ts
 #EXTINF:-1,TR | YESILCAM 2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/122.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/122.ts
 #EXTINF:-1,TR | A HABER
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/96.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/96.ts
 #EXTINF:-1,TR | A HABER HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/67.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/67.ts
 #EXTINF:-1,TR | A SPOR
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/58.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/58.ts
 #EXTINF:-1,TR | A SPOR HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/95.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/95.ts
 #EXTINF:-1,TR | ANIMASYON HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/114.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/114.ts
 #EXTINF:-1,TR | ATV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/93.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/93.ts
 #EXTINF:-1,TR | ATV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/66.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/66.ts
 #EXTINF:-1,TR | BEYAZ TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/56.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/56.ts
 #EXTINF:-1,TR | BEYAZ TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/65.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/65.ts
 #EXTINF:-1,TR | BLOOMBERG TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/83.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/83.ts
 #EXTINF:-1,TR | CAY TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/53.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/53.ts
 #EXTINF:-1,TR | CNN TURK HABER
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/84.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/84.ts
 #EXTINF:-1,TR | HABER TURK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2786.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2786.ts
 #EXTINF:-1,TR | DIZISMART PLATIN DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/107.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/107.ts
 #EXTINF:-1,TR | EGE TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/54.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/54.ts
 #EXTINF:-1,TR | FILM TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/116.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/116.ts
 #EXTINF:-1,TR | FLASH TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/55.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/55.ts
 #EXTINF:-1,TR | FOX HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/64.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/64.ts
 #EXTINF:-1,TR | FOX TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/80.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/80.ts
 #EXTINF:-1,TR | HALK TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/99.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/99.ts
 #EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/102.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/102.ts
 #EXTINF:-1,TR | KANAL 7
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/70.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/70.ts
 #EXTINF:-1,TR | KANAL 7 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/69.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/69.ts
 #EXTINF:-1,TR | KANAL D
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/79.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/79.ts
 #EXTINF:-1,TR | KANAL D HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/68.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/68.ts
 #EXTINF:-1,TR | LIGTV 1 H.265.HVEC
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2785.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2785.ts
 #EXTINF:-1,TR I LIG TV 1  HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/3150.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/3150.ts
 #EXTINF:-1,TR | LIGTV 1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/135.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/135.ts
 #EXTINF:-1,TR | LIG TV 2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/134.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/134.ts
 #EXTINF:-1,TR | LIG TV 3 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/133.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/133.ts
 #EXTINF:-1,TR | LIGTV 4 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/132.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/132.ts
 #EXTINF:-1,TR | LOCA 1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/121.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/121.ts
 #EXTINF:-1,TR | LOCA 2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/120.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/120.ts
 #EXTINF:-1,TR | LOCA 3 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/119.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/119.ts
 #EXTINF:-1,TR | DIZI PREMIUM HD DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/109.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/109.ts
 #EXTINF:-1,TR | MINIKA COCUK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/82.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/82.ts
 #EXTINF:-1,TR | BOOMERANG COCUK DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/3105.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/3105.ts
 #EXTINF:-1,TR | SMART COCUK DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/3106.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/3106.ts
 #EXTINF:-1,TR | MINIKA GO
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/81.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/81.ts
 #EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/108.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/108.ts
 #EXTINF:-1,TR | DIZI TV HD FILBOX
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/106.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/106.ts
 #EXTINF:-1,TR | MOVIEMAX COMEDY HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/104.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/104.ts
 #EXTINF:-1,TR | MOVIEMAX FAMILY HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/111.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/111.ts
 #EXTINF:-1,TR I NAT?ONAL GEOPRAFIC HD ( DIGITURK )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/105.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/105.ts
 #EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/110.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/110.ts
 #EXTINF:-1,TR | MOVIEMAX PREMIER HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/130.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/130.ts
 #EXTINF:-1,TR | MOVIEMAX STARS HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/112.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/112.ts
 #EXTINF:-1,TR | MOVIEMAX TURK HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/117.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/117.ts
 #EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/118.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/118.ts
 #EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2787.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2787.ts
 #EXTINF:-1,TR I History HD TR ( DIGITURK )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/101.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/101.ts
 #EXTINF:-1,TR | BBC Earth HD-dsmart
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/100.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/100.ts
 #EXTINF:-1,TR | NBA TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/89.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/89.ts
 #EXTINF:-1,TR | NTV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/98.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/98.ts
 #EXTINF:-1,TR | NTV SPOR
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/78.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/78.ts
 #EXTINF:-1,TR | NTV SPOR HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/97.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/97.ts
 #EXTINF:-1,TR | NUMBER ONE
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/51.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/51.ts
 #EXTINF:-1,TR | POWERTURK HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4657.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4657.ts
 #EXTINF:-1,TR | KRAL TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4658.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4658.ts
 #EXTINF:-1,TR | SALON 1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/129.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/129.ts
 #EXTINF:-1,TR | SALON 2  HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/128.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/128.ts
 #EXTINF:-1,TR | SALON 3 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/127.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/127.ts
 #EXTINF:-1,TR I SALON 3D HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/3108.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/3108.ts
 #EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/103.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/103.ts
 #EXTINF:-1,TR | SHOW TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/90.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/90.ts
 #EXTINF:-1,TR | SHOW TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/63.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/63.ts
 #EXTINF:-1,TR | SINE TV HD ( TIVIBU )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/113.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/113.ts
 #EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/85.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/85.ts
 #EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/86.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/86.ts
 #EXTINF:-1,TR | STAR TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/91.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/91.ts
 #EXTINF:-1,TR | STAR TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/62.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/62.ts
 #EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/87.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/87.ts
 #EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/126.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/126.ts
 #EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/125.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/125.ts
 #EXTINF:-1,TR | TIVIBU SPOR HD 2
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/88.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/88.ts
 #EXTINF:-1,AR | BEIN SPORT 1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/3195.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/3195.ts
 #EXTINF:-1,AR | BEIN SPORT 2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/3196.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/3196.ts
 #EXTINF:-1,TR | TLC
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/74.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/74.ts
 #EXTINF:-1,TR | TRT 1
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/94.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/94.ts
 #EXTINF:-1,TR | TRT 1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/77.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/77.ts
 #EXTINF:-1,TR | TRT 3 SPOR
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/61.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/61.ts
 #EXTINF:-1,TR | TRT BELGESEL HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/71.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/71.ts
 #EXTINF:-1,TR | TRT COCUK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/73.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/73.ts
 #EXTINF:-1,TR | TRT HABER
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/72.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/72.ts
 #EXTINF:-1,TR | TRT MUZIK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/57.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/57.ts
 #EXTINF:-1,TR | TRT SPOR
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/76.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/76.ts
 #EXTINF:-1,TR | TRT SPOR HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/60.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/60.ts
 #EXTINF:-1,TR | TV 2
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/75.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/75.ts
 #EXTINF:-1,TR | TV8
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/92.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/92.ts
 #EXTINF:-1,TR | TV8 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/59.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/59.ts
 #EXTINF:-1,TR | TV8.5
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/3107.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/3107.ts
 #EXTINF:-1,TR | VIP CHANNEL 2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/115.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/115.ts
 #EXTINF:-1,TR | VIP CHANNEL HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/131.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/131.ts
 #EXTINF:-1,TR | VIP CHANNEL TURK HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/124.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/124.ts
 #EXTINF:-1,TR | YABAN TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/50.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/50.ts
 #EXTINF:-1,TR | VIVA TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1841.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1841.ts
 #EXTINF:-1,TR | SPORTS TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1834.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1834.ts
 #EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1831.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1831.ts
 #EXTINF:-1,TR | Sinetivi HD FILBOX
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1832.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1832.ts
 #EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1842.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1842.ts
 #EXTINF:-1,TR | SEMERKAND TV HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1843.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1843.ts
 #EXTINF:-1,TR | PLANET TURK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1844.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1844.ts
 #EXTINF:-1,TR | PLANET PEMBE
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1845.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1845.ts
 #EXTINF:-1,TR | PLANET MUTFAK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1846.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1846.ts
 #EXTINF:-1,TR | PLANET COCUK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1847.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1847.ts
 #EXTINF:-1,TR | NUMBER ONE TURK
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1849.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1849.ts
 #EXTINF:-1,TR | National Geographic Wild
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1837.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1837.ts
 #EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1833.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1833.ts
 #EXTINF:-1,TR | Movie Platin 2 HD DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1838.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1838.ts
 #EXTINF:-1,TR | MOVIE GOLD DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1830.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1830.ts
 #EXTINF:-1,TR | MOVIE FAMILY DSMART
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1829.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1829.ts
 #EXTINF:-1,TR | KANAL CAY
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1848.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1848.ts
 #EXTINF:-1,TR | GS TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1840.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1840.ts
 #EXTINF:-1,TR | FB TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1835.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1835.ts
 #EXTINF:-1,TR | BJK TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2775.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2775.ts
 #EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1839.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1839.ts
 #EXTINF:-1,TR | BABY TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1828.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1828.ts
 #EXTINF:-1,TR | Animal Planet
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1836.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1836.ts
 #EXTINF:-1,TR | ULUSAL TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4261.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4261.ts
 #EXTINF:-1,TR | TRT KURDI
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4264.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4264.ts
 #EXTINF:-1,TR | MELTEM TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4262.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4262.ts
 #EXTINF:-1,TR | IZ TV ( DIJITURK )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4259.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4259.ts
 #EXTINF:-1,TR | IP Mutfak
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4265.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4265.ts
 #EXTINF:-1,TR | BURSASPOR  TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4260.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4260.ts
 #EXTINF:-1,TR | RUMELI TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4662.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4662.ts
 #EXTINF:-1,TR I CEM TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4263.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4263.ts
 #EXTINF:-1,TR I TBMM TV
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4656.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4656.ts
 #EXTINF:-1,TR I SKY 360
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4267.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4267.ts
 #EXTINF:-1,TR I A2 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4268.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4268.ts
 #EXTINF:-1,TR I DIZIMAX COMEDY HD ( DIGITURK )
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4269.ts
-#EXTINF:-1,***** DEUTSCH *****
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4269.ts
+#EXTINF:-1,kanal d
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/1.ts
+#EXTINF:-1,Kanal D HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/77.ts
+#EXTINF:-1,star
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/2.ts
+#EXTINF:-1,Star HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/103.ts
+#EXTINF:-1,atv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/3.ts
+#EXTINF:-1,ATV HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/73.ts
+#EXTINF:-1,show
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/4.ts
+#EXTINF:-1,SHOW TV HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/88.ts
+#EXTINF:-1,trt 1
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/6.ts
+#EXTINF:-1,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,fox tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/5.ts
+#EXTINF:-1,FOX HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/123.ts
+#EXTINF:-1,kanal 7
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/7.ts
+#EXTINF:-1,kanal 7 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/72.ts
+#EXTINF:-1,tv 8
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/8.ts
+#EXTINF:-1,TV 8 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/75.ts
+#EXTINF:-1,BEYAZ TV HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/9.ts
+#EXTINF:-1,FLASH
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/10.ts
+#EXTINF:-1,TV-EM
+http://tvem.netmedya.org/tvem/tvem.stream/playlist.m3u8
+#EXTINF:-1,HABER-TÜRK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/13.ts
+#EXTINF:-1,CNN-TÜRK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/14.ts
+#EXTINF:-1,NTV HABER
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/15.ts
+#EXTINF:-1,TRT-HABER
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/16.ts
+#EXTINF:-1,A-HABER
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/17.ts
+#EXTINF:-1,HALK-TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/18.ts
+#EXTINF:-1,BENGÜTÜRK TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/19.ts
+#EXTINF:-1,ÜLKE
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/20.ts
+#EXTINF:-1,tgrt haber
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/22.ts
+#EXTINF:-1,BLOOMBERG-HT
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
+#EXTINF:-1,KANAL-A
+http://stream.n3.noc.com.tr/kanala/kanala/playlist.m3u8
+#EXTINF:-1,ULUSAL-KANAL
+http://184.173.181.2:1935/8132/8132/playlist.m3u8
+#EXTINF:-1,KRAL
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/24.ts
+#EXTINF:-1,KRAL-POP
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/25.ts
+#EXTINF:-1,DREAM TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/26.ts
+#EXTINF:-1,DREAMTÜRK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/27.ts
+#EXTINF:-1,POWERTÜRK
+http://powertv.cdnturk.com/powertv/_definst_/powerturktv.smil/turkuvaz.m3u8
+#EXTINF:-1,TRT-MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,TRT-COCUK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/30.ts
+#EXTINF:-1,NICKELEDEON TR
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/31.ts
+#EXTINF:-1,CARTOON NETWORK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/32.ts
+#EXTINF:-1,PLANET COCUK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/33.ts
+#EXTINF:-1,KIDZ-ANIMEZ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/180.ts
+#EXTINF:-1,MINIKA-COCUK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/34.ts
+#EXTINF:-1,SINEMA-COCUK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/35.ts
+#EXTINF:-1,SMART CLASSIC
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/302.ts
+#EXTINF:-1,SMART FEST
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/39.ts
+#EXTINF:-1,SMART-TURK
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/297.ts
+#EXTINF:-1,SMART-PREMIUM
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/44.ts
+#EXTINF:-1,SMART-GOLD
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/300.ts
+#EXTINF:-1,SMART-PLATIN
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/295.ts
+#EXTINF:-1,MOVIE MAX TURK
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/306.ts
+#EXTINF:-1,SINETV-2
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/310.ts
+#EXTINF:-1,a spor
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/82.ts
+#EXTINF:-1,NTV-SPOR
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/74.ts
+#EXTINF:-1,TRT Spor
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/78.ts
+#EXTINF:-1,sports tv
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,EUROSPORT-1
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/194.ts
+#EXTINF:-1,EUROSPORT-2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/43.ts
+#EXTINF:-1,LİG-TV 1
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/100.ts
+#EXTINF:-1,LIGTV 1 -YEDEK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/79.ts
+#EXTINF:-1,LIG-TV 2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/125.ts
+#EXTINF:-1,LIG-TV 3
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/101.ts
+#EXTINF:-1,TIVIBU-1
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/89.ts
+#EXTINF:-1,TIVIBU-2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/90.ts
+#EXTINF:-1,TIVIBU-3
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/632.ts
+#EXTINF:-1,TIVIBU-4
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/631.ts
+#EXTINF:-1,Smart Sport 1
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/91.ts
+#EXTINF:-1,Smart Sport 2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/92.ts
+#EXTINF:-1,Arena Sport 1
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/569.ts
+#EXTINF:-1,SySPORT-1 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/572.ts
+#EXTINF:-1,SySPORT-2 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/99.ts
+#EXTINF:-1,SySPORT-3 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/84.ts
+#EXTINF:-1,SySPORT-4 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/571.ts
+#EXTINF:-1,SySPORT-5 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/86.ts
+#EXTINF:-1,Beşiktaş tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/94.ts
+#EXTINF:-1,FENERBAHÇE
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/130.ts
+#EXTINF:-1,galatasaray tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/93.ts
+#EXTINF:-1,IDMAN TV az
+http://185.56.30.204/live/idmantv.m3u8
+#EXTINF:-1,TV 8,5
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/12.ts
+#EXTINF:-1,a2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/97.ts
+#EXTINF:-1,DISCOVERY-CHANNEL
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/317.ts
+#EXTINF:-1,ANIMAL-PLANET
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/312.ts
+#EXTINF:-1,BEREKET TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/186.ts
+#EXTINF:-1,NAT GEO.PEOBLE
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/315.ts
+#EXTINF:-1,BBC EARTH
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/320.ts
+#EXTINF:-1,TRT-BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/322.ts
+#EXTINF:-1,WORLD TRAVEL
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/563.ts
+#EXTINF:-1,NATIONAL GEO WILD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/115.ts
+#EXTINF:-1,IZ TV HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/687.ts
+#EXTINF:-1,NATIONAL-GEOGRAPICH
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/313.ts
+#EXTINF:-1,DA-VINCI LEARNING
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/568.ts
+#EXTINF:-1,DISCOWERYCASE
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/318.ts
+#EXTINF:-1,TURKMAX GURME HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/66.ts
+#EXTINF:-1,Dizi tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/145.ts
+#EXTINF:-1,TRT-TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TRT-WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TRT-KURDI
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1,TRT-DIYANET
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/55.ts
+#EXTINF:-1,TRT-OKUL
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/133.ts
+#EXTINF:-1,TRT-MECLIS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/134.ts
+#EXTINF:-1,TRT-AVAZ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/132.ts
+#EXTINF:-1,TRT-ARABIA
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/131.ts
+#EXTINF:-1,CEM TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/614.ts
+#EXTINF:-1,Pamukkale tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/185.ts
+#EXTINF:-1,Life Time
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/184.ts
+#EXTINF:-1,kanal 360
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/147.ts
+#EXTINF:-1,Denizli-DRT
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/181.ts
+#EXTINF:-1,Kanal Ben
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/76.ts
+#EXTINF:-1,EGETURK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/81.ts
+#EXTINF:-1,Showmax tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/57.ts
+#EXTINF:-1,TV 8 - INT
+http://185.56.30.204/live/tv8int.m3u8
+#EXTINF:-1,tv 2000
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/139.ts
+#EXTINF:-1,TEK RUMELI
+http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/playlist.m3u8
+#EXTINF:-1,KON-TV
+http://185.56.30.204/live/kontv.m3u8
+#EXTINF:-1,KÖY-TV
+http://185.56.28.213:8000/live/nwW7Svq2yb/sDrorl1QCD/435.ts
+#EXTINF:-1,semerkand tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/138.ts
+#EXTINF:-1,LALEGÜL TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/turkuvaz.m3u8
+#EXTINF:-1,TEVE 2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/146.ts
+#EXTINF:-1,NTV-AVRUPA
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/144.ts
+#EXTINF:-1,Kanal 24
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/128.ts
+#EXTINF:-1,EURO-STAR
+http://185.56.30.204/live/eurostar.m3u8
+#EXTINF:-1,EURO-D
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/142.ts
+#EXTINF:-1,denizli tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/140.ts
+#EXTINF:-1,çay tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/148.ts
+#EXTINF:-1,360 TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/665.ts
+#EXTINF:-1,A9 TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/686.ts
+#EXTINF:-1,ADANA KOZA TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/685.ts
+#EXTINF:-1,AHI TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/684.ts
+#EXTINF:-1,AKSU TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/683.ts
+#EXTINF:-1,ALTAS TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/664.ts
+#EXTINF:-1,BALKAN TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/663.ts
+#EXTINF:-1,CIFTCI TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/662.ts
+#EXTINF:-1,CORUM TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/682.ts
+#EXTINF:-1,YABAN-TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/681.ts
+#EXTINF:-1,DRT DENIZLI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/680.ts
+#EXTINF:-1,FLASH TV
+http://185.56.30.204/live/flashtv.m3u8
+#EXTINF:-1,KABE TV HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/678.ts
+#EXTINF:-1,KANAL 19
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/661.ts
+#EXTINF:-1,ANADOLU TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/660.ts
+#EXTINF:-1,KANAL 3
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/677.ts
+#EXTINF:-1,KANAL 33
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/659.ts
+#EXTINF:-1,KANAL 60
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/658.ts
+#EXTINF:-1,KANAL 68
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/676.ts
+#EXTINF:-1,KANAL A
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/657.ts
+#EXTINF:-1,KARADENIZ TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/675.ts
+#EXTINF:-1,KIRSEHIR TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/674.ts
+#EXTINF:-1,MAVI KARADENIZ TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/673.ts
+#EXTINF:-1,MELTEM TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/672.ts
+#EXTINF:-1,MPL
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/671.ts
+#EXTINF:-1,NUR TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/656.ts
+#EXTINF:-1,OLAY TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/670.ts
+#EXTINF:-1,SRT SIVAS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/655.ts
+#EXTINF:-1,TV 1 KAYSERI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/654.ts
+#EXTINF:-1,TV 5
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/669.ts
+#EXTINF:-1,TV 52 ORDU
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/668.ts
+#EXTINF:-1,VATAN TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/666.ts
+#EXTINF:-1,KANAL 7 AVRUPA
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/560.ts
+#EXTINF:-1,ATV (Yedek)
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/561.ts
+#EXTINF:-1,SHOWTURK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/559.ts
+#EXTINF:-1,VATAN
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/342.ts
+#EXTINF:-1,TV KAYSERI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/667.ts
+#EXTINF:-1,XEZER TV az
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/375.ts
+#EXTINF:-1,Muz tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/380.ts
+#EXTINF:-1,MEDENIYYET TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/379.ts
+#EXTINF:-1,ICTIMAI az
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/377.ts
+#EXTINF:-1,Günaz tv
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/374.ts
+#EXTINF:-1,AZ TV Azerbaycan
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/376.ts
 
-#EXTINF:-1,DE:group-title="Deutsch",Deutsch
+
+#EXTINF:-1,TÜRKIYEM TV
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/442.ts
+#EXTINF:-1,EVIN TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/562.ts
+#EXTINF:-1,Rudaw kurdi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/564.ts
+#EXTINF:-1,STERK TV KURDI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/577.ts
+#EXTINF:-1,TV 10
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/105.ts
+#EXTINF:-1,YOL TV
+http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/371.ts
+#EXTINF:-1,VALİ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/442.ts
+#EXTINF:-1,PRENSIM
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/711.ts
+#EXTINF:-1,DAG 2
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/588.mkv
+#EXTINF:-1,RABiN'iN SON GÜLÜ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/710.ts
+#EXTINF:-1,RANDEVU
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/709.ts
+#EXTINF:-1,RATTER
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/708.ts
+#EXTINF:-1,REHINE
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/706.ts
+#EXTINF:-1,RESULTS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/705.ts
+#EXTINF:-1,RISKLI YATIRIM
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/704.ts
+#EXTINF:-1,RIVERS 9
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/703.ts
+#EXTINF:-1,ROBOT KOPEK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/702.ts
+#EXTINF:-1,ROMA'DA ASK BASKADIR
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/701.ts
+#EXTINF:-1,RONALDO
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/700.ts
+#EXTINF:-1,ROSEMONT
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/699.ts
+#EXTINF:-1,RÖVANŞ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/707.ts
+#EXTINF:-1,RUHLAR BÖLGESI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/698.ts
+#EXTINF:-1,SIRADISI BiR GECE
+http://185.56.28.213:8000/movie/sinemalarla/Oo79wZfqcK/506.mkv
+#EXTINF:-1,SAG KALAN
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/697.ts
+#EXTINF:-1,SAGDIC
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/696.ts
+#EXTINF:-1,SAH MAT
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/695.ts
+#EXTINF:-1,SAHTE SANIK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/694.ts
+#EXTINF:-1,SAKiN BATI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/693.ts
+#EXTINF:-1,SAKIN BÜYÜME
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/692.ts
+#EXTINF:-1,SAKLI SIRLAR
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/691.ts
+#EXTINF:-1,SALTANAT
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/690.ts
+#EXTINF:-1,SAMPiYON
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/689.ts
+#EXTINF:-1,SONUC
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/688.ts
+#EXTINF:-1,ROMA'DA ASK-BASKADIR
+http://185.56.28.213:8000/movie/sinemalarla/Oo79wZfqcK/464.mkv
+#EXTINF:-1,RONALDO.
+http://185.56.28.213:8000/movie/sinemalarla/Oo79wZfqcK/465.mkv
+#EXTINF:-1,RESULTS.
+http://185.56.28.213:8000/movie/sinemalarla/Oo79wZfqcK/460.mkv
+#EXTINF:-1,ŞAMPİYON AT
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/715.mp4
+#EXTINF:-1,SALTANAT.
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/716.mp4
+#EXTINF:-1,SAKLI-SIRLAR
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/717.mp4
+#EXTINF:-1,SAKIN-BÜYÜME
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/718.mp4
+#EXTINF:-1,SAKiN-BATI
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/719.mp4
+#EXTINF:-1,ROSEMONT.
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/725.mp4
+#EXTINF:-1,RUHLAR-GÖLGESi
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/724.mp4
+#EXTINF:-1,SAGDIC.
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/722.mp4
+#EXTINF:-1,ŞAH-MAT
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/721.mp4
+#EXTINF:-1,SAHTE-SANIK
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/720.mp4
+#EXTINF:-1,SON-KALAN
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/723.mp4
+#EXTINF:-1,SIRLAR BÖLGESi
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/726.mp4
+#EXTINF:-1,ÖZVERi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/754.ts
+#EXTINF:-1,SAN ANDREAS FAYI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/753.ts
+#EXTINF:-1,SANAL SÖHRET
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/752.ts
+#EXTINF:-1,SARHOS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/751.ts
+#EXTINF:-1,SARSINTI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/750.ts
+#EXTINF:-1,SAUL'UN OGLU
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/749.ts
+#EXTINF:-1,SAVAŞ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/748.ts
+#EXTINF:-1,SAVAŞ ODASI
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/747.ts
+#EXTINF:-1,SCOOBY DOO KISS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/746.ts
+#EXTINF:-1,SCOUT
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/745.ts
+#EXTINF:-1,SEFALET MiZAH
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/744.ts
+#EXTINF:-1,SENiNLE BiR ÖMÜR
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/743.ts
+#EXTINF:-1,ŞEREFLİ BİR NİYET
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/731.ts
+#EXTINF:-1,SESSİZ ÇIĞLIK-2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/742.ts
+#EXTINF:-1,SEVGİ YAĞMURU
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/741.ts
+#EXTINF:-1,ŞEYTANİ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/728.ts
+#EXTINF:-1,ŞEYTANİ RUHLAR
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/727.ts
+#EXTINF:-1,ŞEYTANIN GÜNLÜĞÜ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/730.ts
+#EXTINF:-1,ŞEYTANLAR
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/729.ts
+#EXTINF:-1,SİBER ZORBALIK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/733.ts
+#EXTINF:-1,SICAK TAKİP
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/739.ts
+#EXTINF:-1,SICARIO
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/738.ts
+#EXTINF:-1,SIĞINAK
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/734.ts
+#EXTINF:-1,SİHİRBAZ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/732.ts
+#EXTINF:-1,SINDIRELLA
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/737.ts
+#EXTINF:-1,SINIRSIZ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/736.ts
+#EXTINF:-1,SIRADIŞI ANNE
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/735.ts
+#EXTINF:-1,MC Dandik
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/482.ts
+#EXTINF:-1,Meleklerin Mucizesi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/481.ts
+#EXTINF:-1,Onüc Hayalet
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/473.ts
+#EXTINF:-1,Pazar- Bir Ticaret Masalı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/470.ts
+#EXTINF:-1,Ozel Tim Catisma
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/471.ts
+#EXTINF:-1,Neva
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/475.ts
+#EXTINF:-1,Öz Hakiki Karakol
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/553.ts
+#EXTINF:-1,Orada
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/472.ts
+#EXTINF:-1,Ömercip
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/554.ts
+#EXTINF:-1,Ömer'in Adaleti
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/555.ts
+#EXTINF:-1,Olum Melekleri
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/474.ts
+#EXTINF:-1,Menekse'den Önce
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/480.ts
+#EXTINF:-1,Ölüm Emri
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/556.ts
+#EXTINF:-1,Ödül Pesinde
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/557.ts
+#EXTINF:-1,Nefes
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/476.ts
+#EXTINF:-1,Mavi Dalga
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/484.ts
+#EXTINF:-1,Muska
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/477.ts
+#EXTINF:-1,Mürekkep Yürek
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/483.ts
+#EXTINF:-1,Muhur
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/478.ts
+#EXTINF:-1,Muhalif Baskan
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/479.ts
+#EXTINF:-1,Rina
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/468.ts
+#EXTINF:-1,Rüzgarlar
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/469.ts
+#EXTINF:-1,Sen Ne Dilersen
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/463.ts
+#EXTINF:-1,Sen Aydınlatırsın Geceyi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/464.ts
+#EXTINF:-1,Selale
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/465.ts
+#EXTINF:-1,Şarkı Söyleyen Kadınlar
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/428.ts
+#EXTINF:-1,Sanslı Biri
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/467.ts
+#EXTINF:-1,Topkapı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/447.ts
+#EXTINF:-1,Tilki ile Köpek - Cizgi film
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/448.ts
+#EXTINF:-1,Tatil Kitabı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/449.ts
+#EXTINF:-1,Tas Mektep
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/450.ts
+#EXTINF:-1,Sürgün
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/466.ts
+#EXTINF:-1,Suikast
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/451.ts
+#EXTINF:-1,Stevejobs
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/452.ts
+#EXTINF:-1,Soguk
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/453.ts
+#EXTINF:-1,Snopy ve Charly
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/454.ts
+#EXTINF:-1,Sizi Seviyorum
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/455.ts
+#EXTINF:-1,Sipsak Anadolu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/456.ts
+#EXTINF:-1,Simdiki Zaman
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/457.ts
+#EXTINF:-1,Simbat 5. Seyahat
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/458.ts
+#EXTINF:-1,Siber Zorbalık
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/459.ts
+#EXTINF:-1,Seytan
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/460.ts
+#EXTINF:-1,Şevkat Yerimdar 1
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/427.ts
+#EXTINF:-1,Sevimli Canavarlar Üniversitesi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/461.ts
+#EXTINF:-1,Senin Hikayen
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/462.ts
+#EXTINF:-1,Zor Saatler
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/429.ts
+#EXTINF:-1,Ziyaretciler
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/430.ts
+#EXTINF:-1,Zeynep'in 8 Günü
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/431.ts
+#EXTINF:-1,Yuregine Sor
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/432.ts
+#EXTINF:-1,Yunus Emre Askın Sesi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/433.ts
+#EXTINF:-1,Yumruk Yumruga
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/434.ts
+#EXTINF:-1,Yozgat Blues
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/435.ts
+#EXTINF:-1,Yerdeki Yıldızlar
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/436.ts
+#EXTINF:-1,Yeraltı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/437.ts
+#EXTINF:-1,Yazı Tura
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/438.ts
+#EXTINF:-1,Yarım Kalan Mucize
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/439.ts
+#EXTINF:-1,Yagmurdan Sonra
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/440.ts
+#EXTINF:-1,Wiking Dom
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/441.ts
+#EXTINF:-1,Vahsi Doga Cizgi film
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/443.ts
+#EXTINF:-1,Umut Adası
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/444.ts
+#EXTINF:-1,Ucus 93
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/445.ts
+#EXTINF:-1,Tucker Ölmeli
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/446.ts
+#EXTINF:-1,Masukun Nefesi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/485.ts
+#EXTINF:-1,Madam Bovary
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/423.ts
+#EXTINF:-1,Kutuptaki Patlama
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/488.ts
+#EXTINF:-1,Kutsal Damacana
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/489.ts
+#EXTINF:-1,Kusursuzlar
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/490.ts
+#EXTINF:-1,Korkusuz
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/491.ts
+#EXTINF:-1,Kolay Para
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/492.ts
+#EXTINF:-1,Kızım icin
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/486.ts
+#EXTINF:-1,Kıs Uykusu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/487.ts
+#EXTINF:-1,Kaplan ve Ejderha
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/493.ts
+#EXTINF:-1,Kamp
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/494.ts
+#EXTINF:-1,Kadın isi Banka Soygunu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/495.ts
+#EXTINF:-1,Jerry Cotton
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/496.ts
+#EXTINF:-1,İyi Bir Yıl
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/425.ts
+#EXTINF:-1,İntikam Peşinde
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/426.ts
+#EXTINF:-1,iksir
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/497.ts
+#EXTINF:-1,Hürkan
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/503.ts
+#EXTINF:-1,Hızlı ve Emekli
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/498.ts
+#EXTINF:-1,Herkes mi Aldatır?
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/499.ts
+#EXTINF:-1,Hep Yek
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/500.ts
+#EXTINF:-1,Hemso
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/501.ts
+#EXTINF:-1,Helikopter Anne
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/502.ts
+#EXTINF:-1,hayatımın Kadınısın
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/504.ts
+#EXTINF:-1,Hayat Boyu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/505.ts
+#EXTINF:-1,Hastayım Sana
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/506.ts
+#EXTINF:-1,Güzel ve Carpık
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/510.ts
+#EXTINF:-1,Günesşn Oglu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/511.ts
+#EXTINF:-1,Günce
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/512.ts
+#EXTINF:-1,YABAN TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/507.ts
+#EXTINF:-1,Gönül yarası
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/513.ts
+#EXTINF:-1,Gizemli Güc
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/508.ts
+#EXTINF:-1,Girdap
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/509.ts
+#EXTINF:-1,Freaks Of Nature
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/514.ts
+#EXTINF:-1,Ferah Feza
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/515.ts
+#EXTINF:-1,Fedakar
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/516.ts
+#EXTINF:-1,Evrim
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/517.ts
+#EXTINF:-1,Eski sevgiliyi unutmanın yolu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/518.ts
+#EXTINF:-1,Ertugrul
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/519.ts
+#EXTINF:-1,Erkekler-Belgesel
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/520.ts
+#EXTINF:-1,Ejder Kılıcı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/521.ts
+#EXTINF:-1,Durmus Cavus
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/522.ts
+#EXTINF:-1,Durdurulmaz
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/523.ts
+#EXTINF:-1,Dün Gece Bir Rüya Gördüm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/530.ts
+#EXTINF:-1,Doktor Delittle
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/524.ts
+#EXTINF:-1,Dirilis
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/525.ts
+#EXTINF:-1,Devrim Arabaları
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/526.ts
+#EXTINF:-1,Devir
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/527.ts
+#EXTINF:-1,Derin Karanlık
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/528.ts
+#EXTINF:-1,Deli Deli Olma
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/529.ts
+#EXTINF:-1,Daire
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/531.ts
+#EXTINF:-1,Cocuk
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/534.ts
+#EXTINF:-1,Cılgın Dershane 3
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/532.ts
+#EXTINF:-1,Cılgın Dershane
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/533.ts
+#EXTINF:-1,Cesur Tom-Cizgi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/424.ts
+#EXTINF:-1,Ceberrut
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/535.ts
+#EXTINF:-1,Catlak Profesör
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/536.ts
+#EXTINF:-1,Büyük Kediler-Belgesel
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/546.ts
+#EXTINF:-1,Bu iste yalnızlık var
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/537.ts
+#EXTINF:-1,Brandis Crisis
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/538.ts
+#EXTINF:-1,Bizans Oyunları
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/539.ts
+#EXTINF:-1,Bir Kücük Eylül Meselesi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/540.ts
+#EXTINF:-1,Bingazi'nin Gizli Askerleri
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/541.ts
+#EXTINF:-1,Beyza'nın Kadınları
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/542.ts
+#EXTINF:-1,Beynelmilel
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/543.ts
+#EXTINF:-1,Benimle Oynar mısın?
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/544.ts
+#EXTINF:-1,Benim Dünyam
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/545.ts
+#EXTINF:-1,Baykuş Krallığı Efsanesi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/547.ts
+#EXTINF:-1,Baskalarıyla Olmak
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/548.ts
+#EXTINF:-1,Bana Sans Dile
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/549.ts
+#EXTINF:-1,Babalar ve Kızları
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/550.ts
+#EXTINF:-1,Babalar Savasıyor
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/551.ts
+#EXTINF:-1,Baba Ogul
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/552.ts
+#EXTINF:-1,BASKIN
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/713.ts
+#EXTINF:-1,Bingazi'nin Askerleri
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/712.ts
+#EXTINF:-1,Maymun Krallığı - Belgesel
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/414.ts
+#EXTINF:-1,Madam Bowary
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/415.ts
+#EXTINF:-1,Günese Karsı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/416.ts
+#EXTINF:-1,Filleri Avlamak
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/418.ts
+#EXTINF:-1,Batman
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/422.ts
+#EXTINF:-1,Efsane
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/419.ts
+#EXTINF:-1,Düslerin Terzisi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/417.ts
+#EXTINF:-1,Dünyanın Merkezine Yolculuk
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/412.ts
+#EXTINF:-1,Cesur Tom
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/420.ts
+#EXTINF:-1,Casuslar
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/413.ts
+#EXTINF:-1,Niyazi Dört Nala
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/421.ts
+#EXTINF:-1,Onay
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/400.ts
+#EXTINF:-1,momentum
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/401.ts
+#EXTINF:-1,Kurtulus Günü
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/402.ts
+#EXTINF:-1,Köpekler
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/403.ts
+#EXTINF:-1,Kod Adı Londra
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/404.ts
+#EXTINF:-1,Kick-boxer
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/405.ts
+#EXTINF:-1,Intikam Saati
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/406.ts
+#EXTINF:-1,Genc Hitler
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/408.ts
+#EXTINF:-1,gagarin Pervy
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/409.ts
+#EXTINF:-1,Ejder Kapanı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/410.ts
+#EXTINF:-1,Dunyanın Sonu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/411.ts
+#EXTINF:-1,Dünyanın İlk Karşılaşması
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/407.ts
+#EXTINF:-1,Kralın Kılıcı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/399.ts
+#EXTINF:-1,Tehlikeli Uyku
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/395.ts
+#EXTINF:-1,Orada Olmayan Adam
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/398.ts
+#EXTINF:-1,Roy Roy
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/397.ts
+#EXTINF:-1,Super Kahramanlar Zoom
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/394.ts
+#EXTINF:-1,Zorlu Yokuş
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/393.ts
+#EXTINF:-1,Synchroni city
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/389.ts
+#EXTINF:-1,Sivastopol icin savaş
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/396.ts
+#EXTINF:-1,Korku seansı
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/390.ts
+#EXTINF:-1,Kana Susayanlar
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/388.ts
+#EXTINF:-1,Bahis Borcu
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/387.ts
+#EXTINF:-1,ARQ
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/392.ts
+#EXTINF:-1,23 Numara
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/391.ts
+#EXTINF:-1,Ronin 47
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/85.ts
+#EXTINF:-1,Gen
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/385.ts
+#EXTINF:-1,Zaman Makinesi
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/384.ts
+#EXTINF:-1,Gizli Görev
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/386.ts
+#EXTINF:-1,Profesyonel Katil
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/372.mkv
+#EXTINF:-1,Ronin
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/371.mkv
+#EXTINF:-1,Cocuk Olmak
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/370.mkv
+#EXTINF:-1,Iftarlık Gazoz.
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/95.ts
+#EXTINF:-1,Uluslararası Bir Suikastçı
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/190.mkv
+#EXTINF:-1,Konvoy
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/188.mkv
+#EXTINF:-1,Karanlık
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/189.mkv
+#EXTINF:-1,Hatırla
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/191.mkv
+#EXTINF:-1,Doktor Strange
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/192.mp4
+#EXTINF:-1,Arada Kalan
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/193.mkv
+#EXTINF:-1,Seçilmiş
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/187.mkv
+#EXTINF:-1,Sekiz Saniye
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/166.mkv
+#EXTINF:-1,Arzunun Bedeli
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/169.mkv
+#EXTINF:-1,Arkandias'ın Büyü Kitabı
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/168.mkv
+#EXTINF:-1,Adalet Birliği
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/167.mkv
+#EXTINF:-1,Radyo 91.1
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/164.mkv
+#EXTINF:-1,Kaçma Birader
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/163.mkv
+#EXTINF:-1,Bıçkın
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/165.mkv
+#EXTINF:-1,Olur İnşallah
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/162.avi
+#EXTINF:-1,Kuma
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/160.mkv
+#EXTINF:-1,Kubilay
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/161.mkv
+#EXTINF:-1,Şartlı Tahliye
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/158.mkv
+#EXTINF:-1,İyi Biri
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/159.mkv
+#EXTINF:-1,afrika
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/157.mkv
+#EXTINF:-1,Surgun İnek
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/150.mkv
+#EXTINF:-1,Hayat Sana Güzel
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/149.mkv
+#EXTINF:-1,Afrika savana
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/156.mkv
+#EXTINF:-1,Panzehir
+http://185.56.28.213:8000/movie/sinemalarla/Oo79wZfqcK/189.mkv
+#EXTINF:-1,Iftarlık Gazoz
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/582.mkv
+#EXTINF:-1,Tabutta Rövaşata.
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/583.mkv
+#EXTINF:-1,Saddam'ın Askerleri.
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/584.mkv
+#EXTINF:-1,Kana Susayanlar.
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/585.mkv
+#EXTINF:-1,Git Başımdan
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/586.mkv
+#EXTINF:-1,Ulak.
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/587.mkv
+#EXTINF:-1,72.KOGUS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/383.ts
+#EXTINF:-1,Memleketim FM
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/170.ts
+#EXTINF:-1,TEHLİKELİ ŞİRKET
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/740.ts
+#EXTINF:-1,ARAMA MOTORU
+http://service.turkuvaziptv.com/cinema/vod/turk/Arama.Motoru.mp4
+#EXTINF:-1,A.AY
+http://service.turkuvaziptv.com/cinema/vod/yerlifilm/1900-1999/A.Ay.1988.DVDRip.XviD.Buzlas.avi
+#EXTINF:-1,GEMIDE
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/758.mp4
+#EXTINF:-1,ICIMIZDEN BIRI
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/759.mp4
+#EXTINF:-1,EŞKİYA
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/760.mp4
+#EXTINF:-1,LALELIDE BIR AZIZE
+http://91.215.156.13:25461/movie/trkvz1234/GHjuiKK55Gsdfr/761.mp4
+#EXTINF:-1,ATV-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/764.ts
+#EXTINF:-1,KANAL D-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/762.ts
+#EXTINF:-1,FOX TV-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/766.ts
+#EXTINF:-1,SHOW TV-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/765.ts
+#EXTINF:-1,STAR-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/763.ts
+#EXTINF:-1,TRT 1-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/767.ts
+#EXTINF:-1,TV 8-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/769.ts
+#EXTINF:-1,KANAL 7-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/768.ts
+#EXTINF:-1,BEYAZ TV-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/770.ts
+#EXTINF:-1,TV EM-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/772.ts
+#EXTINF:-1,FLASH TV-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/771.ts
+#EXTINF:-1,CNNTÜRK-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/774.ts
+#EXTINF:-1,A HABER-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/777.ts
+#EXTINF:-1,HABERTÜRK-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/773.ts
+#EXTINF:-1,HALK TV-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/778.ts
+#EXTINF:-1,BENGÜTÜRK-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/779.ts
+#EXTINF:-1,NTV HABER-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/775.ts
+#EXTINF:-1,TRT HABER-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/776.ts
+#EXTINF:-1,ÜLKE-ll
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/780.ts
+#EXTINF:-1,Acik Radyo
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/789.ts
+#EXTINF:-1,Ankara fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/790.ts
+#EXTINF:-1,Arabesk Radyo
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/791.ts
+#EXTINF:-1,Bayram fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/797.ts
+#EXTINF:-1,Best fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/783.ts
+#EXTINF:-1,Cagri fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/792.ts
+#EXTINF:-1,Cemre fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/795.ts
+#EXTINF:-1,Dolunay fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/798.ts
+#EXTINF:-1,Dost fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/793.ts
+#EXTINF:-1,Ekin Radyo
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/794.ts
+#EXTINF:-1,Ilahi fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/796.ts
+#EXTINF:-1,Kral radyo
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/782.ts
+#EXTINF:-1,Park fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/784.ts
+#EXTINF:-1,Power Türk fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/781.ts
+#EXTINF:-1,Radyo D
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/786.ts
+#EXTINF:-1,Radyo Seğmen
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/787.ts
+#EXTINF:-1,Show radyo
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/785.ts
+#EXTINF:-1,TRT fm
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/788.ts
+#EXTINF:-1,***** AVRUPA *****
+
+#EXTINF:-1,DE:group-title="AVRUPA",AVRUPA
 #EXTINF:-1,DE | a.tv / BetaDigital uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1430.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1430.ts
 #EXTINF:-1,DE | KiKA/ZDFvision uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1429.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1429.ts
 #EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1506.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1506.ts
 #EXTINF:-1,DE | Pro7
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1507.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1507.ts
 #EXTINF:-1,DE | RTL_LIVING
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1508.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1508.ts
 #EXTINF:-1,DE | RTL Television/CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1420.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1420.ts
 #EXTINF:-1,DE | RTLII HD / CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1427.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1427.ts
 #EXTINF:-1,DE | RTL Crime / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1509.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1509.ts
 #EXTINF:-1,DE | RTL HD / CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1513.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1513.ts
 #EXTINF:-1,DE | RTL2/CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1512.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1512.ts
 #EXTINF:-1,DE | RTL NITRO/CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1511.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1511.ts
 #EXTINF:-1,DE | RTLplus/CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4667.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4667.ts
 #EXTINF:-1,DE | RTL Passion / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2626.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2626.ts
 #EXTINF:-1,DE | SUPER RTL/CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1419.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1419.ts
 #EXTINF:-1,DE | Sky Krimi / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1400.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1400.ts
 #EXTINF:-1,DE | Sky Cinema Hits uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1401.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1401.ts
 #EXTINF:-1,DE | Sky Cinema Nostalgie / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1406.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1406.ts
 #EXTINF:-1,DE | Sky Cinema Comedy uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1407.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1407.ts
 #EXTINF:-1,DE | Sky Cinema uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1408.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1408.ts
 #EXTINF:-1,DE | SkyAction
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1404.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1404.ts
 #EXTINF:-1,DE | Sky Atlantic uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1403.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1403.ts
 #EXTINF:-1,DE | SkyCinema24
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1405.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1405.ts
 #EXTINF:-1,DE | SkyCinema
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1425.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1425.ts
 #EXTINF:-1,DE | SKY Comedy one
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1432.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1432.ts
 #EXTINF:-1,DE | Sky Cinema +1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1410.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1410.ts
 #EXTINF:-1,DE | Sky Cinema Emotion uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2630.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2630.ts
 #EXTINF:-1,DE | Sky Cinema Action uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2628.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2628.ts
 #EXTINF:-1,DE | SKY MGM HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1399.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1399.ts
 #EXTINF:-1,DE | SKY TNT SERIES HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2625.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2625.ts
 #EXTINF:-1,DE | SKY TNT FILME HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2624.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2624.ts
 #EXTINF:-1,DE | SKY NATGEO WILD HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2633.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2633.ts
 #EXTINF:-1,DE | SAT.1 RhlPf/Hessen / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1426.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1426.ts
 #EXTINF:-1,DE | SAT.1 A/ ProSiebenSat.1
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4666.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4666.ts
 #EXTINF:-1,DE | SAT.1 CH / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4665.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4665.ts
 #EXTINF:-1,DE | SAT.1 Gold / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4664.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4664.ts
 #EXTINF:-1,DE | SAT.1 NRW / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1418.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1418.ts
 #EXTINF:-1,DE | SKY SPORT1 HD uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1417.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1417.ts
 #EXTINF:-1,DE | SKY SPORT 2 HD uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1415.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1415.ts
 #EXTINF:-1,DE | SKY SPORT NEWS HD uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1431.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1431.ts
 #EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu..
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1416.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1416.ts
 #EXTINF:-1,DE | EURO SPORT
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1412.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1412.ts
 #EXTINF:-1,DE | EUROSPORT2
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1413.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1413.ts
 #EXTINF:-1,DE | NatGeo Wild / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1411.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1411.ts
 #EXTINF:-1,DE | 13Street
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1402.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1402.ts
 #EXTINF:-1,DE | ORF1
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1421.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1421.ts
 #EXTINF:-1,DE | VOX HD / CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1423.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1423.ts
 #EXTINF:-1,DE | PRO 7.
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1428.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1428.ts
 #EXTINF:-1,DE | ZDF /ZDFvision  uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1422.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1422.ts
 #EXTINF:-1,DE | ZDFinfo/ZDFvision uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1473.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1473.ts
 #EXTINF:-1,DE | ProSieben / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1409.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1409.ts
 #EXTINF:-1,DE | NDR HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1477.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1477.ts
 #EXTINF:-1,DE | Fox hd
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1522.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1522.ts
 #EXTINF:-1,DE | Fox Serie uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4670.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4670.ts
 #EXTINF:-1,DE | AXN.
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1523.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1523.ts
 #EXTINF:-1,DE | Sat1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1510.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1510.ts
 #EXTINF:-1,DE | Srf1
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1472.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1472.ts
 #EXTINF:-1,DE | N TV.
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1474.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1474.ts
 #EXTINF:-1,DE | ROMANCE
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1475.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1475.ts
 #EXTINF:-1,DE | zdf neo/ZDFvision uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1476.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1476.ts
 #EXTINF:-1,DE | Eurosport HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1478.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1478.ts
 #EXTINF:-1,DE | WDRHD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1480.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1480.ts
 #EXTINF:-1,DE | VOX/CBC uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1514.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1514.ts
 #EXTINF:-1,DE | Sky Sport Bundesliga 1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1481.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1481.ts
 #EXTINF:-1,DE | SKY SPORT NEWS HD uuu.
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1482.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1482.ts
 #EXTINF:-1,DE | SKYSPORT AUSTRIA
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1483.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1483.ts
 #EXTINF:-1,DE | SKY SPORT 2 HD uuu.
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1484.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1484.ts
 #EXTINF:-1,DE | SPORT1 US HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1485.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1485.ts
 #EXTINF:-1,DE | SPORT +1 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1486.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1486.ts
 #EXTINF:-1,DE | SPORT 1  HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1487.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1487.ts
 #EXTINF:-1,DE | SKY SELECT 1
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1495.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1495.ts
 #EXTINF:-1,DE | SKY SELECT 2HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1494.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1494.ts
 #EXTINF:-1,DE | Sky Select 3 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1493.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1493.ts
 #EXTINF:-1,DE | Sky Select 4 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1492.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1492.ts
 #EXTINF:-1,DE | Sky Select 5 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1491.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1491.ts
 #EXTINF:-1,DE | Sky Select 6 HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1490.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1490.ts
 #EXTINF:-1,DE | Sky Select 7HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1489.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1489.ts
 #EXTINF:-1,DE | Sky Select 8HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1488.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1488.ts
 #EXTINF:-1,DE | ZDF /ZDFvision uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1515.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1515.ts
 #EXTINF:-1,DE | ORF2
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1517.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1517.ts
 #EXTINF:-1,DE | D MAX HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1518.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1518.ts
 #EXTINF:-1,DE | HISTORY CHANNEL HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1497.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1497.ts
 #EXTINF:-1,DE | Sky Cinema Family / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1498.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1498.ts
 #EXTINF:-1,DE | TNT Serie HD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1520.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1520.ts
 #EXTINF:-1,DE | NatGeo Wild / SKY  uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1499.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1499.ts
 #EXTINF:-1,DE | arte / ARD  uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1500.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1500.ts
 #EXTINF:-1,DE | arte / ARD uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1516.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1516.ts
 #EXTINF:-1,DE | Disney Junior / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1501.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1501.ts
 #EXTINF:-1,DE | Disney_XD
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1502.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1502.ts
 #EXTINF:-1,DE | NICK_JR
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1504.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1504.ts
 #EXTINF:-1,DE | SYFY
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1521.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1521.ts
 #EXTINF:-1,DE | WDR uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1505.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1505.ts
 #EXTINF:-1,DE | SIXX.
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/1519.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/1519.ts
 #EXTINF:-1,DE | kabel eins / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2627.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2627.ts
 #EXTINF:-1,DE | HEIMAT KANAL
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2631.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2631.ts
 #EXTINF:-1,DE | Disney Cinemagic / SKY uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/2632.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/2632.ts
 #EXTINF:-1,DE | kabel eins Doku / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4669.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4669.ts
 #EXTINF:-1,DE | N24 / ProSiebenSat.1 uuu
-http://biwsat.com:8080/live/3fTtfMiPIJ/Ss1fV7gh8O/4668.ts
+http://biwsat.com:8080/live/4PyaofXAOk/lT6VL9FO33/4668.ts
+#EXTINF:-1,A-tv az
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/378.ts
+#EXTINF:-1,SUPER-RTL
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/67.ts
+#EXTINF:-1,DISNEY CHANNEL-DE
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/196.ts
+#EXTINF:-1,KIKA KINDER
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/71.ts
+#EXTINF:-1,ORF I
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/172.ts
+#EXTINF:-1,ORF II
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/173.ts
+#EXTINF:-1,ORF III
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/174.ts
+#EXTINF:-1,Orf sport
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/175.ts
+#EXTINF:-1,ZDF HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/118.ts
+#EXTINF:-1,VOX HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/119.ts
+#EXTINF:-1,RTL HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/107.ts
+#EXTINF:-1,RTL 2
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/61.ts
+#EXTINF:-1,SAT-EINS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/183.ts
+#EXTINF:-1,PRO 7
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/68.ts
+#EXTINF:-1,DMAX
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/106.ts
+#EXTINF:-1,N-TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/637.ts
+#EXTINF:-1,OKTO TV
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/653.ts
+#EXTINF:-1,N24
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/570.ts
+#EXTINF:-1,KABEL-EINS
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/114.ts
+#EXTINF:-1,S.SELECT-1 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/120.ts
+#EXTINF:-1,S.SELECT-2 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/121.ts
+#EXTINF:-1,S.SELECT-3 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/122.ts
+#EXTINF:-1,S.SELECT-4 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/80.ts
+#EXTINF:-1,S.SELECT-5 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/565.ts
+#EXTINF:-1,S.SELECT-6 HD
+http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/98.ts
