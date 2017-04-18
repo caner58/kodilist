@@ -2,278 +2,95 @@
 #EXTINF:-1,***** TÜRK *****
 
 #EXTINF:-1,DE:group-title="Türk",Türk
-#EXTINF:-1,TR|Sports tv
-http://topiptv.net:5890/live/kimera/kimera/1132.ts
-#EXTINF:-1,TR|TRT Sport
-http://topiptv.net:5890/live/kimera/kimera/1099.ts
-#EXTINF:-1,TR|NTV SPORT
-http://topiptv.net:5890/live/kimera/kimera/2214.ts
-#EXTINF:-1,TR|TIVIBUR SPORT
-http://topiptv.net:5890/live/kimera/kimera/2215.ts
-#EXTINF:-1,TR|TIVIBUR SPORT 2
-http://topiptv.net:5890/live/kimera/kimera/2224.ts
-#EXTINF:-1,TR|SMART SPORT
-http://topiptv.net:5890/live/kimera/kimera/2217.ts
-#EXTINF:-1,TR|SMART SPORT 2
-http://topiptv.net:5890/live/kimera/kimera/2223.ts
-#EXTINF:-1,TR|beIN SPORTS HD1
-http://topiptv.net:5890/live/kimera/kimera/1065.ts
-#EXTINF:-1,TR|beIN SPORTS HD2
-http://topiptv.net:5890/live/kimera/kimera/1066.ts
-#EXTINF:-1,TR|beIN SPORTS HD3
-http://topiptv.net:5890/live/kimera/kimera/1067.ts
-#EXTINF:-1,TR|beIN BOX OFFICE 1 HD
-http://topiptv.net:5890/live/kimera/kimera/1287.ts
-#EXTINF:-1,TR|beIN BOX OFFICE 2 HD
-http://topiptv.net:5890/live/kimera/kimera/1284.ts
-#EXTINF:-1,TR|beIN BOX OFFICE 3 HD
-http://topiptv.net:5890/live/kimera/kimera/1293.ts
-#EXTINF:-1,TR|beIN MOVIES STARZ
-http://topiptv.net:5890/live/kimera/kimera/1288.ts
-#EXTINF:-1,TR|beIN MOVIES COMEDY
-http://topiptv.net:5890/live/kimera/kimera/1289.ts
-#EXTINF:-1,TR|Moviesmax TURK
-http://topiptv.net:5890/live/kimera/kimera/1296.ts
-#EXTINF:-1,TR|Moviessmart TURK
-http://topiptv.net:5890/live/kimera/kimera/1295.ts
-#EXTINF:-1,TR|Star TV
-http://topiptv.net:5890/live/kimera/kimera/1298.ts
-#EXTINF:-1,TR|Fox  HD
-http://topiptv.net:5890/live/kimera/kimera/1297.ts
-#EXTINF:-1,TR|ATV HD
-http://topiptv.net:5890/live/kimera/kimera/1299.ts
-#EXTINF:-1,TR|TRT 1 HD
-http://topiptv.net:5890/live/kimera/kimera/1096.ts
-#EXTINF:-1,TR|Kanal D HD
-http://topiptv.net:5890/live/kimera/kimera/1107.ts
-#EXTINF:-1,TR|A2
-http://topiptv.net:5890/live/kimera/kimera/1488.ts
-#EXTINF:-1,TR|Showtv
-http://topiptv.net:5890/live/kimera/kimera/1097.ts
-#EXTINF:-1,TR|Show MAX
-http://topiptv.net:5890/live/kimera/kimera/1280.ts
-#EXTINF:-1,TR|TV8
-http://topiptv.net:5890/live/kimera/kimera/2216.ts
-#EXTINF:-1,TR|360 TV
-http://topiptv.net:5890/live/kimera/kimera/1136.ts
-#EXTINF:-1,TR|ISTANBUL HD
-http://topiptv.net:5890/live/kimera/kimera/2367.ts
-#EXTINF:-1,TR|Beyaz
-http://topiptv.net:5890/live/kimera/kimera/1292.ts
-#EXTINF:-1,TR|TV 52
-http://topiptv.net:5890/live/kimera/kimera/1500.ts
-#EXTINF:-1,TR|kanal 24
-http://topiptv.net:5890/live/kimera/kimera/1135.ts
-#EXTINF:-1,TR|haber turk
-http://topiptv.net:5890/live/kimera/kimera/1133.ts
-#EXTINF:-1,TR|Kanal 7 HD
-http://topiptv.net:5890/live/kimera/kimera/1098.ts
-#EXTINF:-1,TR-ULKE-HD
-http://topiptv.net:5890/live/kimera/kimera/2049.ts
-#EXTINF:-1,TR|SAMANYOLU-TV-HD
-http://topiptv.net:5890/live/kimera/kimera/2048.ts
-#EXTINF:-1,TR|TRT COCUK
-http://topiptv.net:5890/live/kimera/kimera/1127.ts
-#EXTINF:-1,TR|NICKELODEON
-http://topiptv.net:5890/live/kimera/kimera/2219.ts
-#EXTINF:-1,TR|NICKELODEON JR
-http://topiptv.net:5890/live/kimera/kimera/2218.ts
-#EXTINF:-1,TR|TRT BELGESEL
-http://topiptv.net:5890/live/kimera/kimera/1126.ts
-#EXTINF:-1,TR|Animal Planet
-http://topiptv.net:5890/live/kimera/kimera/2220.ts
-#EXTINF:-1,TR|NAT WILD
-http://topiptv.net:5890/live/kimera/kimera/1291.ts
-#EXTINF:-1,TR|NAT GEO
-http://topiptv.net:5890/live/kimera/kimera/1290.ts
-#EXTINF:-1,TR|Discovery
-http://topiptv.net:5890/live/kimera/kimera/2221.ts
-#EXTINF:-1,TR|Discovery sc
-http://topiptv.net:5890/live/kimera/kimera/2222.ts
-#EXTINF:-1,TR|TRT WORLD
-http://topiptv.net:5890/live/kimera/kimera/1138.ts
-#EXTINF:-1,TR|TRT HABER HD
-http://topiptv.net:5890/live/kimera/kimera/1134.ts
-#EXTINF:-1,TR|TRT DIYANET
-http://topiptv.net:5890/live/kimera/kimera/1137.ts
-#EXTINF:-1,TR|Sinema Turku 2
-http://topiptv.net:5890/live/kimera/kimera/1279.ts
 
+#EXTINF:-1,TR-TRT-1-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/583.ts
+#EXTINF:-1,TR-A-HABER-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/633.ts
+#EXTINF:-1,TR-STAR-TV-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/585.ts
+#EXTINF:-1,TR-SHOWMAX-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/678.ts
+#EXTINF:-1,TR-SHOW-TV-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/587.ts
+#EXTINF:-1,TR-ATV-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/591.ts
+#EXTINF:-1,TR-KANAL-D-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/589.ts
+#EXTINF:-1,TR-ULKE-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/624.ts
+#EXTINF:-1,TR-TV2-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/594.ts
+#EXTINF:-1,TR-TV-8
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/595.ts
+
+#EXTINF:-1,TR-TRT-HABER-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/619.ts
+#EXTINF:-1,TR-TRT-ÇOCUK
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/620.ts
+
+#EXTINF:-1,TR-TGRT-HABER-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/625.ts
+#EXTINF:-1,TR-TBMM-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/626.ts
+#EXTINF:-1,TR-TAY-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/627.ts
+#EXTINF:-1,TR-TARIM-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/628.ts
+
+#EXTINF:-1,TR-ANIMAL-PLANET-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/609.ts
+
+#EXTINF:-1,TR-PLANET-ÇOCUK
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/635.ts
+#EXTINF:-1,TR-OLAY-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/636.ts
+#EXTINF:-1,TR-NUMBER-ONE-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/637.ts
+#EXTINF:-1,TR-NTV-SPOR-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/580.ts
+#EXTINF:-1,TR-NTV-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/581.ts
+#EXTINF:-1,TR-LALEGÜL-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/639.ts
+#EXTINF:-1,TR-KRAL-POP-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/640.ts
+#EXTINF:-1,TR-KÖY-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/629.ts
+#EXTINF:-1,TR-TRT-SPOR-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/618.ts
+#EXTINF:-1,TR-KANAL-A
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/597.ts
+#EXTINF:-1,TR-KANAL-7
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/598.ts
+#EXTINF:-1,TR-KANAL-24
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/634.ts
+#EXTINF:-1,TR-HISTORY-CHANNEL
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/610.ts
+#EXTINF:-1,TR-HABERTURK-HD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/649.ts
+#EXTINF:-1,TR-GALATASARAY-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/650.ts
+#EXTINF:-1,TR-FOX-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/593.ts
+#EXTINF:-1,TR-FIL-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/596.ts
+#EXTINF:-1,TR-FENERBAHÇE-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/643.ts
+#EXTINF:-1,TR-FANATIK-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/630.ts
+#EXTINF:-1,TR-DREAM-TÜRK-SD
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/631.ts
+#EXTM3U
+#EXTINF:-1,TR-YABAN-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/599.ts
+#EXTINF:-1,TR-TJK
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/621.ts
+#EXTINF:-1,TR-WOMAN-LIFE-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/622.ts
+#EXTINF:-1,TR-VATAN-TV
+http://avatar-iptv.net:1795/live/kemal123459/qNdpRscb7Y/623.ts
 
 #EXTINF:-1,***** DEUTSCH *****
 
 #EXTINF:-1,DE:group-title="DEUTSCH",DEUTSCH
-#EXTINF:-1,--|DE SPORT|--
-http://topiptv.net:5890/live/kimera/kimera/1444.ts
-#EXTINF:-1,DE|Sport Digital
-http://topiptv.net:5890/live/kimera/kimera/387.ts
-#EXTINF:-1,DE|Sport1+ HD
-http://topiptv.net:5890/live/kimera/kimera/382.ts
-#EXTINF:-1,DE|Sport1 US HD
-http://topiptv.net:5890/live/kimera/kimera/1077.ts
-#EXTINF:-1,DE|Sky Sport HD 1
-http://topiptv.net:5890/live/kimera/kimera/383.ts
-#EXTINF:-1,DE|Sky Sport HD 2
-http://topiptv.net:5890/live/kimera/kimera/384.ts
-#EXTINF:-1,DE|Sky Sports News
-http://topiptv.net:5890/live/kimera/kimera/1980.ts
-#EXTINF:-1,DE|Sky Sports Austria
-http://topiptv.net:5890/live/kimera/kimera/1969.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 1
-http://topiptv.net:5890/live/kimera/kimera/385.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 2
-http://topiptv.net:5890/live/kimera/kimera/1076.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 3
-http://topiptv.net:5890/live/kimera/kimera/2070.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 4
-http://topiptv.net:5890/live/kimera/kimera/2071.ts
-#EXTINF:-1,DE|Sky BundesLiga HD 5
-http://topiptv.net:5890/live/kimera/kimera/2072.ts
-#EXTINF:-1,---|DE PPV|---
-http://topiptv.net:5890/live/kimera/kimera/857.ts
-#EXTINF:-1,DE|Sky Select  HD 1
-http://topiptv.net:5890/live/kimera/kimera/830.ts
-#EXTINF:-1,DE|Sky Select  HD 2
-http://topiptv.net:5890/live/kimera/kimera/1070.ts
-#EXTINF:-1,DE|Sky Select  HD 3
-http://topiptv.net:5890/live/kimera/kimera/831.ts
-#EXTINF:-1,DE|Sky Select  HD 4
-http://topiptv.net:5890/live/kimera/kimera/832.ts
-#EXTINF:-1,DE|Sky Select  HD 5
-http://topiptv.net:5890/live/kimera/kimera/833.ts
-#EXTINF:-1,DE|Sky Select  HD 6
-http://topiptv.net:5890/live/kimera/kimera/834.ts
-#EXTINF:-1,DE|Sky Select  HD 7
-http://topiptv.net:5890/live/kimera/kimera/1068.ts
-#EXTINF:-1,DE|Sky Select  HD 8
-http://topiptv.net:5890/live/kimera/kimera/1069.ts
-#EXTINF:-1,--|DE CINEMA|--
-http://topiptv.net:5890/live/kimera/kimera/1443.ts
-#EXTINF:-1,DE|Sky Cinema HD
-http://topiptv.net:5890/live/kimera/kimera/348.ts
-#EXTINF:-1,DE|Sky Cinema 24
-http://topiptv.net:5890/live/kimera/kimera/349.ts
-#EXTINF:-1,DE|Sky Comedy
-http://topiptv.net:5890/live/kimera/kimera/352.ts
-#EXTINF:-1,DE|Sky Nostalgie
-http://topiptv.net:5890/live/kimera/kimera/357.ts
-#EXTINF:-1,DE|Sky Krimi
-http://topiptv.net:5890/live/kimera/kimera/353.ts
-#EXTINF:-1,DE|SkyAtlantic
-http://topiptv.net:5890/live/kimera/kimera/356.ts
-#EXTINF:-1,DE|Sky Action
-http://topiptv.net:5890/live/kimera/kimera/351.ts
-#EXTINF:-1,DE|Sky Hits
-http://topiptv.net:5890/live/kimera/kimera/350.ts
-#EXTINF:-1,DE|Sky Emotion
-http://topiptv.net:5890/live/kimera/kimera/354.ts
-#EXTINF:-1,DE|Sky Kinowelt
-http://topiptv.net:5890/live/kimera/kimera/1977.ts
-#EXTINF:-1,DE|TNT Film
-http://topiptv.net:5890/live/kimera/kimera/1214.ts
-#EXTINF:-1,DE|TNT Comedy
-http://topiptv.net:5890/live/kimera/kimera/376.ts
-#EXTINF:-1,DE|TNT SERIE
-http://topiptv.net:5890/live/kimera/kimera/1997.ts
-#EXTINF:-1,DE|13 th Street HD
-http://topiptv.net:5890/live/kimera/kimera/375.ts
-#EXTINF:-1,DE|FOX
-http://topiptv.net:5890/live/kimera/kimera/372.ts
-#EXTINF:-1,DE|Fox Serie
-http://topiptv.net:5890/live/kimera/kimera/1978.ts
-#EXTINF:-1,DE|BR HD
-http://topiptv.net:5890/live/kimera/kimera/1984.ts
-#EXTINF:-1,DE|ARTEHD
-http://topiptv.net:5890/live/kimera/kimera/1981.ts
-#EXTINF:-1,DE|DMAX HD
-http://topiptv.net:5890/live/kimera/kimera/1983.ts
-#EXTINF:-1,DE|RBB HD
-http://topiptv.net:5890/live/kimera/kimera/1982.ts
-#EXTINF:-1,DE|Eins Festival
-http://topiptv.net:5890/live/kimera/kimera/1976.ts
-#EXTINF:-1,DE|Goldstar
-http://topiptv.net:5890/live/kimera/kimera/1974.ts
-#EXTINF:-1,DE|A&E
-http://topiptv.net:5890/live/kimera/kimera/1972.ts
-#EXTINF:-1,DE|CLASSICA
-http://topiptv.net:5890/live/kimera/kimera/1973.ts
-#EXTINF:-1,DE|TLC
-http://topiptv.net:5890/live/kimera/kimera/1971.ts
-#EXTINF:-1,DE|SyfyHD
-http://topiptv.net:5890/live/kimera/kimera/377.ts
-#EXTINF:-1,DE|AXN HD
-http://topiptv.net:5890/live/kimera/kimera/374.ts
-#EXTINF:-1,--|DE GENERALE|--
-http://topiptv.net:5890/live/kimera/kimera/1447.ts
-#EXTINF:-1,DE|N24
-http://topiptv.net:5890/live/kimera/kimera/1996.ts
-#EXTINF:-1,DE|ORF 1
-http://topiptv.net:5890/live/kimera/kimera/1685.ts
-#EXTINF:-1,DE|ORF 2
-http://topiptv.net:5890/live/kimera/kimera/365.ts
-#EXTINF:-1,DE|NDR
-http://topiptv.net:5890/live/kimera/kimera/1995.ts
-#EXTINF:-1,DE|WDR
-http://topiptv.net:5890/live/kimera/kimera/1994.ts
-#EXTINF:-1,DE|Universal Channel
-http://topiptv.net:5890/live/kimera/kimera/1687.ts
-#EXTINF:-1,DE|VOX HD
-http://topiptv.net:5890/live/kimera/kimera/1684.ts
-#EXTINF:-1,DE|SIXX HD
-http://topiptv.net:5890/live/kimera/kimera/1681.ts
-#EXTINF:-1,DE|RTL Passion
-http://topiptv.net:5890/live/kimera/kimera/1688.ts
-#EXTINF:-1,DE|RTL Crime
-http://topiptv.net:5890/live/kimera/kimera/1689.ts
-#EXTINF:-1,DE|Romance tv
-http://topiptv.net:5890/live/kimera/kimera/1690.ts
-#EXTINF:-1,DE|PRO 7
-http://topiptv.net:5890/live/kimera/kimera/1677.ts
-#EXTINF:-1,DE|SAT.1 HD
-http://topiptv.net:5890/live/kimera/kimera/361.ts
-#EXTINF:-1,DE|ZDF
-http://topiptv.net:5890/live/kimera/kimera/366.ts
-#EXTINF:-1,DE|Das Erste HD
-http://topiptv.net:5890/live/kimera/kimera/367.ts
-#EXTINF:-1,DE|RTL
-http://topiptv.net:5890/live/kimera/kimera/358.ts
-#EXTINF:-1,DE|RTL ll HD
-http://topiptv.net:5890/live/kimera/kimera/359.ts
-#EXTINF:-1,DE|Kabel eins HD
-http://topiptv.net:5890/live/kimera/kimera/355.ts
-#EXTINF:-1,DE|Super Rtl
-http://topiptv.net:5890/live/kimera/kimera/363.ts
-#EXTINF:-1,DE|MGM
-http://topiptv.net:5890/live/kimera/kimera/368.ts
-#EXTINF:-1,--|DE CULTURE|--
-http://topiptv.net:5890/live/kimera/kimera/1446.ts
-#EXTINF:-1,DE|Sky Planet
-http://topiptv.net:5890/live/kimera/kimera/1686.ts
-#EXTINF:-1,DE|3 SAT
-http://topiptv.net:5890/live/kimera/kimera/1682.ts
-#EXTINF:-1,DE|History HD
-http://topiptv.net:5890/live/kimera/kimera/364.ts
-#EXTINF:-1,DE|National Geo Wild
-http://topiptv.net:5890/live/kimera/kimera/380.ts
-#EXTINF:-1,DE|National Geographic People
-http://topiptv.net:5890/live/kimera/kimera/1078.ts
-#EXTINF:-1,DE|DiscoveryHD
-http://topiptv.net:5890/live/kimera/kimera/379.ts
-#EXTINF:-1,DE|NatGeoGeographic
-http://topiptv.net:5890/live/kimera/kimera/381.ts
-#EXTINF:-1,--|DE KINDER|--
-http://topiptv.net:5890/live/kimera/kimera/1445.ts
-#EXTINF:-1,DE|Disney XD
-http://topiptv.net:5890/live/kimera/kimera/373.ts
-#EXTINF:-1,DE|DISNEY CINEMAGIC
-http://topiptv.net:5890/live/kimera/kimera/1979.ts
-#EXTINF:-1,DE|disney junior
-http://topiptv.net:5890/live/kimera/kimera/1968.ts
-#EXTINF:-1,DE|cartoon network
-http://topiptv.net:5890/live/kimera/kimera/1966.ts
-#EXTINF:-1,DE|boomerang
-http://topiptv.net:5890/live/kimera/kimera/1967.ts
-#EXTINF:-1,DE|KiKa
-http://topiptv.net:5890/live/kimera/kimera/1970.ts
-#EXTINF:-1,DE|Sky Select HD 9
-http://topiptv.net:5890/live/kimera/kimera/1071.ts
