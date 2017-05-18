@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  
+<item>
+<title>iptvultra</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR yellow] [makelist.param2][/COLOR]</title>
+   <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[href="([^"]+)">(.*?)</a]]></expres>
+<page>iptvultra.com/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[makelist2.param1]</title>
+   <link>plugin://plugin.video.f4mTester/?url=$doregex[getUrl]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param1]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+]]></listrepeat>
+<expres><![CDATA["\d+.{3}(.*?)\s\[.+?\](http.*?)"]]></expres>
+<page>[makelist.param1]?get=download_m3u8</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist2.param2]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1')</expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+###############
+
+<item>
+<title>canlitvlive.co</title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[getURL]|User-Agent=iPhone</link>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>(?s)li class="ondeiz" data-uri=.*?href="(.*?)".*?title="(.*?)".*?src="(.*?)"</expres>
+<page>http://www.canlitvlive.co/tum-kanallar.html</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getURL</name>
+<expres>file:"(.+?)"</expres>
+<page>http://www.canlitvlive.co[makelist.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+<fanart></fanart>
+</item>
+
+###############
+
+<item>
+<title>ecanlitvizle.net</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://www.ecanlitvizle.net/images/logo.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>http://www.ecanlitvizle.net/images/logo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  list = re.findall('id="kanallarliste">(?s)(.*?)</ul', page_data)[0]
+  return re.findall('href="(.*?net/(.*?)/)">(.*?)<', list)
+]]></expres>
+<page>http://www.ecanlitvizle.net/show-tv-izle</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.04</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param3](Link [makelist2.param1])</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>http://www.ecanlitvizle.net/images/logo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<p>(\d)\.]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://www.ecanlitvizle.net/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.04</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  source = re.findall(r'(?:token|m3u8|embed)', page_data)[0]
+  if 'm3u8' in source:
+      return re.findall('[",\'](h.*(?:m3u8).*?)[",\']', page_data)[0]
+  elif 'token' in source:
+      url = re.findall('[",\'](h.*(?:token).*?)[",\']', page_data)[0]
+      source = requests.get(url, headers = {'Referer': 'http://www.ecanlitvizle.net/embed.php?kanal=[makelist.param2]&yayin=[makelist2.param1]', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.04'}).text
+      return re.findall('[",\'](h.*(?:m3u8).*?)[",\']', source)[0]
+  else:
+      return 'plugin://plugin.video.youtube/play/?video_id=' + re.findall('[",\']h.*(?:embed)\/(.*?)\?', page_data)[0]
+]]></expres>
+<page>http://www.ecanlitvizle.net/embed.php?kanal=[makelist.param2]&amp;yayin=[makelist2.param1]</page>
+<referer>[makelist.param1]</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.04</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+###############
