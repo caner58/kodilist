@@ -1,7 +1,8 @@
 ﻿#EXTM3U
-#EXTINF:-1,beIN SPORm3u8 HD 1
-http://sutverduz.com:8080/live/sinan/sinan/135.m3u8
-#EXTINF:-1,beIN SPORm3u8 1 HD 265.HVEC
-http://sutverduz.com:8080/live/sinan/sinan/2785.m3u8
-#EXTINF:-1,beIN SPORm3u8 HD 2
-http://sutverduz.com:8080/live/sinan/sinan/134.m3u8
+
+#EXTINF:-1,beIN SPOR HD 1
+https://s02.tvcdn.co/live/bein-sport-1/index.m3u8
+#EXTINF:-1,beIN SPOR HD 2
+https://s02.tvcdn.co/live/bein-sport-2/index.m3u8
+#EXTINF:-1,beIN SPOR HD 3
+https://s02.tvcdn.co/live/bein-sport-3/index.m3u8
