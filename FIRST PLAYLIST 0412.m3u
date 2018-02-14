@@ -1,8 +1,62 @@
 ﻿#EXTM3U
 
 
+#EXTM3U
+
+
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+
+#EXTINF:0,ATV
+http://51.15.8.12:5757/stream/atv.m3u8
+
+
+#EXTINF:0,Show TV
+http://51.15.8.12:5757/stream/showtv.m3u8
+
+
+#EXTINF:0,Kanal D
+http://37.48.83.9/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+#EXTINF:0,TV8
+http://51.15.8.12:5757/stream/tv8.m3u8
+
+#EXTINF:0,AHaber
+http://51.15.8.12:5757/stream/ahaber.m3u8
+
+#EXTINF:0,FOX
+http://51.15.8.12:5757/stream/fox.m3u8
+
+#EXTINF:0,Beyaz TV
+http://51.15.8.12:5757/stream/beyaztv.m3u8
+
+
+#EXTINF:0,Kanal 7
+http://51.15.8.12:5757/stream/kanal7.m3u8
+
+
+#EXTINF:0,A Spor
+http://51.15.8.12:5757/stream/aspor.m3u8
+
+
+#EXTINF:0,A2
+http://51.15.8.12:5757/stream/a2.m3u8
+
+
+#EXTINF:0,TV 8,5
+http://51.15.8.12:5757/stream/tv85.m3u8
+
+
+
+#EXTINF:0,A2
+http://51.15.8.12:5757/stream/a2.m3u8
+
+
+
+#EXTINF:0,A2
+http://51.15.8.12:5757/stream/a2.m3u8
+
+
 
 
 #EXTINF:-1,TRT HABER HD
@@ -11,8 +65,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:-1,TRT TÜRK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1500_av-p.m3u8
 
-#EXTINF:-1,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1500_av-p.m3u8
 
 #EXTINF:-1,TRT ÇOCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
@@ -25,17 +77,5 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
 #EXTINF:-1,TRT BELGESEL
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-
-#EXTINF:-1,Bein 1
-http://sport7.pw/lba/ZTk2NDE4MmI0ODcxZmMyZjBhZWNiNzAzNDkxYTYxNmE=/g6/bein1tk.m3u8
-
-#EXTINF:-1,Bein 1
-http://sport7.pw/lba/MTNhNTcyOGE0OTVmYWJiOGU5WVhOWFmODQzNGE0MzU=/g6/bein1tk.m3u8
-
-
-
-
-#EXTINF:-1,Bein 1
-http://78.142.19.202/a/guest/live/636.ts
 
 
