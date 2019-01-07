@@ -1100,8 +1100,7 @@ http://178.132.4.92:8000/a/guest/live/3976.ts?vavoo_auth=:'module'
 #EXTVLCOPT:http-user-agent=VAVOO/1.51 
 http://89.187.169.101:8000/a/guest/live/1525.ts?vavoo_auth=:'module'
 
-#EXTINF:-1 tvg-name="13TH STREET FHD" group-title="DE
-,13TH STREET FHD
+#EXTINF:-1 tvg-name="13TH STREET FHD" group-title="DE",13TH STREET FHD
 #EXTVLCOPT:http-user-agent=VAVOO/1.51 
 http://178.132.4.145:8000/a/guest/live/3868.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="13TH STREET HD (2)" group-title="DE",13TH STREET HD (2)
