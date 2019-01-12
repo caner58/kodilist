@@ -2,205 +2,205 @@
 
 #EXTINF:-1 tvg-name="TRT 1 FHD" group-title="TR",TRT 1 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3610.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3610.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT 1 FULL HD (2)" group-title="TR",TRT 1 FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5473.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5473.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT 1 HD*" group-title="TR",TRT 1 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/2316.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/2316.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ATV AVRUPA" group-title="TR",ATV AVRUPA
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1482.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1482.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ATV FHD" group-title="TR",ATV FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3611.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3611.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ATV FULL HD (2)" group-title="TR",ATV FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5474.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5474.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ATV HD*" group-title="TR",ATV HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/2317.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/2317.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SHOWTURK" group-title="TR",SHOWTURK
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1481.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1481.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SHOW TV FHD" group-title="TR",SHOW TV FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3612.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3612.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SHOW TV FULL HD (2)" group-title="TR",SHOW TV FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5478.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5478.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL D FHD" group-title="TR",KANAL D FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3614.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3614.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL D FULL HD (2)" group-title="TR",KANAL D FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5477.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5477.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL D HD*" group-title="TR",KANAL D HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/2320.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/2320.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EURO D" group-title="TR",EURO D
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/1479.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/1479.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="STAR TV FHD" group-title="TR",STAR TV FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3613.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3613.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="STAR TV FULL HD (2)" group-title="TR",STAR TV FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5475.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5475.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="STAR TV HD*" group-title="TR",STAR TV HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/2319.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/2319.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSTAR" group-title="TR",EUROSTAR
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1480.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1480.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL 7 FHD" group-title="TR",KANAL 7 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3618.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3618.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL 7 FULL HD (2)" group-title="TR",KANAL 7 FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5485.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5485.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL 7 HD*" group-title="TR",KANAL 7 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/2324.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/2324.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEYAZ FHD" group-title="TR",BEYAZ FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3617.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3617.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEYAZ HD*" group-title="TR",BEYAZ HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/2313.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/2313.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEYAZ TV FULL HD (2)" group-title="TR",BEYAZ TV FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5487.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5487.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="TGRT HABER HD" group-title="TR",TGRT HABER HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1518.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1518.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A HABER FHD" group-title="TR",A HABER FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3966.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3966.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A HABER FULL HD (2)" group-title="TR",A HABER FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5489.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5489.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A HABER HD*" group-title="TR",A HABER HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/2310.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/2310.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="Kanal 24" group-title="TR",Kanal 24
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5500.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5500.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL 24 HD" group-title="TR",KANAL 24 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1512.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1512.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ULKE FHD" group-title="TR",ULKE FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3619.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3619.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ULKE HD*" group-title="TR",ULKE HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1509.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1509.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ULKE TV (2)" group-title="TR",ULKE TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5498.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5498.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ULKE TV FULL HD (2)" group-title="TR",ULKE TV FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5499.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5499.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="HABER TURK FHD" group-title="TR",HABER TURK FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3963.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3963.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="HABER TURK FULL HD (2)" group-title="TR",HABER TURK FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5494.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5494.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="HABER TURK HD*" group-title="TR",HABER TURK HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1519.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1519.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="FOX FHD" group-title="TR",FOX FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3616.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3616.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX HD*" group-title="TR",FOX HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/2322.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/2322.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX TV FULL HD (2)" group-title="TR",FOX TV FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5476.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5476.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TV8 FHD" group-title="TR",TV8 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3615.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3615.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TV 8 FULL HD (2)" group-title="TR",TV 8 FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5480.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5480.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TV8 HD*" group-title="TR",TV8 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/2321.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/2321.ts?vavoo_auth=:'module'
 
 
 
 
 #EXTINF:-1 tvg-name="TRT BELGESEL FULL HD (2)" group-title="TR",TRT BELGESEL FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5578.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5578.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT BELGESEL HD" group-title="TR",TRT BELGESEL HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1526.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1526.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TGRT BELGESEL (2)" group-title="TR",TGRT BELGESEL (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5592.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5592.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TGRT EU" group-title="TR",TGRT EU
 
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL (2)" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=228&blob=3855981243237072977",DISCOVERY CHANNEL (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/228.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/228.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL UHD (2)" group-title="TR",DISCOVERY CHANNEL UHD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/611.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/611.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY HD*" group-title="TR",DISCOVERY HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/2314.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/2314.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY IDX HD" group-title="TR",DISCOVERY IDX HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1529.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1529.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE (2)" group-title="TR",DISCOVERY SCIENCE (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5585.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5585.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=612&blob=1832795455519408941",DISCOVERY SCIENCE HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/612.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/612.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY SHOWCASE HD (2)" group-title="TR",DISCOVERY SHOWCASE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/613.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/613.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY CHANNEL (2)" group-title="TR",DISNEY CHANNEL (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5515.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5515.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY CHANNEL HD" group-title="TR",DISNEY CHANNEL HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1566.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1566.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO HD" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=650&blob=2618121622606073880",NAT GEO HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/650.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/650.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO HD*" group-title="TR",NAT GEO HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3977.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3977.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO PEOPLE HD*" group-title="TR",NAT GEO PEOPLE HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3979.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3979.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO PEOPLE HD (2)" group-title="TR",NAT GEO PEOPLE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/651.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/651.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO WILD HD" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=652&blob=2618121622606073880",NAT GEO WILD HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/652.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/652.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO WILD HD*" group-title="TR",NAT GEO WILD HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3978.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3978.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC CHANNEL (2)" group-title="TR",NATIONAL GEOGRAPHIC CHANNEL (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5582.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5582.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD (2)" group-title="TR",NATIONAL GEOGRAPHIC WILD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5581.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5581.ts?vavoo_auth=:'module'
 
 
 
@@ -209,180 +209,180 @@ http://178.132.4.81:8000/a/guest/live/5581.ts?vavoo_auth=:'module'|User-Agent=VA
 
 #EXTINF:-1 tvg-name="LOCA 1 (2)" group-title="TR Sinema",LOCA 1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1585.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1585.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="LOCA 2 (2)" group-title="TR Sinema",LOCA 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1586.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1586.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="LOCA 3 (2)" group-title="TR Sinema",LOCA 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5559.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5559.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SALON 1 (2)" group-title="TR Sinema",SALON 1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5294.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5294.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SALON 2 (2)" group-title="TR Sinema",SALON 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5305.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5305.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SALON 3 (2)" group-title="TR Sinema",SALON 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5307.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5307.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SINEMA 1001 (2)" group-title="TR Sinema",SINEMA 1001 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5571.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5571.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA AILE (2)" group-title="TR Sinema",SINEMA AILE (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5569.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5569.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA AKSIYON (2)" group-title="TR Sinema",SINEMA AKSIYON (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5567.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5567.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA KOMEDI (2)" group-title="TR Sinema",SINEMA KOMEDI (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5572.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5572.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV 1001 HD" group-title="TR Sinema" tvg-logo="https://vjackson.info/live/logo?channel=375&blob=20233995799612739",SINEMA TV 1001 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/375.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/375.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV 1001 HD*" group-title="TR Sinema",SINEMA TV 1001 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3983.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3983.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV (2)" group-title="TR Sinema",SINEMA TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5565.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5565.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV 2 HD" group-title="TR Sinema",SINEMA TV 2 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3981.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3981.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV AILE HD*" group-title="TR Sinema",SINEMA TV AILE HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3982.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3982.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV AKSIYON HD" group-title="TR Sinema",SINEMA TV AKSIYON HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3984.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3984.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV AKSIYON HD CANLI" group-title="TR Sinema",SINEMA TV AKSIYON HD CANLI
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1595.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1595.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV HD" group-title="TR Sinema",SINEMA TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3980.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3980.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SINEMA TV KOMEDI HD" group-title="TR Sinema",SINEMA TV KOMEDI HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3985.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3985.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="VIP ANIMASYON HD" group-title="TR Sinema",VIP ANIMASYON HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1565.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1565.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="MOVIESMART ACTION HD (2)" group-title="TR Sinema",MOVIESMART ACTION HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5218.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5218.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART CLASSIC HD (2)" group-title="TR Sinema",MOVIESMART CLASSIC HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5563.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5563.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART FAMILY HD (2)" group-title="TR Sinema",MOVIESMART FAMILY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5219.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5219.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART FEST HD (2)" group-title="TR Sinema",MOVIESMART FEST HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5220.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5220.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART GOLD HD (2)" group-title="TR Sinema",MOVIESMART GOLD HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5221.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5221.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART PLATIN 2 HD (2)" group-title="TR Sinema",MOVIESMART PLATIN 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5562.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5562.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART PLATIN HD (2)" group-title="TR Sinema",MOVIESMART PLATIN HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5222.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5222.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART PREMIUM 2 HD (2)" group-title="TR Sinema",MOVIESMART PREMIUM 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5561.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5561.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART PREMIUM HD (2)" group-title="TR Sinema",MOVIESMART PREMIUM HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5223.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5223.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOVIESMART TURK HD (2)" group-title="TR Sinema",MOVIESMART TURK HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5224.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5224.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2 (2)" group-title="TR Sinema",BEIN MOVIES ACTION 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5576.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5576.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES ACTION HD (2)" group-title="TR Sinema",BEIN MOVIES ACTION HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5280.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5280.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES COMEDY HD (2)" group-title="TR Sinema",BEIN MOVIES COMEDY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5281.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5281.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES FAMILY HD (2)" group-title="TR Sinema",BEIN MOVIES FAMILY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5282.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5282.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES FESTIVAL HD (2)" group-title="TR Sinema",BEIN MOVIES FESTIVAL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5283.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5283.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIER 2 HD (2)" group-title="TR Sinema",BEIN MOVIES PREMIER 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5575.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5575.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIER HD (2)" group-title="TR Sinema",BEIN MOVIES PREMIER HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5284.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5284.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES STARS HD (2)" group-title="TR Sinema",BEIN MOVIES STARS HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5285.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5285.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN MOVIES TURK (2)" group-title="TR Sinema",BEIN MOVIES TURK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5574.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5574.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN OFFICE 1 HD 1080P" group-title="TR Sinema",BEIN OFFICE 1 HD 1080P
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3986.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3986.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN OFFICE 2 HD 1080P" group-title="TR Sinema",BEIN OFFICE 2 HD 1080P
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3987.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3987.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN OFFICE 3 HD 1080P" group-title="TR Sinema",BEIN OFFICE 3 HD 1080P
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3988.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3988.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SERIES COMEDY HD (2)" group-title="TR Sinema",BEIN SERIES COMEDY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5287.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5287.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SERIES DRAMA HD (2)" group-title="TR Sinema",BEIN SERIES DRAMA HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5288.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5288.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SERIES SCI-FI HD (2)" group-title="TR Sinema",BEIN SERIES SCI-FI HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5289.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5289.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SERIES VICE HD (2)" group-title="TR Sinema",BEIN SERIES VICE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5293.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5293.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="360 TV HD" group-title="TR",360 TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3954.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3954.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="6THER FHD" group-title="TR",6THER FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/4007.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/4007.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A2 (2)" group-title="TR",A2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5086.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5086.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A2 FHD" group-title="TR",A2 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3949.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3949.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A2 HD" group-title="TR",A2 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3948.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3948.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="AKTIF TV HD BELCIKA" group-title="TR",AKTIF TV HD BELCIKA
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3958.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3958.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="A NEWS HD" group-title="TR",A NEWS HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1463.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1463.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET (2)" group-title="TR",ANIMAL PLANET (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5584.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5584.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=161&blob=354788509286075551",ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/161.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/161.ts?vavoo_auth=:'module'
 
 
 
@@ -390,556 +390,556 @@ http://178.132.4.92:8000/a/guest/live/161.ts?vavoo_auth=:'module'|User-Agent=VAV
 
 #EXTINF:-1 tvg-name="A SPOR FHD" group-title="TR",A SPOR FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3621.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3621.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A SPOR FULL HD (2)" group-title="TR",A SPOR FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5555.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5555.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A SPOR HD*" group-title="TR",A SPOR HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/2311.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/2311.ts?vavoo_auth=:'module'
 
 
 
 
 #EXTINF:-1 tvg-name="BABY TV HD (2)" group-title="TR",BABY TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5517.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5517.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BBC EARTH HD*" group-title="TR",BBC EARTH HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/2958.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/2958.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BBC EARTH HD (2)" group-title="TR",BBC EARTH HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5579.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5579.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN GURME HD (2)" group-title="TR",BEIN GURME HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1475.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1475.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN IZ HD (2)" group-title="TR",BEIN IZ HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5589.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5589.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN IZ TV HD" group-title="TR",BEIN IZ TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1524.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1524.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORT 1 UHD " group-title="TR Spor",BEIN SPORT 1 UHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5010.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5010.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT 1 UHD (2)" group-title="TR Spor",BEIN SPORT 1 UHD  (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5795.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5795.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT 1 HD " group-title="TR Spor",BEIN SPORT 1 HD 
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/591.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/591.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT 1 HD (2)" group-title="TR Spor",BEIN SPORT 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5794.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5794.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 HD*" group-title="TR Spor",BEIN SPORTS 1 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/2959.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/2959.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 HD+" group-title="TR Spor",BEIN SPORTS 1 HD+
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3790.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3790.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORTS-1-DIGIPLAY " group-title="TR Spor",BEIN SPORTS-1-DIGIPLAY 
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5534.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5534.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORT 1 SD (DUSUK INTERNET) (2)" group-title="TR Spor",BEIN SPORT 1 SD (DUSUK INTERNET) (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5531.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5531.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT 1 SD (TTNET ONLY) (2)" group-title="TR Spor",BEIN SPORT 1 SD (TTNET ONLY) (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5793.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5793.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORT 2 UHD " group-title="TR Spor",BEIN SPORT 2 UHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5018.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5018.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORT 2 HD " group-title="TR Spor",BEIN SPORT 2 HD 
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/593.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/593.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT 2 SD " group-title="TR Spor",BEIN SPORT 2 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5015.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5015.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORT 3 UHD " group-title="TR Spor",BEIN SPORT 3 UHD 
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5025.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5025.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORT 3 HD (2)" group-title="TR Spor",BEIN SPORT 3 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/594.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/594.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT 3 SD (2)" group-title="TR Spor",BEIN SPORT 3 SD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5024.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5024.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BEIN SPORT 4 HD (2)" group-title="TR Spor",BEIN SPORT 4 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/595.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/595.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT MAX 1 (2)" group-title="TR Spor",BEIN SPORT MAX 1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5532.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5532.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORT MAX 2 (2)" group-title="TR Spor",BEIN SPORT MAX 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5533.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5533.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 SD" group-title="TR Spor",BEIN SPORTS 1 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/1556.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/1556.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS-2-DIGIPLAY (2)" group-title="TR Spor",BEIN SPORTS-2-DIGIPLAY (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5535.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5535.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 HD*" group-title="TR Spor",BEIN SPORTS 2 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/2960.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/2960.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 HD+" group-title="TR Spor",BEIN SPORTS 2 HD+
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3791.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3791.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 SD" group-title="TR Spor",BEIN SPORTS 2 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1557.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1557.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS-3-DIGIPLAY (2)" group-title="TR Spor",BEIN SPORTS-3-DIGIPLAY (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5536.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5536.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD*" group-title="TR Spor",BEIN SPORTS 3 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/2961.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/2961.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD+" group-title="TR Spor",BEIN SPORTS 3 HD+
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3792.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3792.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 SD" group-title="TR Spor",BEIN SPORTS 3 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1558.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1558.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS-4-DIGIPLAY (2)" group-title="TR Spor",BEIN SPORTS-4-DIGIPLAY (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5537.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5537.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 4 HD*" group-title="TR Spor",BEIN SPORTS 4 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3507.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3507.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 4 HD+" group-title="TR Spor",BEIN SPORTS 4 HD+
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3793.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3793.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS 4 SD" group-title="TR Spor",BEIN SPORTS 4 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1559.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1559.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER HD*" group-title="TR Spor",BEIN SPORTS HABER HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3969.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3969.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER HD (2)" group-title="TR Spor",BEIN SPORTS HABER HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5530.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5530.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 1 FHD+" group-title="TR Spor",BEIN SPORTS MAX 1 FHD+
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3970.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3970.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2 FHD+" group-title="TR Spor",BEIN SPORTS MAX 2 FHD+
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3971.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3971.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BENGUTURK (2)" group-title="TR",BENGUTURK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5100.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5100.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BENGUTURK TV" group-title="TR",BENGUTURK TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1520.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1520.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="BJK TV (2)" group-title="TR Spor",BJK TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5107.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5107.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BJK TV HD" group-title="TR",BJK TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1530.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1530.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BLOOMBERG HT FHD" group-title="TR",BLOOMBERG HT FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3967.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3967.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BLOOMBERG HT FULL HD (2)" group-title="TR",BLOOMBERG HT FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5497.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5497.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BLOOMBERG HT HD" group-title="TR",BLOOMBERG HT HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/1521.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/1521.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BOOMERANG HD (TR)" group-title="TR",BOOMERANG HD (TR)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3989.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3989.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BRUKSEL TURK TV" group-title="TR",BRUKSEL TURK TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3960.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3960.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="BURSASPOR" group-title="TR Spor",BURSASPOR
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1536.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1536.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BURSA TV (2)" group-title="TR",BURSA TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5506.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5506.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="CARTOON NETWORK (2)" group-title="TR",CARTOON NETWORK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5518.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5518.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="CARTOON NETWORK HD" group-title="TR",CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1567.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1567.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="Ã‡IRA TV" group-title="TR",Ã‡IRA TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1643.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1643.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="CNN TURK FHD" group-title="TR",CNN TURK FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3962.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3962.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="CNN TURK FULL HD (2)" group-title="TR",CNN TURK FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5496.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5496.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="CNN TURK HD*" group-title="TR",CNN TURK HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1513.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1513.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="CON: TV CONGO" group-title="TR",CON: TV CONGO
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/4301.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/4301.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="DA VINCI LEARNING (2)" group-title="TR",DA VINCI LEARNING (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5586.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5586.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DEHA TV (2)" group-title="TR",DEHA TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5505.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5505.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="DISNEY JUNIOR (2)" group-title="TR",DISNEY JUNIOR (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1496.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1496.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DIZI SMART PREMIUM HD (2)" group-title="TR",DIZI SMART PREMIUM HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5564.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5564.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DIZI TV HD" group-title="TR",DIZI TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/615.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/615.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DMAX FHD" group-title="TR",DMAX FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3975.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3975.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DMAX FULL HD (2)" group-title="TR",DMAX FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5551.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5551.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DMAX HD*" group-title="TR",DMAX HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/2907.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/2907.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="DREAM TURK HD" group-title="TR",DREAM TURK HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1613.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1613.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DREAM TURK TV (2)" group-title="TR",DREAM TURK TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5528.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5528.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DREAM TV (2)" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=237&blob=-7144530491335114280",DREAM TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/237.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/237.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EKINTURK TV" group-title="TR",EKINTURK TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1502.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1502.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ELITE TV HD" group-title="TR",ELITE TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/4310.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/4310.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="TR Spor",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/250.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/250.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (2)" group-title="TR Spor",EUROSPORT 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5548.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5548.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSPORT 2 (2)" group-title="TR Spor",EUROSPORT 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5549.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5549.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="Eurosport 2 HD" group-title="TR Spor",Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/620.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/620.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="EXTREME SPORTS CHANNEL (2)" group-title="TR Spor",EXTREME SPORTS CHANNEL (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5542.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5542.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="FB TV (2)" group-title="TR Spor",FB TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5557.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5557.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FB TV HD" group-title="TR Spor",FB TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1532.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1532.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FIL TV (2)" group-title="TR",FIL TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1476.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1476.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="FLASH TV (2)" group-title="TR",FLASH TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5126.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5126.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FLASH TV HD*" group-title="TR",FLASH TV HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/1486.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/1486.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX CRIME" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=624&blob=-5026464638653895028",FOX CRIME
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/624.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/624.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX CRIME HD*" group-title="TR",FOX CRIME HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3951.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3951.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="FOX LIFE HD" group-title="TR",FOX LIFE HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1492.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1492.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX LIFE HD*" group-title="TR",FOX LIFE HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3952.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3952.ts?vavoo_auth=:'module'
 
 
 
 
 #EXTINF:-1 tvg-name="FX HD*" group-title="TR",FX HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3950.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3950.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="GS TV (2)" group-title="TR Spor",GS TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5556.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5556.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="GS TV HD" group-title="TR Spor",GS TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1531.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1531.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="HISTORY CHANNEL HD (2)" group-title="TR",HISTORY CHANNEL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5580.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5580.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="HISTORY HD*" group-title="TR",HISTORY HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/2323.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/2323.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="KANAL 26" group-title="TR",KANAL 26
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1484.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1484.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL 360 TV (2)" group-title="TR",KANAL 360 TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5831.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5831.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL 3 HD" group-title="TR",KANAL 3 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1478.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1478.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="KANAL AVRUPA" group-title="TR",KANAL AVRUPA
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1489.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1489.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KANAL B (2)" group-title="TR",KANAL B (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5502.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5502.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="KEMAL SUNAL HD" group-title="TR",KEMAL SUNAL HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/637.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/637.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KIDZ/ANIMEZ (2)" group-title="TR",KIDZ/ANIMEZ (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5519.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5519.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KNN TV" group-title="TR",KNN TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1645.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1645.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KON TV" group-title="TR",KON TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1497.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1497.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KOREK TV" group-title="TR",KOREK TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1646.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1646.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KRAL POP (2)" group-title="TR",KRAL POP (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5523.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5523.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KRAL POP FHD" group-title="TR",KRAL POP FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/4000.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/4000.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KRAL POP HD*" group-title="TR",KRAL POP HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/2337.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/2337.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KRAL TV HD" group-title="TR",KRAL TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3712.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3712.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="LALEGUL TV (2)" group-title="TR",LALEGUL TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1501.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1501.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="LIFETIME CHANNEL HD (2)" group-title="TR",LIFETIME CHANNEL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5588.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5588.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="M6 FHD" group-title="TR",M6 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/4002.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/4002.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MAVI KARADENIZ (2)" group-title="TR",MAVI KARADENIZ (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5196.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5196.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MAVI KARADENIZ TV" group-title="TR",MAVI KARADENIZ TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1490.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1490.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MED MÃœZIK TV" group-title="TR",MED MÃœZIK TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1653.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1653.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MEDYA HABER" group-title="TR",MEDYA HABER
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1664.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1664.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MINIKA COCUK" group-title="TR",MINIKA COCUK
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/330.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/330.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MINIKACOCUK (2)" group-title="TR",MINIKACOCUK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5514.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5514.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MINIKAGO (2)" group-title="TR",MINIKAGO (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5516.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5516.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MINIKA GO HD*" group-title="TR",MINIKA GO HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3509.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3509.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="NBA TV (2)" group-title="TR Spor",NBA TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/2409.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/2409.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NBA TV HD*" group-title="TR Spor",NBA TV HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3506.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3506.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=653&blob=-6592272547971213089",NICKELODEON
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/653.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/653.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NICK JR" group-title="TR" tvg-logo="https://vjackson.info/live/logo?channel=346&blob=4086292805739157416",NICK JR
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/346.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/346.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NICK TOONS (TR)" group-title="TR",NICK TOONS (TR)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3990.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3990.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="NILOYA TV HD" group-title="TR",NILOYA TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3991.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3991.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="NTV (2)" group-title="TR",NTV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5491.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5491.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NTV FHD" group-title="TR",NTV FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3961.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3961.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NTV FULL HD (2)" group-title="TR",NTV FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5492.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5492.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NTV HD*" group-title="TR",NTV HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/1507.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/1507.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="PATRON BEBEK YINE IS BASINDA (CIZGI DIZI) (2)" group-title="TR",PATRON BEBEK YINE IS BASINDA (CIZGI DIZI) (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5521.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5521.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="PLANET COCUK" group-title="TR",PLANET COCUK
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3992.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3992.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PLANET TURK (2)" group-title="TR",PLANET TURK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/359.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/359.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="POWER TURK HD" group-title="TR",POWER TURK HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/663.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/663.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="POWER TURK HD*" group-title="TR",POWER TURK HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1614.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1614.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="POWERTURK HD (2)" group-title="TR",POWERTURK HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5526.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5526.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="POWER TV HD (2)" group-title="TR",POWER TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3999.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3999.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="SEMERKAND TV (2)" group-title="TR",SEMERKAND TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1503.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1503.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SEMERKAND TV HD+" group-title="TR",SEMERKAND TV HD+
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3994.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3994.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SHOWMAX" group-title="TR",SHOWMAX
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1483.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1483.ts?vavoo_auth=:'module'
 
 
 
 
 #EXTINF:-1 tvg-name="SIVAS SRT (2)" group-title="TR",SIVAS SRT (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5507.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5507.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SMART SPOR 1 HD" group-title="TR Spor",SMART SPOR 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/2411.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/2411.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SMART SPOR 1 HD*" group-title="TR Spor",SMART SPOR 1 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3508.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3508.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SONY MUTFAK TV TR" group-title="TR",SONY MUTFAK TV TR
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/4887.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/4887.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SONY TV HD" group-title="TR",SONY TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3953.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3953.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SPOR SMART HD (2)" group-title="TR Spor",SPOR SMART HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5538.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5538.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPOR SMART UHD (2)" group-title="TR Spor",SPOR SMART UHD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5539.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5539.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORTS TV (2)" group-title="TR Spor",SPORTS TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/2412.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/2412.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORTS TV HD" group-title="TR Spor",SPORTS TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1541.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1541.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="S SONY CHANNEL (2)" group-title="TR",S SONY CHANNEL (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5560.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5560.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="S SONY MUTFAK (2)" group-title="TR",S SONY MUTFAK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5510.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5510.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="S SPORT HD" group-title="TR Spor",S SPORT HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1537.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1537.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="S SPORT HD*" group-title="TR Spor",S SPORT HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3973.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3973.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="S SPORTHD (2)" group-title="TR Spor",S SPORTHD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5540.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5540.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="S SPORT UHD (2)" group-title="TR Spor",S SPORT UHD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5541.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5541.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="TAYO CIZGI FILM (2)" group-title="TR",TAYO CIZGI FILM (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5520.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5520.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TAY TV (2)" group-title="TR",TAY TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5171.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5171.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELE 1 (2)" group-title="TR",TELE 1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5503.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5503.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELE 1 HD" group-title="TR",TELE 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/696.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/696.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TEVE 2 FHD" group-title="TR",TEVE 2 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3947.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3947.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TEVE2 FULL HD (2)" group-title="TR",TEVE2 FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5484.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5484.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TEVE 2 HD*" group-title="TR",TEVE 2 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3769.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3769.ts?vavoo_auth=:'module'
 
 
 
@@ -947,134 +947,134 @@ http://190.2.138.140:8000/a/guest/live/3769.ts?vavoo_auth=:'module'|User-Agent=V
 
 #EXTINF:-1 tvg-name="TiviBu Spor 1 HD*" group-title="TR Spor",TiviBu Spor 1 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/2954.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/2954.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2* (2)" group-title="TR Spor",TIVIBU SPOR 2* (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5545.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5545.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TiviBu Spor 2 HD*" group-title="TR Spor",TiviBu Spor 2 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/2955.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/2955.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2 HD (2)" group-title="TR Spor",TIVIBU SPOR 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/2414.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/2414.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="Tivibu Spor 2 SD" group-title="TR Spor",Tivibu Spor 2 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1547.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1547.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2 UHD (2)" group-title="TR Spor",TIVIBU SPOR 2 UHD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5544.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5544.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3 (2)" group-title="TR Spor",TIVIBU SPOR 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5546.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5546.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TiviBu Spor 3 HD*" group-title="TR Spor",TiviBu Spor 3 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/2956.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/2956.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 4 (2)" group-title="TR Spor",TIVIBU SPOR 4 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5547.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5547.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="Tivibu Spor 4 HD*" group-title="TR Spor",Tivibu Spor 4 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/2957.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/2957.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR HD (2)" group-title="TR",TIVIBU SPOR HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5543.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5543.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TJK TV" group-title="TR",TJK TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/698.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/698.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TLC (2)" group-title="TR",TLC (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1523.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1523.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TLC HD*" group-title="TR",TLC HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3974.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3974.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TMC FHD" group-title="TR",TMC FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/4012.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/4012.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="TRT 4K (2)" group-title="TR",TRT 4K (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/4751.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/4751.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT 4 K HD" group-title="TR",TRT 4 K HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3972.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3972.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT 6 KURDI (2)" group-title="TR",TRT 6 KURDI (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/2398.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/2398.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT AVAZ (2)" group-title="TR",TRT AVAZ (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/4760.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/4760.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT AVAZ HD" group-title="TR",TRT AVAZ HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1491.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1491.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="TRT COCUK FULL HD (2)" group-title="TR",TRT COCUK FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5513.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5513.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT COCUK HD*" group-title="TR",TRT COCUK HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/2962.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/2962.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="TRT DIYANET (2)" group-title="TR",TRT DIYANET (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/2417.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/2417.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT DIYANET HD" group-title="TR",TRT DIYANET HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1504.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1504.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT HABER HD*" group-title="TR",TRT HABER HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1515.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1515.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="TRT MUZIK (2)" group-title="TR",TRT MUZIK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/4763.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/4763.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT MUZIK HD" group-title="TR",TRT MUZIK HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3530.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3530.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT OKUL HD" group-title="TR",TRT OKUL HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/1563.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/1563.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT SPOR FHD" group-title="TR",TRT SPOR FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3622.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3622.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT SPOR FULL HD (2)" group-title="TR",TRT SPOR FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5553.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5553.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TRT SPOR HD*" group-title="TR",TRT SPOR HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/1540.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/1540.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="TRT WORLD HD (2)" group-title="TR",TRT WORLD HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5830.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5830.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="TV5 HD" group-title="TR",TV5 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/1506.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/1506.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TV 8.5 FULL HD (2)" group-title="TR",TV 8.5 FULL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5482.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5482.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TV8.5 HD*" group-title="TR",TV8.5 HD*
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5832.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5832.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="TVKAYSERI" group-title="TR",TVKAYSERI
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3813.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3813.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TV NET" group-title="TR",TV NET
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/707.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/707.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="UCAN KUS TV HD" group-title="TR",UCAN KUS TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3956.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3956.ts?vavoo_auth=:'module'
 
 
 
@@ -1083,983 +1083,983 @@ http://178.132.4.99:8000/a/guest/live/3956.ts?vavoo_auth=:'module'|User-Agent=VA
 
 #EXTINF:-1 tvg-name="VIVA (2)" group-title="TR",VIVA (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5527.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5527.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="VIZYON TURK (2)" group-title="TR",VIZYON TURK (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5509.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5509.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="YABAN TV (2)" group-title="TR",YABAN TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5590.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5590.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="YABAN TV FHD" group-title="TR",YABAN TV FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3976.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3976.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="YABAN TV HD" group-title="TR",YABAN TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1525.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1525.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="13TH STREET FHD" group-title="DE",13TH STREET FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3868.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3868.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="13TH STREET HD (2)" group-title="DE",13TH STREET HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3585.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3585.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="3 SAT HD (2)" group-title="DE",3 SAT HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3546.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3546.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="A&E HD (2)" group-title="DE",A&E HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5368.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5368.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ALLG?U TV (2)" group-title="DE",ALLG?U TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5369.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5369.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="Animal Planet HD" group-title="DE",Animal Planet HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3568.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3568.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD (2)" group-title="DE",ANIMAL PLANET HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5370.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5370.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ANIXE (2)" group-title="DE",ANIXE (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5371.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5371.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ANIXE HD (2)" group-title="DE",ANIXE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5372.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5372.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ARD (2)" group-title="DE",ARD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5373.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5373.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ARD HD (2)" group-title="DE",ARD HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/469.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/469.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ARTE HD (2)" group-title="DE",ARTE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3564.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3564.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT HD (2)" group-title="DE",AUTO MOTOR SPORT HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5374.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5374.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="AUTO MOTO SPORT FHD" group-title="DE",AUTO MOTO SPORT FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3912.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3912.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="AXN HD (2)" group-title="DE",AXN HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3534.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3534.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="BOOMERANG HD (2)" group-title="DE",BOOMERANG HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3569.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3569.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="CARTOON NETWORK HD (2)" group-title="DE",CARTOON NETWORK HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3570.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3570.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="CLASSIC HD (2)" group-title="DE",CLASSIC HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5375.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5375.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="COMEDY CENTRAL HD" group-title="DE",COMEDY CENTRAL HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3844.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3844.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DAS ERSTE FHD" group-title="DE",DAS ERSTE FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3823.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3823.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DAS ERSTE HD (2)" group-title="DE",DAS ERSTE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3547.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3547.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DAZN 1 (2)" group-title="DE Sport",DAZN 1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5376.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5376.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DAZN 1 BAR FHD" group-title="DE Sport",DAZN 1 BAR FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3910.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3910.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DAZN 2 (2)" group-title="DE Sport",DAZN 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5377.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5377.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DAZN 2 BAR FHD" group-title="DE Sport",DAZN 2 BAR FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3911.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3911.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DELUXE MUSIC FHD" group-title="DE",DELUXE MUSIC FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3839.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3839.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DELUXE MUSIC HD" group-title="DE",DELUXE MUSIC HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3548.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3548.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD (2)" group-title="DE",DISCOVERY CHANNEL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5378.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5378.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY FHD" group-title="DE",DISCOVERY FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3858.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3858.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISCOVERY HD (2)" group-title="DE",DISCOVERY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3727.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3727.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY CHANNEL FHD" group-title="DE",DISNEY CHANNEL FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3852.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3852.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY CHANNEL HD (2)" group-title="DE",DISNEY CHANNEL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3571.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3571.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY CINEMAGIC FHD" group-title="DE",DISNEY CINEMAGIC FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3853.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3853.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY CINEMAGIC HD (2)" group-title="DE",DISNEY CINEMAGIC HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3588.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3588.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY JUNIOR HD (2)" group-title="DE",DISNEY JUNIOR HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3587.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3587.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DISNEY XD HD (2)" group-title="DE",DISNEY XD HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3586.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3586.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DMAX FHD" group-title="DE",DMAX FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3841.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3841.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="DMAX HD (2)" group-title="DE",DMAX HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3572.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3572.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="E! ENTERTAINEMENT HD" group-title="DE",E! ENTERTAINEMENT HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3848.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3848.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="E! ENTERTAINMENT FHD" group-title="DE",E! ENTERTAINMENT FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3849.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3849.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="E! ENTERTAINMENT HD (2)" group-title="DE",E! ENTERTAINMENT HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5380.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5380.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="E! ENTERTAINM HD (2)" group-title="DE",E! ENTERTAINM HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5379.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5379.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="EURONEWS HD" group-title="DE",EURONEWS HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3584.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3584.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD (2)" group-title="DE Sport",EUROSPORT 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3601.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3601.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSPORT 2 HD (2)" group-title="DE Sport",EUROSPORT 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3602.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3602.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSPORT 2 XTRA HD (2)" group-title="DE Sport",EUROSPORT 2 XTRA HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3603.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3603.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSPORT 2XTRA HD (2)" group-title="DE Sport",EUROSPORT 2XTRA HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5381.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5381.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="EUROSPORT 2XTRA UHD (2)" group-title="DE Sport",EUROSPORT 2XTRA UHD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5382.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5382.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX FHD" group-title="DE",FOX FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3835.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3835.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX HD (2)" group-title="DE",FOX HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3532.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3532.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="FOX SERIE HD (2)" group-title="DE",FOX SERIE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5383.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5383.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="HEIMAT KANAL HD (2)" group-title="DE",HEIMAT KANAL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3573.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3573.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="HEIMATKANAL HD (2)" group-title="DE",HEIMATKANAL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5384.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5384.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="HISTORY FHD" group-title="DE",HISTORY FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3859.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3859.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="HISTORY HD (2)" group-title="DE",HISTORY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3597.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3597.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="JUKEBOX HD (2)" group-title="DE",JUKEBOX HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5385.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5385.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="JUNIOR HD (2)" group-title="DE",JUNIOR HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5386.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5386.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KABEL 1 DOKU HD (2)" group-title="DE",KABEL 1 DOKU HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5387.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5387.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KABEL 1 HD (2)" group-title="DE",KABEL 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/4959.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/4959.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KABEL EINS CLASSICA HD" group-title="DE",KABEL EINS CLASSICA HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3862.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3862.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KABEL EINS DOKU HD (2)" group-title="DE",KABEL EINS DOKU HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3574.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3574.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KABEL EINS FHD" group-title="DE",KABEL EINS FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3834.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3834.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KABEL EINS HD (2)" group-title="DE",KABEL EINS HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3556.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3556.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KIKA HD (2)" group-title="DE",KIKA HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3549.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3549.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="KINOWELT HD" group-title="DE",KINOWELT HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3863.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3863.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MDR S-ANHALT FHD" group-title="DE",MDR S-ANHALT FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3846.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3846.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOTORVISION TV HD (2)" group-title="DE",MOTORVISION TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5388.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5388.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MOTORVISON TV HD (2)" group-title="DE",MOTORVISON TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5389.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5389.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="MTV FHD" group-title="DE",MTV FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3851.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3851.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="N24 (2)" group-title="DE",N24 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5390.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5390.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="N24 DOKU HD" group-title="DE",N24 DOKU HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3836.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3836.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="N24 HD (2)" group-title="DE",N24 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3531.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3531.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO FHD" group-title="DE",NAT GEO FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3861.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3861.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEOGRAPHIC HD" group-title="DE",NAT GEOGRAPHIC HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3575.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3575.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO HD (2)" group-title="DE",NAT GEO HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5391.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5391.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD" group-title="DE",NAT GEO WILD FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3860.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3860.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NAT GEO WILD HD (2)" group-title="DE",NAT GEO WILD HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3598.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3598.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NDR HD (2)" group-title="DE",NDR HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3563.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3563.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NICKELODEON HD (2)" group-title="DE",NICKELODEON HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3576.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3576.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="NRJ TV HD (2)" group-title="DE",NRJ TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5392.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5392.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="N-TV FHD" group-title="DE",N-TV FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3840.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3840.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="N-TV HD (2)" group-title="DE",N-TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3562.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3562.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="PHOENIX HD (2)" group-title="DE",PHOENIX HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3557.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3557.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PLANET A&E FHD" group-title="DE",PLANET A&E FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3857.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3857.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PLANET A&E HD" group-title="DE",PLANET A&E HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3567.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3567.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PLANET HD (2)" group-title="DE",PLANET HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3577.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3577.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="POPCORN SELECT 6 HD" group-title="DE",POPCORN SELECT 6 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3900.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3900.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="PRO 7 HD (2)" group-title="DE",PRO 7 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5395.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5395.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PRO7 HD (2)" group-title="DE",PRO7 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5397.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5397.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="PROSIEBEN FHD" group-title="DE",PROSIEBEN FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3832.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3832.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PROSIEBEN HD" group-title="DE",PROSIEBEN HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3541.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3541.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PROSIEBEN FUN FHD" group-title="DE",PROSIEBEN FUN FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3833.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3833.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PROSIEBEN FUN HD" group-title="DE",PROSIEBEN FUN HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3550.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3550.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PRO 7 FUN HD (2)" group-title="DE",PRO 7 FUN HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5394.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5394.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="PRO 7 MAXX HD (2)" group-title="DE",PRO 7 MAXX HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5396.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5396.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="PROSIEBEN MAXX HD" group-title="DE",PROSIEBEN MAXX HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3578.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3578.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="QVC TV HD (2)" group-title="DE",QVC TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5398.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5398.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RBB BERLIN FHD" group-title="DE",RBB BERLIN FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3847.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3847.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ROMANCE TV" group-title="DE",ROMANCE TV
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3850.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3850.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL (2)" group-title="DE",RTL (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/4975.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/4975.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL* (2)" group-title="DE",RTL* (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5469.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5469.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL 2* (2)" group-title="DE",RTL 2* (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5468.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5468.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL 2 FHD" group-title="DE",RTL 2 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3828.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3828.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL 2 HD (2)" group-title="DE",RTL 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3543.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3543.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL CRIME FHD" group-title="DE",RTL CRIME FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3829.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3829.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL CRIME HD (2)" group-title="DE",RTL CRIME HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3558.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3558.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL FHD" group-title="DE",RTL FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3827.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3827.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL HD (2)" group-title="DE",RTL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3537.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3537.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL II HD (2)" group-title="DE",RTL II HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5399.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5399.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL LIVING HD (2)" group-title="DE",RTL LIVING HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3551.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3551.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL NITRO" group-title="DE",RTL NITRO
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/1424.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/1424.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL NITRO HD (2)" group-title="DE",RTL NITRO HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/4978.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/4978.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL PASSION FHD" group-title="DE",RTL PASSION FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3830.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3830.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL PASSION HD (2)" group-title="DE",RTL PASSION HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3559.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3559.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL PLUS" group-title="DE",RTL PLUS
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1425.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1425.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTL PLUS HD (2)" group-title="DE",RTL PLUS HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5400.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5400.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTS DEUX HD" group-title="DE",RTS DEUX HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/1461.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/1461.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="RTS UN HD" group-title="DE",RTS UN HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/1460.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/1460.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SAT 1* (2)" group-title="DE",SAT 1* (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5470.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5470.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SAT.1 BAYERN (2)" group-title="DE",SAT.1 BAYERN (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5401.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5401.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SAT.1 EMOTIONS (2)" group-title="DE",SAT.1 EMOTIONS (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5402.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5402.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SAT 1 FHD" group-title="DE",SAT 1 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3825.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3825.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SAT 1 GOLD HD (2)" group-title="DE",SAT 1 GOLD HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3554.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3554.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SAT 1 HD (2)" group-title="DE",SAT 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3538.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3538.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SAT.1 HD (2)" group-title="DE",SAT.1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5403.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5403.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SERVUS HD" group-title="DE",SERVUS HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3579.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3579.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SERVUS TV (2)" group-title="DE",SERVUS TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1427.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1427.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SIXX FHD" group-title="DE",SIXX FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3837.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3837.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SIXX HD (2)" group-title="DE",SIXX HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3536.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3536.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 10 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 10 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/4016.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/4016.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 10 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 10 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5405.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5405.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 1 FHD" group-title="DE Sport",SKY BUNDESLIGA 1 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3929.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3929.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 1 HD" group-title="DE Sport",SKY BUNDESLIGA 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3794.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3794.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 1 SD" group-title="DE Sport",SKY BUNDESLIGA 1 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3795.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3795.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 2 (2)" group-title="DE Sport",SKY BUNDESLIGA 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5406.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5406.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 2 FHD" group-title="DE Sport",SKY BUNDESLIGA 2 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3930.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3930.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 2 HD" group-title="DE Sport",SKY BUNDESLIGA 2 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3796.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3796.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 2 SD" group-title="DE Sport",SKY BUNDESLIGA 2 SD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3797.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3797.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 3 FHD (LIVEEVENT)" group-title="DE Sport",SKY BUNDESLIGA 3 FHD (LIVEEVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/4015.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/4015.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 3 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 3 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3798.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3798.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 3 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 3 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5407.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5407.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 4 FHD" group-title="DE Sport",SKY BUNDESLIGA 4 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3931.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3931.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 4 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 4 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3799.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3799.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 4 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 4 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5408.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5408.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 FHD" group-title="DE Sport",SKY BUNDESLIGA 5 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3932.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3932.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 5 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3800.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3800.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 5 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 5 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5409.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5409.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 6 FHD" group-title="DE Sport",SKY BUNDESLIGA 6 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3933.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3933.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 6 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 6 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3801.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3801.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 6 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 6 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5410.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5410.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 7 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 7 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3802.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3802.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 7 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 7 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5411.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5411.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 8 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3803.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3803.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 8 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 8 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5412.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5412.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 HD (LIVE EVENT)" group-title="DE Sport",SKY BUNDESLIGA 9 HD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3804.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3804.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY BUNDESLIGA 9 [ON MATCHDAY] (2)" group-title="DE Sport",SKY BUNDESLIGA 9 [ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5413.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5413.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SKY SPORT 10 HD" group-title="DE Sport",SKY SPORT 10 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3928.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3928.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 1 (2)" group-title="DE Sport",SKY SPORT 1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5434.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5434.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 1 FHD" group-title="DE Sport",SKY SPORT 1 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3917.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3917.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 1 HD (2)" group-title="DE Sport",SKY SPORT 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3916.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3916.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SKY SPORT 1 UHD (2)" group-title="DE Sport",SKY SPORT 1 UHD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/549.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/549.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 2 (2)" group-title="DE Sport",SKY SPORT 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5435.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5435.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 2 FHD" group-title="DE Sport",SKY SPORT 2 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3920.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3920.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 2 HD (2)" group-title="DE Sport",SKY SPORT 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3919.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3919.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SKY SPORT 3 (2)" group-title="DE Sport",SKY SPORT 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5436.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5436.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 3 FHD (LIVE EVENT)" group-title="DE Sport",SKY SPORT 3 FHD (LIVE EVENT)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/4014.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/4014.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 3 HD (2)" group-title="DE Sport",SKY SPORT 3 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3921.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3921.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 4 (2)" group-title="DE Sport",SKY SPORT 4 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5437.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5437.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 4 HD (2)" group-title="DE Sport",SKY SPORT 4 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3922.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3922.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 5 (2)" group-title="DE Sport",SKY SPORT 5 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5438.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5438.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 5 HD (2)" group-title="DE Sport",SKY SPORT 5 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3923.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3923.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 6 (2)" group-title="DE Sport",SKY SPORT 6 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5439.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5439.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 6 HD (2)" group-title="DE Sport",SKY SPORT 6 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3924.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3924.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 7 (2)" group-title="DE Sport",SKY SPORT 7 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5440.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5440.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 7 HD (2)" group-title="DE Sport",SKY SPORT 7 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3925.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3925.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 8 (2)" group-title="DE Sport",SKY SPORT 8 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5441.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5441.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 8 HD" group-title="DE Sport",SKY SPORT 8 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3926.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3926.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 8 HD[ON MATCHDAY] (2)" group-title="DE Sport",SKY SPORT 8 HD[ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5442.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5442.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 9 (2)" group-title="DE Sport",SKY SPORT 9 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5443.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5443.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 9 HD" group-title="DE Sport",SKY SPORT 9 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3927.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3927.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT 9 HD[ON MATCHDAY] (2)" group-title="DE Sport",SKY SPORT 9 HD[ON MATCHDAY] (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5444.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5444.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT AUSTRIA HD (2)" group-title="DE Sport",SKY SPORT AUSTRIA HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3599.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3599.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 10 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 10 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5446.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5446.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 1 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5445.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5445.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 2 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 2 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5447.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5447.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 3 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 3 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5448.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5448.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 4 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 4 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5449.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5449.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 5 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 5 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5450.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5450.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 6 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 6 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5451.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5451.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 7 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 7 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5452.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5452.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 8 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 8 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5453.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5453.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT BUNDESLIGA 9 HD (2)" group-title="DE Sport",SKY SPORT BUNDESLIGA 9 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5454.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5454.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT F1 (2)" group-title="DE Sport",SKY SPORT F1 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5455.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5455.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT NEWS FHD" group-title="DE Sport",SKY SPORT NEWS FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3913.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3913.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SPORT NEWS HD (2)" group-title="DE Sport",SKY SPORT NEWS HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3914.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3914.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SYFY HD (2)" group-title="DE",SKY SYFY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5456.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5456.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY UNIVERSAL HD (2)" group-title="DE",SKY UNIVERSAL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5457.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5457.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ZEE ONE HD (2)" group-title="DE",SKY ZEE ONE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5458.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5458.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SONY ENTERTAINMENT TV (2)" group-title="DE",SONY ENTERTAINMENT TV (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5459.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5459.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SONY TV HD" group-title="DE",SONY TV HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3842.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3842.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE FHD" group-title="DE",SPIEGEL GESCHICHTE FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3854.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3854.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE HD" group-title="DE",SPIEGEL GESCHICHTE HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3580.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3580.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTEN HD (2)" group-title="DE",SPIEGEL GESCHICHTEN HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5460.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5460.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICTHE HD (2)" group-title="DE",SPIEGEL GESCHICTHE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5461.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5461.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPIEGEL WISSEN FHD" group-title="DE",SPIEGEL WISSEN FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3855.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3855.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORT 1 FHD" group-title="DE Sport",SPORT 1 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3906.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3906.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORT 1+ HD" group-title="DE Sport",SPORT 1+ HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3907.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3907.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORT 1 HD (2)" group-title="DE Sport",SPORT 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3561.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3561.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORT 1HD (2)" group-title="DE Sport",SPORT 1HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/4926.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/4926.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORT1 US HD (2)" group-title="DE Sport",SPORT1 US HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5462.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5462.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORT DIGITAL FHD" group-title="DE Sport",SPORT DIGITAL FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3908.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3908.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SPORT DIGITAL HD (2)" group-title="DE Sport",SPORT DIGITAL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3909.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3909.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="SUPER RTL FHD" group-title="DE",SUPER RTL FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3831.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3831.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SUPER RTL HD (2)" group-title="DE",SUPER RTL HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3555.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3555.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SYFY FHD" group-title="DE",SYFY FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3838.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3838.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SYFY HD" group-title="DE",SYFY HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3542.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3542.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELE 5 HD (2)" group-title="DE",TELE 5 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3582.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3582.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELECLUB SPORT 1" group-title="DE Sport",TELECLUB SPORT 1
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3942.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3942.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELECLUB SPORT 2" group-title="DE Sport",TELECLUB SPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3943.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3943.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL 1 HD" group-title="DE Sport",TELEKOM FUSSBALL 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3934.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3934.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL 2 HD" group-title="DE Sport",TELEKOM FUSSBALL 2 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3935.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3935.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL 3 HD" group-title="DE Sport",TELEKOM FUSSBALL 3 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3936.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3936.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL 4 HD" group-title="DE Sport",TELEKOM FUSSBALL 4 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3937.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3937.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL 5 HD" group-title="DE Sport",TELEKOM FUSSBALL 5 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3938.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3938.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL6 HD" group-title="DE Sport",TELEKOM FUSSBALL6 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3939.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3939.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL 7 HD" group-title="DE Sport",TELEKOM FUSSBALL 7 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3940.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3940.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELEKOM FUSSBALL 8 HD" group-title="DE Sport",TELEKOM FUSSBALL 8 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3941.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3941.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TELE REGIONAL PASSAU (2)" group-title="DE",TELE REGIONAL PASSAU (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5463.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5463.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TLC HD (2)" group-title="DE",TLC HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3856.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3856.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TNT COMEDY FHD" group-title="DE",TNT COMEDY FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3866.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3866.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TNT COMEDY HD (2)" group-title="DE",TNT COMEDY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3867.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3867.ts?vavoo_auth=:'module'
 
 #EXTINF:-1 tvg-name="ELITE CINEMA 1 HD" group-title="DE Kino",ELITE CINEMA 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3902.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3902.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ELITE CINEMA 2 HD" group-title="DE Kino",ELITE CINEMA 2 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3903.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3903.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ELITE CINEMA 3 HD" group-title="DE Kino",ELITE CINEMA 3 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3904.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3904.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ELITE CINEMA 4 HD" group-title="DE Kino",ELITE CINEMA 4 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3905.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3905.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY 1 FHD" group-title="DE Kino",SKY 1 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3870.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3870.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY 1 HD" group-title="DE Kino",SKY 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3871.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3871.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ACTION FHD" group-title="DE Kino",SKY ACTION FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3878.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3878.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ACTION HD (2)" group-title="DE Kino",SKY ACTION HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3594.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3594.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ARTS FHD" group-title="DE Kino",SKY ARTS FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3872.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3872.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ATLANTIC1 HD (2)" group-title="DE Kino",SKY ATLANTIC1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/4983.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/4983.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ATLANTIC FHD" group-title="DE Kino",SKY ATLANTIC FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3880.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3880.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ATLANTIC HD" group-title="DE Kino",SKY ATLANTIC HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3596.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3596.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ATLATIC HD (2)" group-title="DE Kino",SKY ATLATIC HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5404.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5404.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA + 1 FHD" group-title="DE Kino",SKY CINEMA + 1 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3875.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3875.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA +1 HD" group-title="DE Kino",SKY CINEMA +1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3592.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3592.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA 1 HD (2)" group-title="DE Kino",SKY CINEMA 1 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/521.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/521.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA24 FHD" group-title="DE Kino",SKY CINEMA24 FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3876.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3876.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA 24 HD (2)" group-title="DE Kino",SKY CINEMA 24 HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3593.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3593.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA ACITON HD (2)" group-title="DE Kino",SKY CINEMA ACITON HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5414.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5414.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY FHD" group-title="DE Kino",SKY CINEMA FAMILY FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3883.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3883.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD (2)" group-title="DE Kino",SKY CINEMA FAMILY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3884.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3884.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA FHD" group-title="DE Kino",SKY CINEMA FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3873.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3873.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA HD (2)" group-title="DE Kino",SKY CINEMA HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3591.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3591.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA HITS FHD" group-title="DE Kino",SKY CINEMA HITS FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3874.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3874.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY CINEMA HITS HD (2)" group-title="DE Kino",SKY CINEMA HITS HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3882.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3882.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY COMEDY HD (2)" group-title="DE Kino",SKY COMEDY HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3879.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3879.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY EMOTION HD (2)" group-title="DE Kino",SKY EMOTION HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3595.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3595.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY KINOWELT HD (2)" group-title="DE Kino",SKY KINOWELT HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5415.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5415.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY KRIME HD (2)" group-title="DE Kino",SKY KRIME HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5416.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5416.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY KRIMI HD" group-title="DE Kino",SKY KRIMI HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3877.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3877.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY NOSTALGIE HD (2)" group-title="DE Kino",SKY NOSTALGIE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3881.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3881.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY ROMANCE TV HD (2)" group-title="DE Kino",SKY ROMANCE TV HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5417.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5417.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="SKY SELECT 1 HD" group-title="DE Kino",SKY SELECT 1 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3885.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3885.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 1 (2)" group-title="DE Kino" tvg-logo="https://vjackson.info/live/logo?channel=545&blob=5274759772056793706",SKY SELECT 1 (2)
 #EXTINF:-1 tvg-name="SKY SELECT 2 (2)" group-title="DE Kino",SKY SELECT 2 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5426.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5426.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 2 HD" group-title="DE Kino",SKY SELECT 2 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3886.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3886.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 3 (2)" group-title="DE Kino",SKY SELECT 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5427.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5427.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 3 HD" group-title="DE Kino",SKY SELECT 3 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3887.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3887.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 4 (2)" group-title="DE Kino",SKY SELECT 4 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5428.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5428.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 4 HD" group-title="DE Kino",SKY SELECT 4 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3888.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3888.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 5 (2)" group-title="DE Kino",SKY SELECT 5 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5429.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5429.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 5 HD" group-title="DE Kino",SKY SELECT 5 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3889.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3889.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 6 (2)" group-title="DE Kino",SKY SELECT 6 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5430.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5430.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 6 HD" group-title="DE Kino",SKY SELECT 6 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3890.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3890.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 7 (2)" group-title="DE Kino",SKY SELECT 7 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5431.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5431.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 7 HD" group-title="DE Kino",SKY SELECT 7 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3891.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3891.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 8 (2)" group-title="DE Kino",SKY SELECT 8 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5432.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5432.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 8 HD" group-title="DE Kino",SKY SELECT 8 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3892.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3892.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 9 (2)" group-title="DE Kino",SKY SELECT 9 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5433.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5433.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 9 HD" group-title="DE Kino",SKY SELECT 9 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3893.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3893.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="SKY SELECT 10 HD" group-title="DE Kino",SKY SELECT 10 HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3894.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3894.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 10KINDER (2)" group-title="DE Kino",SKY SELECT 10KINDER (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5418.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5418.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 11 (2)" group-title="DE Kino",SKY SELECT 11 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/5419.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/5419.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 11" group-title="DE Kino",SKY SELECT 11 
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/545.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/545.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 12 (2)" group-title="DE Kino",SKY SELECT 12 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/5420.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/5420.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 13 (2)" group-title="DE Kino",SKY SELECT 13 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/5421.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/5421.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 14 (2)" group-title="DE Kino",SKY SELECT 14 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5422.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5422.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 15 (2)" group-title="DE Kino",SKY SELECT 15 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5423.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5423.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 16 (2)" group-title="DE Kino",SKY SELECT 16 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5424.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5424.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="SKY SELECT 17 (2)" group-title="DE Kino",SKY SELECT 17 (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5425.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5425.ts?vavoo_auth=:'module'
 
 
 #EXTINF:-1 tvg-name="TNT FILM HD (2)" group-title="DE Kino",TNT FILM HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/3590.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/3590.ts?vavoo_auth=:'module'
 
 
 
 #EXTINF:-1 tvg-name="TNT SERIE HD (2)" group-title="DE",TNT SERIE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/4998.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/4998.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TNT SERIES FHD" group-title="DE",TNT SERIES FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.99:8000/a/guest/live/3865.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.99:8000/a/guest/live/3865.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TNT SERIES HD" group-title="DE",TNT SERIES HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3589.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3589.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="TOGGO PLUS HD (2)" group-title="DE",TOGGO PLUS HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5464.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5464.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="UNIVERSAL FHD" group-title="DE",UNIVERSAL FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3869.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3869.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="UNIVERSAL HD" group-title="DE",UNIVERSAL HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3843.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3843.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="UNNIVERSAL HD" group-title="DE",UNNIVERSAL HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3728.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3728.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="VOX* (2)" group-title="DE",VOX* (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/5471.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/5471.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="VOX FHD" group-title="DE",VOX FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3826.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3826.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="VOX HD (2)" group-title="DE",VOX HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3540.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3540.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="WDR HD (2)" group-title="DE",WDR HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3539.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3539.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="WELT DER WUNTER HD" group-title="DE",WELT DER WUNTER HD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3845.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3845.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="WELT HD (2)" group-title="DE",WELT HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/5465.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/5465.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="WWE HD (2)" group-title="DE",WWE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/5466.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/5466.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="XITE HD (2)" group-title="DE",XITE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/5467.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/5467.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ZDF FHD" group-title="DE",ZDF FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3824.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3824.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ZDF HD (2)" group-title="DE",ZDF HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.141.106:8000/a/guest/live/3533.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.141.106:8000/a/guest/live/3533.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ZDF INFO" group-title="DE",ZDF INFO
 #EXTVLCOPT:http-user-agent=VAVOO
-http://89.187.169.101:8000/a/guest/live/1406.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://89.187.169.101:8000/a/guest/live/1406.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ZDF INFO HD (2)" group-title="DE",ZDF INFO HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.81:8000/a/guest/live/3544.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.81:8000/a/guest/live/3544.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ZDF NEO HD (2)" group-title="DE",ZDF NEO HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://190.2.138.140:8000/a/guest/live/3545.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://190.2.138.140:8000/a/guest/live/3545.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ZEE ONE FHD" group-title="DE",ZEE ONE FHD
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.92:8000/a/guest/live/3864.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.92:8000/a/guest/live/3864.ts?vavoo_auth=:'module'
 #EXTINF:-1 tvg-name="ZEE ONE HD (2)" group-title="DE",ZEE ONE HD (2)
 #EXTVLCOPT:http-user-agent=VAVOO
-http://178.132.4.145:8000/a/guest/live/3560.ts?vavoo_auth=:'module'|User-Agent=VAVOO
+http://178.132.4.145:8000/a/guest/live/3560.ts?vavoo_auth=:'module'
 "endegelende
  
  
