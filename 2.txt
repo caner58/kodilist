@@ -1,5 +1,5 @@
 ﻿anfang"
-#EXTM3U#EXTINF:-1 ,CA58
+EXTINF:-1 ,CA58
 http://ca58.xyz/test
 
 #EXTINF:-1 tvg-name="TRT 1 FHD" group-title="TR",TRT 1 FHD
