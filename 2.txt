@@ -1,7 +1,6 @@
 ﻿anfang"
 
-#EXTM3U#EXTINF:-1 ,CA58
-http://ca58.xyz/test
+#EXTM3U
 #EXTINF:-1 tvg-name="TRT 1 FHD" group-title="TR",TRT 1 FHD
 http://190.2.141.106:8000/a/willene/live/3610.ts?vavoo_auth=:'module'?|User-agent=VAVOO
 
